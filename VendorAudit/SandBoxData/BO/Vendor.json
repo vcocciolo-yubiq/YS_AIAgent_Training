@@ -1,0 +1,112 @@
+[
+  {
+    "Id": "3",
+    "Name": "CHARGEURS PCC ITALY S.P.A.",
+    "Brand": "6,11",
+    "Category": "2",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.chargeursppc.it",
+    "AIReputationDoc": "4",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "6",
+    "Name": "INTERNATIONAL DIRECT PACKAGING (IDP)",
+    "Brand": "3,7,9",
+    "Category": "6",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.idp.it",
+    "AIReputationDoc": "6",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "8",
+    "Name": "AMAL EMBROIDERIES PVT LTD",
+    "Brand": "3,7,10",
+    "Category": "8",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.embroideries.it",
+    "AIReputationDoc": null,
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "5",
+    "Name": "CARAVEL PELLI PREGIATE SPA",
+    "Brand": "4,6,8,11",
+    "Category": "5",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.caravel.it",
+    "AIReputationDoc": "5",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "2",
+    "Name": "ACHILLE PINTO SPA",
+    "Brand": "3,5,10",
+    "Category": "3",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.achillepinto.it",
+    "AIReputationDoc": "7",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "10",
+    "Name": "LAMPA S.R.L. SOCIETA' BENEFIT",
+    "Brand": "3,6,8",
+    "Category": "10",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.lampa.it",
+    "AIReputationDoc": null,
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "4",
+    "Name": "LATTANZIO S.R.L.",
+    "Brand": "2,4,6,8",
+    "Category": "4",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.lattanzio.it",
+    "AIReputationDoc": null,
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "1",
+    "Name": "Stella International Trading (Macao Commercial Offshore) Limited",
+    "Brand": "1,7,11",
+    "Category": "1",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.macao.it",
+    "AIReputationDoc": null,
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "11",
+    "Name": "TACCHIFICIO 2001 S.R.L",
+    "Brand": "9,1",
+    "Category": "7",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.yumjun.com",
+    "AIReputationDoc": null,
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "9",
+    "Name": "TUSCANIA INDUSTRIA CONCIARIA S.P.A.",
+    "Brand": "1,3,9",
+    "Category": "9",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.tuscania.com",
+    "AIReputationDoc": null,
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "7",
+    "Name": "TESSITURA DI CREVACUORE S.P.A.",
+    "Brand": "1,5",
+    "Category": "2",
+    "ContactUser": "MarkDonovan",
+    "WebSite": "www.crevacuore.it",
+    "AIReputationDoc": null,
+    "BusinessObjectType": "Vendor"
+  }
+]

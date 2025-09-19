@@ -1,0 +1,131 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "Sandbox",
+          "type": "coreclr",
+          "request": "launch",
+          "program": "${command:yubiq.getSandboxProgram}",
+          // "program": "${command:yubiq.getSimulatorPath}",
+          "args":"${command:yubiq.getSandboxArgs}", 
+          // "args":["${workspaceFolder}"], 
+          "cwd": "${command:yubiq.getSimulatorFolderPath}",
+          // "cwd": "${command:yubiq.getSimulatorFolderPath}",
+          "serverReadyAction": {
+              "pattern": "listening on: (https?://\\S+|[0-9]+)",
+              "uriFormat": "%s",
+              "action": "openExternally"
+            },
+            "preLaunchTask": "dotnet: build",
+          "env": {
+              "ASPNETCORE_ENVIRONMENT": "Development"
+          }
+      },
+      {
+          "name": "Y5-QR",
+          "type": "clr",
+          "request": "launch",
+          "program": "${command:yubiq.getY5RuntimePath}/SDK/temp/qrengine/QuickRoute.Service.exe",
+          "args":["-batch"],
+          "cwd": "${command:yubiq.getY5RuntimePath}/SDK/temp/qrengine",
+          // "serverReadyAction": {
+          //     "pattern": "listening on: (https?://\\S+|[0-9]+)",
+          //     "uriFormat": "%s",
+          //     "action": "openExternally"
+          //   },
+          // "env": {
+          //     "ASPNETCORE_ENVIRONMENT": "Development"
+          // },
+          "presentation": {
+            "hidden": true
+          },
+          "logging": {
+            "moduleLoad": false
+        }
+        
+      },
+      {
+        "name": "Y5-DPA",
+        "type": "clr",
+        "request": "launch",
+        "program": "C:/Program Files/IIS Express/iisexpress",
+        "args":["/path:${command:yubiq.getY5RuntimePathBackSlashed}\\SDK\\temp\\dpa","/port:9091","/clr:v4.0"],
+        "cwd": "${command:yubiq.getY5RuntimePath}/SDK/manager",
+        // "serverReadyAction": {
+        //     "pattern": "listening on: (https?://\\S+|[0-9]+)",
+        //     "uriFormat": "%s",
+        //     "action": "openExternally"
+        //   },
+        // "env": {
+        //     "ASPNETCORE_ENVIRONMENT": "Development"
+        // },
+        "presentation": {
+          "hidden": true
+        },
+        "logging": {
+          "moduleLoad": false
+      }
+    },
+      {
+          "name": "Y5-UI",
+          "type": "coreclr",
+          "request": "launch",
+          "program": "${command:yubiq.getY5RuntimePath}/YUBIQ-UI/YUBIQ.UI/bin/Debug/net8.0/YUBIQ.UI.exe",
+          "args":["${workspaceFolder}"],
+          "cwd": "${command:yubiq.getY5RuntimePath}/YUBIQ-UI/YUBIQ.UI/bin/Debug/net8.0",
+          "serverReadyAction": {
+              "pattern": "listening on: (https?://\\S+|[0-9]+)",
+              "uriFormat": "%s",
+              "action": "openExternally"
+            },
+          "env": {
+              "ASPNETCORE_ENVIRONMENT": "Development"
+          },
+          "presentation": {
+            "hidden": true
+          },
+          "logging": {
+            "moduleLoad": false
+        }
+      },
+      {
+          "name": "Y5-DataProvider",
+          "type": "coreclr",
+          "request": "launch",
+          "program": "${command:yubiq.getY5RuntimePath}/YUBIQ-DataProvider/YUBIQ.DataProvider/bin/Debug/net7.0/YUBIQ.DataProvider.exe",
+          "args":["${workspaceFolder}"],
+          "cwd": "${command:yubiq.getY5RuntimePath}/YUBIQ-DataProvider/YUBIQ.DataProvider/bin/Debug/net7.0",
+          "serverReadyAction": {
+              "pattern": "listening on: (https?://\\S+|[0-9]+)",
+              "uriFormat": "%s",
+              "action": "openExternally"
+            },
+            
+          "env": {
+              "ASPNETCORE_ENVIRONMENT": "Development"
+          },
+          "presentation": {
+            "hidden": true
+          },
+          "logging": {
+            "moduleLoad": false
+        }
+      }
+  ],
+  "compounds": [
+    {
+      "name": "YUBIQ5",
+      "configurations": ["Y5-DP A","Y5-QR","Y5-UI", "Y5-DataProvider"],
+      "preLaunchTask": "yubiqstudio: buildinjector",
+      "stopAll": true
+    },
+    {
+      "name": "Sandbox+DPA",
+      "configurations": ["Y5-DPA","Sandbox"],
+      "stopAll": true
+    }
+  ]
+}

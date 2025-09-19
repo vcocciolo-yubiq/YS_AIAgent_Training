@@ -1,0 +1,324 @@
+[
+  {
+    "Id": "34",
+    "Name": "Kuala Lumpur Charm",
+    "Brand": "1,7,11",
+    "Location": "Malaysia - Kuala Lumpur",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "36",
+    "Name": "Hanoi Radiance",
+    "Brand": "3,5,10",
+    "Location": "Vietnam - Hanoi",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "39",
+    "Name": "Nairobi Splendor",
+    "Brand": "3,6,8",
+    "Location": "Kenya - Nairobi",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "41",
+    "Name": "Berlin Chic",
+    "Brand": "2,4,6,8",
+    "Location": "Germany - Berlin",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "42",
+    "Name": "Mumbai Radiance",
+    "Brand": "4,6,8,11",
+    "Location": "India - Mumbai",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "43",
+    "Name": "Italy Elegance",
+    "Brand": "3,7,9",
+    "Location": "Italy - Florence",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "44",
+    "Name": "Seoul Elegance",
+    "Brand": "1,5",
+    "Location": "South Korea - Seoul",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "45",
+    "Name": "Sydney Vogue",
+    "Brand": "3,7,10",
+    "Location": "Australia - Sydney",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "46",
+    "Name": "Cape Town Luxe",
+    "Brand": "1,3,9",
+    "Location": "South Africa - Cape Town",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "6",
+    "Name": "Istanbul Allure",
+    "Brand": "3,6,8",
+    "Location": "Turkey - Istanbul",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "7",
+    "Name": "Bangkok Radiance",
+    "Brand": "1,5,9",
+    "Location": "Thailand - Bangkok",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "13",
+    "Name": "Zurich Radiance",
+    "Brand": "1,6,8",
+    "Location": "Switzerland - Zurich",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "14",
+    "Name": "Lisbon Allure",
+    "Brand": "2,5,9",
+    "Location": "Portugal - Lisbon",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "4",
+    "Name": "Moscow Elegance",
+    "Brand": "1,3,5,9",
+    "Location": "Russia - Moscow",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "11",
+    "Name": "Stockholm Vogue",
+    "Brand": "2,4,9",
+    "Location": "Sweden - Stockholm",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "3",
+    "Name": "Dubai Splendor",
+    "Brand": "2,6,8",
+    "Location": "UAE - Dubai",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "8",
+    "Name": "Helsinki Grace",
+    "Brand": "2,4,7",
+    "Location": "Finland - Helsinki",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "10",
+    "Name": "Copenhagen Chic",
+    "Brand": "1,5,8",
+    "Location": "Denmark - Copenhagen",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "9",
+    "Name": "Oslo Elegance",
+    "Brand": "3,6,10",
+    "Location": "Norway - Oslo",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "15",
+    "Name": "Madrid Splendor",
+    "Brand": "3,7,10",
+    "Location": "Spain - Madrid",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "5",
+    "Name": "Buenos Aires Charm",
+    "Brand": "2,4,7,11",
+    "Location": "Argentina - Buenos Aires",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "2",
+    "Name": "Shanghai Grace",
+    "Brand": "4,7,10",
+    "Location": "China - Shanghai",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "16",
+    "Name": "Barcelona Charm",
+    "Brand": "1,4,8",
+    "Location": "Spain - Barcelona",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "17",
+    "Name": "Athens Grace",
+    "Brand": "2,6,9",
+    "Location": "Greece - Athens",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "18",
+    "Name": "Warsaw Elegance",
+    "Brand": "3,5,11",
+    "Location": "Poland - Warsaw",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "19",
+    "Name": "Prague Allure",
+    "Brand": "1,7,10",
+    "Location": "Czech Republic - Prague",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "20",
+    "Name": "Budapest Radiance",
+    "Brand": "2,4,8",
+    "Location": "Hungary - Budapest",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "21",
+    "Name": "Brussels Chic",
+    "Brand": "3,6,9",
+    "Location": "Belgium - Brussels",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "22",
+    "Name": "Amsterdam Vogue",
+    "Brand": "1,5,7",
+    "Location": "Netherlands - Amsterdam",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "23",
+    "Name": "Dublin Prestige",
+    "Brand": "2,4,10",
+    "Location": "Ireland - Dublin",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "24",
+    "Name": "Edinburgh Splendor",
+    "Brand": "3,6,8",
+    "Location": "UK - Edinburgh",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "25",
+    "Name": "Reykjavik Grace",
+    "Brand": "1,5,9",
+    "Location": "Iceland - Reykjavik",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "26",
+    "Name": "Havana Charm",
+    "Brand": "2,7,11",
+    "Location": "Cuba - Havana",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "27",
+    "Name": "Kingston Allure",
+    "Brand": "3,6,10",
+    "Location": "Jamaica - Kingston",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "28",
+    "Name": "Lima Radiance",
+    "Brand": "1,4,8",
+    "Location": "Peru - Lima",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "29",
+    "Name": "Bogota Chic",
+    "Brand": "2,5,9",
+    "Location": "Colombia - Bogota",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "31",
+    "Name": "Caracas Prestige",
+    "Brand": "1,6,8",
+    "Location": "Venezuela - Caracas",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "30",
+    "Name": "Santiago Vogue",
+    "Brand": "3,7,11",
+    "Location": "Chile - Santiago",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "32",
+    "Name": "Manila Splendor",
+    "Brand": "2,4,10",
+    "Location": "Philippines - Manila",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "35",
+    "Name": "Singapore Allure",
+    "Brand": "2,6,8",
+    "Location": "Singapore - Singapore",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "33",
+    "Name": "Jakarta Grace",
+    "Brand": "3,5,9",
+    "Location": "Indonesia - Jakarta",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "38",
+    "Name": "Casablanca Vogue",
+    "Brand": "2,7,11",
+    "Location": "Morocco - Casablanca",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "37",
+    "Name": "Riyadh Chic",
+    "Brand": "1,4,9",
+    "Location": "Saudi Arabia - Riyadh",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "40",
+    "Name": "London Prestige",
+    "Brand": "1,5,9",
+    "Location": "UK - London",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "12",
+    "Name": "Vienna Prestige",
+    "Brand": "3,7,11",
+    "Location": "Austria - Vienna",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "1",
+    "Name": "Rio Glam",
+    "Brand": "2,5",
+    "Location": "Brazil - Rio",
+    "BusinessObjectType": "Vendor"
+  }
+]

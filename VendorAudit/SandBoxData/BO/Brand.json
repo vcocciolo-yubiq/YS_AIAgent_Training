@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "12",
+    "Code": "KER",
+    "Name": "Kering",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "13",
+    "Code": "KEY",
+    "Name": "Kering Eyewear",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "14",
+    "Code": "ULN",
+    "Name": "Ulysse Nardin",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "15",
+    "Code": "GPE",
+    "Name": "Girard-Perregaux",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "10",
+    "Code": "PML",
+    "Name": "Pomellato",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "2",
+    "Code": "QEE",
+    "Name": "Qeelin",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "4",
+    "Code": "BAL",
+    "Name": "Balenciaga",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "6",
+    "Code": "BOU",
+    "Name": "Boucheron",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "8",
+    "Code": "BV",
+    "Name": "Bottega Veneta",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "7",
+    "Code": "DDO",
+    "Name": "DoDo",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "11",
+    "Code": "YSL",
+    "Name": "Saint Laurent",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "3",
+    "Code": "???",
+    "Name": "Ginori 1735",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "9",
+    "Code": "AMQ",
+    "Name": "Alexander McQueen",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "1",
+    "Code": "GG",
+    "Name": "Gucci",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "5",
+    "Code": "BRI",
+    "Name": "Brioni",
+    "BusinessObjectType": "Brand"
+  }
+]

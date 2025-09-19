@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "6",
+    "Name": "Follow-Ups (Holiday Observations)",
+    "BusinessObjectType": "AuditCategory"
+  },
+  {
+    "Id": "7",
+    "Name": "Follow-Ups (Festive Ordinary)",
+    "BusinessObjectType": "AuditCategory"
+  },
+  {
+    "Id": "8",
+    "Name": "Follow-Ups (Overnight Ordinary)",
+    "BusinessObjectType": "AuditCategory"
+  },
+  {
+    "Id": "4",
+    "Name": "Follow-Ups (Ordinary)",
+    "BusinessObjectType": "AuditCategory"
+  },
+  {
+    "Id": "5",
+    "Name": "Follow-Ups (Overnight Observations)",
+    "BusinessObjectType": "AuditCategory"
+  },
+  {
+    "Id": "2",
+    "Name": "Global Audits (Monitoring)",
+    "BusinessObjectType": "AuditCategory"
+  },
+  {
+    "Id": "3",
+    "Name": "Global Audits (Biennial Monitoring)",
+    "BusinessObjectType": "AuditCategory"
+  },
+  {
+    "Id": "1",
+    "Name": "Global Audits (Activation)",
+    "BusinessObjectType": "AuditCategory"
+  }
+]

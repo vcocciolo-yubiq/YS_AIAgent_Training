@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "3",
+    "Name": "Partially compliant",
+    "BusinessObjectType": "AuditResponseStatus"
+  },
+  {
+    "Id": "2",
+    "Name": "Not compliant",
+    "BusinessObjectType": "AuditResponseStatus"
+  },
+  {
+    "Id": "1",
+    "Name": null,
+    "BusinessObjectType": "AuditResponseStatus"
+  },
+  {
+    "Id": "4",
+    "Name": "Compliant",
+    "BusinessObjectType": "AuditResponseStatus"
+  }
+]

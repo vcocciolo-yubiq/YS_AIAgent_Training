@@ -1,0 +1,68 @@
+[
+  {
+    "Id": "345",
+    "Name": null,
+    "Type": "Secondary",
+    "PotentialVendor": "6",
+    "EstCost": "68000",
+    "Description": "Una scatola di cartone bianco lucido con chiusura magnetica, rivestita internamente in raso per migliorare l’esperienza di unboxing. ",
+    "EffectiveCost": "75000",
+    "EffectiveVendor": "5",
+    "BusinessObjectType": "Package"
+  },
+  {
+    "Id": "344",
+    "Name": null,
+    "Type": "Primary",
+    "PotentialVendor": "6",
+    "EstCost": "150000",
+    "Description": "Un barattolo airless da 50 ml in vetro satinato con tappo argentato.  Il barattolo deve presentare un logo in lamina d’oro e una tipografia minimalista per un aspetto sofisticato. ",
+    "EffectiveCost": "150000",
+    "EffectiveVendor": "2",
+    "BusinessObjectType": "Package"
+  },
+  {
+    "Id": "343",
+    "Name": null,
+    "Type": "Secondary",
+    "PotentialVendor": "6",
+    "EstCost": "100000",
+    "Description": "Una scatola di cartone riciclabile con finitura soft-touch, stampata con inchiostro di soia ecologico. La scatola deve presentare un sottile motivo floreale, i benefici del prodotto elencati sul lato e un codice QR che rimanda alle istruzioni d’uso.\r\n",
+    "EffectiveCost": "105000",
+    "EffectiveVendor": "4",
+    "BusinessObjectType": "Package"
+  },
+  {
+    "Id": "342",
+    "Name": null,
+    "Type": "Primary",
+    "PotentialVendor": "2",
+    "EstCost": "125000",
+    "Description": "Una bottiglia in vetro ambrato da 30 ml con contagocce nero opaco, progettata per proteggere il siero dalla luce UV e preservarne l’integrità. La bottiglia deve avere un’etichetta minimalista con testo bianco e il logo del marchio in rilievo per un a",
+    "EffectiveCost": "123000",
+    "EffectiveVendor": "4",
+    "BusinessObjectType": "Package"
+  },
+  {
+    "Id": "379",
+    "Name": null,
+    "Type": "Secondary",
+    "PotentialVendor": "2",
+    "EstCost": "70000",
+    "Description": "Cartone riciclabile",
+    "EffectiveCost": "60000",
+    "EffectiveVendor": "6",
+    "BusinessObjectType": "Package"
+  },
+  {
+    "Id": "378",
+    "Name": null,
+    "Type": "Primary",
+    "PotentialVendor": "1",
+    "EstCost": "560000",
+    "Description": "Bottiglia vetro",
+    "EffectiveCost": "68000",
+    "EffectiveVendor": "3",
+    "BusinessObjectType": "Package"
+  }
+]

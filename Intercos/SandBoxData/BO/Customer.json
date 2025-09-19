@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "7",
+    "Name": "Herba Derma",
+    "Brand": "Acca Kappa",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "9",
+    "Name": "BellaNaturae",
+    "Brand": "Aesop",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "10",
+    "Name": "Equilibria Cosmetici",
+    "Brand": "Drunk Elephant",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "3",
+    "Name": "VerdeVita Bio",
+    "Brand": "Neve Cosmetics",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "4",
+    "Name": "Glow & Co.",
+    "Brand": "Charlotte Tilbury",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "1",
+    "Name": "Naturalia Cosmetics",
+    "Brand": "L’Erbolario",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "5",
+    "Name": "Essenza Mediterranea",
+    "Brand": "Furtuna Skin",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "8",
+    "Name": "Dermacare Studio",
+    "Brand": "Origins",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "6",
+    "Name": "Lumineux Beauty",
+    "Brand": "La Roche‑Posay",
+    "BusinessObjectType": "Customer"
+  },
+  {
+    "Id": "2",
+    "Name": "PureSkin Labs",
+    "Brand": "The Ordinary",
+    "BusinessObjectType": "Customer"
+  }
+]

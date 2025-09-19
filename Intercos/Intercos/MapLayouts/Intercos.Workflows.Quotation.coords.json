@@ -1,0 +1,146 @@
+{
+  "Intercos.Workflows.Quotation.CreateItem": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.CreateItem",
+    "x": 118.99946193486116,
+    "y": 379.99996162626553,
+    "fx": 118.99946193486116,
+    "fy": 379.99996162626553
+  },
+  "Intercos.Workflows.Quotation.Archive": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.Archive",
+    "x": 2646.1044317253672,
+    "y": 938.9279200975374,
+    "fx": 2646.1044317253672,
+    "fy": 938.9279200975374
+  },
+  "Intercos.Workflows.Quotation.NewBRIEF": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.NewBRIEF",
+    "x": 421.12218662948317,
+    "y": 246,
+    "fx": 421.12218662948317,
+    "fy": 246
+  },
+  "Intercos.Workflows.Quotation.FormulaDefinition": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.FormulaDefinition",
+    "x": 609,
+    "y": 470,
+    "fx": 609,
+    "fy": 470
+  },
+  "Intercos.Workflows.Quotation.TechnologySelection": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.TechnologySelection",
+    "x": 1872.772188007024,
+    "y": 618.6687754933654,
+    "fx": 1872.772188007024,
+    "fy": 618.6687754933654
+  },
+  "Intercos.Workflows.Quotation.TechnologyValidation": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.TechnologyValidation",
+    "x": 1280.645865330809,
+    "y": 351.10532688502633,
+    "fx": 1280.645865330809,
+    "fy": 351.10532688502633
+  },
+  "Intercos.Workflows.Quotation.ControllingConfiguration": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.ControllingConfiguration",
+    "x": 2722.13623046875,
+    "y": 591.3928833007812,
+    "fx": 2722.13623046875,
+    "fy": 591.3928833007812
+  },
+  "Intercos.Workflows.Quotation.FormulaValidation": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.FormulaValidation",
+    "x": 882.3498554988839,
+    "y": 658.54879250716,
+    "fx": 882.3498554988839,
+    "fy": 658.54879250716
+  },
+  "Intercos.Workflows.Quotation.SalesConfiguration": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.SalesConfiguration",
+    "x": 2285.1375732421875,
+    "y": 588.3992004394531,
+    "fx": 2285.1375732421875,
+    "fy": 588.3992004394531
+  },
+  "Intercos.Workflows.Quotation.IsLimitReached": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.IsLimitReached",
+    "x": 773,
+    "y": 755,
+    "fx": 773,
+    "fy": 755
+  },
+  "Intercos.Workflows.Quotation.CheckThreshold": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.CheckThreshold",
+    "x": 1249.4970092773438,
+    "y": 483.17822265625,
+    "fx": 1249.4970092773438,
+    "fy": 483.17822265625
+  },
+  "Intercos.Workflows.Quotation.SelectSite": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.SelectSite",
+    "x": 1487.83251953125,
+    "y": 492.6841735839844,
+    "fx": 1487.83251953125,
+    "fy": 492.6841735839844
+  },
+  "Intercos.Workflows.Quotation.RoutingAndInvestmentValidation": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.RoutingAndInvestmentValidation",
+    "x": 2161.49072265625,
+    "y": 943.8919372558594,
+    "fx": 2161.49072265625,
+    "fy": 943.8919372558594
+  },
+  "Intercos.Workflows.Quotation.WaitingForPackaging": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.WaitingForPackaging",
+    "x": 1612.402000427246,
+    "y": 797.1740264892578,
+    "fx": 1612.402000427246,
+    "fy": 797.1740264892578
+  },
+  "Intercos.Workflows.Quotation.EditQuotationPackaging": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.EditQuotationPackaging",
+    "x": 841,
+    "y": 919,
+    "fx": 841,
+    "fy": 919
+  },
+  "Intercos.Workflows.Quotation.EditQuotPackaging": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.EditQuotPackaging",
+    "x": 835.8611679077148,
+    "y": 925.5505752563477,
+    "fx": 835.8611679077148,
+    "fy": 925.5505752563477
+  },
+  "Intercos.Workflows.Quotation.CheckThresholdAfter": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.CheckThresholdAfter",
+    "x": 2010.6986083984375,
+    "y": 1049.4644775390625,
+    "fx": 2010.6986083984375,
+    "fy": 1049.4644775390625
+  },
+  "Intercos.Workflows.Quotation.PriceDefinition": {
+    "wfName": "Intercos.Workflows.Quotation",
+    "id": "Intercos.Workflows.Quotation.PriceDefinition",
+    "x": 2503.28271484375,
+    "y": 727.3054809570312,
+    "fx": 2503.28271484375,
+    "fy": 727.3054809570312
+  }
+}

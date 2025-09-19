@@ -1,0 +1,68 @@
+[
+  {
+    "Id": "7",
+    "Name": "Pozzoli S.p.A.",
+    "Code": "SUP007",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "8",
+    "Name": "Mossi & Ghisolfi",
+    "Code": "SUP008",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "9",
+    "Name": "Botta EcoPackaging",
+    "Code": "SUP009",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "10",
+    "Name": "Abon Plastic",
+    "Code": "SUP010",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "11",
+    "Name": "Mosaiq Group",
+    "Code": "SUP011",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "5",
+    "Name": "Laboratori Effe",
+    "Code": "SUP005",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "4",
+    "Name": "Bioltre Laboratori",
+    "Code": "SUP004",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "2",
+    "Name": "TeamBeauty SRL",
+    "Code": "SUP002",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "6",
+    "Name": "Duegi Scatolificio",
+    "Code": "SUP006",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "1",
+    "Name": "Capardoni",
+    "Code": "SUP001",
+    "BusinessObjectType": "Vendor"
+  },
+  {
+    "Id": "3",
+    "Name": "Sorini e Migliavacca S.p.A.",
+    "Code": "SUP003",
+    "BusinessObjectType": "Vendor"
+  }
+]

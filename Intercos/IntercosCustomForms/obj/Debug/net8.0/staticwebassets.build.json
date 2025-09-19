@@ -1,0 +1,1773 @@
+{
+  "Version": 1,
+  "Hash": "+Loyu1RwNewceh4fgmI8eglX/1I0DUbPMTWWyYNLv7I=",
+  "Source": "IntercosCustomForms",
+  "BasePath": "_content/IntercosCustomForms",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IntercosCustomForms/wwwroot",
+      "Source": "IntercosCustomForms",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_Archive.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Packaging_Archive#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9vrzmmkwvl",
+      "Integrity": "K1qwXdhaAE6p7xFPlloXk7Au2bhSjz1ZNRST+jzmPRU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Packaging_Archive.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_NewPackaging.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Packaging_NewPackaging#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etryutpssk",
+      "Integrity": "UsMRZ5OwvLYxdZrtqG20DulJMqoWXl07XKlKUHaHKmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Packaging_NewPackaging.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageDefinition.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Packaging_PackageDefinition#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "agdvwvlbay",
+      "Integrity": "2mGfWA1TcbxfN4GXIB2OhSfKlKWTZV7LVQWk6VhDMbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Packaging_PackageDefinition.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageSourcing.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Packaging_PackageSourcing#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lmo9bqy9xu",
+      "Integrity": "7deOOiy++BB3jUMpBOZbKwiwNmWS/zQolM26q1bwfJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Packaging_PackageSourcing.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageValidation.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Packaging_PackageValidation#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k3se1kj15d",
+      "Integrity": "wGZuydonB75iVn4/4xFy5ErPxYoiHozNCe1M38Jw71E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Packaging_PackageValidation.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_Archive.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_Archive#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfpqqlg4ie",
+      "Integrity": "Q9GAlBDnY+Jjqp5fSJBUfZ6ekNwLSHGUt+RxcOawv2o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_Archive.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_ControllingConfiguration.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_ControllingConfiguration#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bmlv9xm01e",
+      "Integrity": "M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_ControllingConfiguration.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_FormulaDefinition.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_FormulaDefinition#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o0ix5etpvw",
+      "Integrity": "iPlauLI61IWBWmocCJ90ApBNsg4/M9qL12MFrxT+Bic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_FormulaDefinition.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_FormulaValidation.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_FormulaValidation#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "651f583kc6",
+      "Integrity": "dteB/IKFyJb2/ccOr2Uj90nMBBfL9K2nCV/2vPQXR+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_FormulaValidation.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_NewBRIEF.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_NewBRIEF#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gsjflionyz",
+      "Integrity": "EPHLcffgGB+A0AqauXduocpbMD1i+TBYInHhVDYG61k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_NewBRIEF.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_PriceDefinition.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_PriceDefinition#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yp0vfbcsi9",
+      "Integrity": "mq+a6FKza3fNtA1al3C+Ur9whUZPLRggLZFNox/z/wY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_PriceDefinition.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_RoutingAndInvestmentValidation.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_RoutingAndInvestmentValidation#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pzg2xv0zj5",
+      "Integrity": "e+A8HL+tjLvOlUrtZqVRq0jDb9PtsA8GhfsuaVsQUpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_RoutingAndInvestmentValidation.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_SalesConfiguration.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_SalesConfiguration#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bmlv9xm01e",
+      "Integrity": "M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_SalesConfiguration.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_TechnologySelection.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_TechnologySelection#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "634v9p0v3q",
+      "Integrity": "jmwEUXvaYyPHHQ42TXcqqA4k7qgpxF0MSOuGnsORypg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_TechnologySelection.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_WaitingForPackaging.png",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "img/stages/Quotation_WaitingForPackaging#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "or1hu0ytis",
+      "Integrity": "zJ5TUe7/9gDaqwQvBoLBb/qVr9Tp+iuHThgInvdwX8M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/stages/Quotation_WaitingForPackaging.png"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/js/components/fields/newField.js",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "js/components/fields/newField#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zza1kzx7wp",
+      "Integrity": "EULxuB2L01ibMCYvIQ6Zy/n1PEH+gBxVz6aY5hX6IFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/components/fields/newField.js"
+    },
+    {
+      "Identity": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/js/components/parts/Cal.js",
+      "SourceId": "IntercosCustomForms",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/",
+      "BasePath": "_content/IntercosCustomForms",
+      "RelativePath": "js/components/parts/Cal#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oj2qkukpvx",
+      "Integrity": "ZNuWfSrNd7UgM6z+zTA41VauVjQWsJO6zYDvhalziwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/components/parts/Cal.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/stages/Packaging_Archive.9vrzmmkwvl.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_Archive.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K1qwXdhaAE6p7xFPlloXk7Au2bhSjz1ZNRST+jzmPRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 14:53:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9vrzmmkwvl"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Packaging_Archive.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K1qwXdhaAE6p7xFPlloXk7Au2bhSjz1ZNRST+jzmPRU="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_Archive.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_Archive.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K1qwXdhaAE6p7xFPlloXk7Au2bhSjz1ZNRST+jzmPRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 14:53:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K1qwXdhaAE6p7xFPlloXk7Au2bhSjz1ZNRST+jzmPRU="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_NewPackaging.etryutpssk.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_NewPackaging.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsMRZ5OwvLYxdZrtqG20DulJMqoWXl07XKlKUHaHKmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etryutpssk"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Packaging_NewPackaging.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsMRZ5OwvLYxdZrtqG20DulJMqoWXl07XKlKUHaHKmQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_NewPackaging.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_NewPackaging.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsMRZ5OwvLYxdZrtqG20DulJMqoWXl07XKlKUHaHKmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:00:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsMRZ5OwvLYxdZrtqG20DulJMqoWXl07XKlKUHaHKmQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_PackageDefinition.agdvwvlbay.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageDefinition.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mGfWA1TcbxfN4GXIB2OhSfKlKWTZV7LVQWk6VhDMbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 14:59:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "agdvwvlbay"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Packaging_PackageDefinition.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mGfWA1TcbxfN4GXIB2OhSfKlKWTZV7LVQWk6VhDMbk="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_PackageDefinition.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageDefinition.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mGfWA1TcbxfN4GXIB2OhSfKlKWTZV7LVQWk6VhDMbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 14:59:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mGfWA1TcbxfN4GXIB2OhSfKlKWTZV7LVQWk6VhDMbk="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_PackageSourcing.lmo9bqy9xu.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageSourcing.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7deOOiy++BB3jUMpBOZbKwiwNmWS/zQolM26q1bwfJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 14:59:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lmo9bqy9xu"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Packaging_PackageSourcing.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7deOOiy++BB3jUMpBOZbKwiwNmWS/zQolM26q1bwfJU="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_PackageSourcing.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageSourcing.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7deOOiy++BB3jUMpBOZbKwiwNmWS/zQolM26q1bwfJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 14:59:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7deOOiy++BB3jUMpBOZbKwiwNmWS/zQolM26q1bwfJU="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_PackageValidation.k3se1kj15d.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageValidation.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wGZuydonB75iVn4/4xFy5ErPxYoiHozNCe1M38Jw71E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 14:55:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k3se1kj15d"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Packaging_PackageValidation.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wGZuydonB75iVn4/4xFy5ErPxYoiHozNCe1M38Jw71E="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Packaging_PackageValidation.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Packaging_PackageValidation.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wGZuydonB75iVn4/4xFy5ErPxYoiHozNCe1M38Jw71E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 14:55:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wGZuydonB75iVn4/4xFy5ErPxYoiHozNCe1M38Jw71E="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_Archive.nfpqqlg4ie.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_Archive.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9GAlBDnY+Jjqp5fSJBUfZ6ekNwLSHGUt+RxcOawv2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:16:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfpqqlg4ie"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_Archive.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9GAlBDnY+Jjqp5fSJBUfZ6ekNwLSHGUt+RxcOawv2o="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_Archive.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_Archive.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9GAlBDnY+Jjqp5fSJBUfZ6ekNwLSHGUt+RxcOawv2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:16:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9GAlBDnY+Jjqp5fSJBUfZ6ekNwLSHGUt+RxcOawv2o="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_ControllingConfiguration.bmlv9xm01e.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_ControllingConfiguration.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:17:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bmlv9xm01e"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_ControllingConfiguration.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_ControllingConfiguration.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_ControllingConfiguration.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:17:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_FormulaDefinition.o0ix5etpvw.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_FormulaDefinition.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iPlauLI61IWBWmocCJ90ApBNsg4/M9qL12MFrxT+Bic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:23:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0ix5etpvw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_FormulaDefinition.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iPlauLI61IWBWmocCJ90ApBNsg4/M9qL12MFrxT+Bic="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_FormulaDefinition.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_FormulaDefinition.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iPlauLI61IWBWmocCJ90ApBNsg4/M9qL12MFrxT+Bic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:23:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iPlauLI61IWBWmocCJ90ApBNsg4/M9qL12MFrxT+Bic="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_FormulaValidation.651f583kc6.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_FormulaValidation.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dteB/IKFyJb2/ccOr2Uj90nMBBfL9K2nCV/2vPQXR+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "651f583kc6"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_FormulaValidation.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dteB/IKFyJb2/ccOr2Uj90nMBBfL9K2nCV/2vPQXR+I="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_FormulaValidation.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_FormulaValidation.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dteB/IKFyJb2/ccOr2Uj90nMBBfL9K2nCV/2vPQXR+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dteB/IKFyJb2/ccOr2Uj90nMBBfL9K2nCV/2vPQXR+I="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_NewBRIEF.gsjflionyz.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_NewBRIEF.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EPHLcffgGB+A0AqauXduocpbMD1i+TBYInHhVDYG61k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:24:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gsjflionyz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_NewBRIEF.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EPHLcffgGB+A0AqauXduocpbMD1i+TBYInHhVDYG61k="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_NewBRIEF.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_NewBRIEF.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EPHLcffgGB+A0AqauXduocpbMD1i+TBYInHhVDYG61k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:24:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EPHLcffgGB+A0AqauXduocpbMD1i+TBYInHhVDYG61k="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_PriceDefinition.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_PriceDefinition.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mq+a6FKza3fNtA1al3C+Ur9whUZPLRggLZFNox/z/wY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:17:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mq+a6FKza3fNtA1al3C+Ur9whUZPLRggLZFNox/z/wY="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_PriceDefinition.yp0vfbcsi9.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_PriceDefinition.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mq+a6FKza3fNtA1al3C+Ur9whUZPLRggLZFNox/z/wY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:17:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yp0vfbcsi9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_PriceDefinition.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mq+a6FKza3fNtA1al3C+Ur9whUZPLRggLZFNox/z/wY="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_RoutingAndInvestmentValidation.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_RoutingAndInvestmentValidation.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+A8HL+tjLvOlUrtZqVRq0jDb9PtsA8GhfsuaVsQUpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:18:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+A8HL+tjLvOlUrtZqVRq0jDb9PtsA8GhfsuaVsQUpc="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_RoutingAndInvestmentValidation.pzg2xv0zj5.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_RoutingAndInvestmentValidation.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+A8HL+tjLvOlUrtZqVRq0jDb9PtsA8GhfsuaVsQUpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:18:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzg2xv0zj5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_RoutingAndInvestmentValidation.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+A8HL+tjLvOlUrtZqVRq0jDb9PtsA8GhfsuaVsQUpc="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_SalesConfiguration.bmlv9xm01e.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_SalesConfiguration.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:17:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bmlv9xm01e"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_SalesConfiguration.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_SalesConfiguration.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_SalesConfiguration.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:17:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M6ygC9ZTxcw1Fn7y3VTH8Eqy/I++ulJW4olmKCFCLas="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_TechnologySelection.634v9p0v3q.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_TechnologySelection.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmwEUXvaYyPHHQ42TXcqqA4k7qgpxF0MSOuGnsORypg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:21:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "634v9p0v3q"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_TechnologySelection.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmwEUXvaYyPHHQ42TXcqqA4k7qgpxF0MSOuGnsORypg="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_TechnologySelection.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_TechnologySelection.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmwEUXvaYyPHHQ42TXcqqA4k7qgpxF0MSOuGnsORypg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:21:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmwEUXvaYyPHHQ42TXcqqA4k7qgpxF0MSOuGnsORypg="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_WaitingForPackaging.or1hu0ytis.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_WaitingForPackaging.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zJ5TUe7/9gDaqwQvBoLBb/qVr9Tp+iuHThgInvdwX8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "or1hu0ytis"
+        },
+        {
+          "Name": "label",
+          "Value": "img/stages/Quotation_WaitingForPackaging.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJ5TUe7/9gDaqwQvBoLBb/qVr9Tp+iuHThgInvdwX8M="
+        }
+      ]
+    },
+    {
+      "Route": "img/stages/Quotation_WaitingForPackaging.png",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/img/stages/Quotation_WaitingForPackaging.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zJ5TUe7/9gDaqwQvBoLBb/qVr9Tp+iuHThgInvdwX8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 15:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJ5TUe7/9gDaqwQvBoLBb/qVr9Tp+iuHThgInvdwX8M="
+        }
+      ]
+    },
+    {
+      "Route": "js/components/fields/newField.js",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/js/components/fields/newField.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EULxuB2L01ibMCYvIQ6Zy/n1PEH+gBxVz6aY5hX6IFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 07:51:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EULxuB2L01ibMCYvIQ6Zy/n1PEH+gBxVz6aY5hX6IFY="
+        }
+      ]
+    },
+    {
+      "Route": "js/components/fields/newField.zza1kzx7wp.js",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/js/components/fields/newField.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EULxuB2L01ibMCYvIQ6Zy/n1PEH+gBxVz6aY5hX6IFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 07:51:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zza1kzx7wp"
+        },
+        {
+          "Name": "label",
+          "Value": "js/components/fields/newField.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EULxuB2L01ibMCYvIQ6Zy/n1PEH+gBxVz6aY5hX6IFY="
+        }
+      ]
+    },
+    {
+      "Route": "js/components/parts/Cal.js",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/js/components/parts/Cal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNuWfSrNd7UgM6z+zTA41VauVjQWsJO6zYDvhalziwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 09:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNuWfSrNd7UgM6z+zTA41VauVjQWsJO6zYDvhalziwg="
+        }
+      ]
+    },
+    {
+      "Route": "js/components/parts/Cal.oj2qkukpvx.js",
+      "AssetFile": "/Users/vincenzococciolo/Dropbox/SviluppoDB/YubikStudio/Intercos/IntercosCustomForms/wwwroot/js/components/parts/Cal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNuWfSrNd7UgM6z+zTA41VauVjQWsJO6zYDvhalziwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 09:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oj2qkukpvx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/components/parts/Cal.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNuWfSrNd7UgM6z+zTA41VauVjQWsJO6zYDvhalziwg="
+        }
+      ]
+    }
+  ]
+}

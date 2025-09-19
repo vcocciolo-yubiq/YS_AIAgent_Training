@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "4",
+    "Name": "Mexico",
+    "BusinessObjectType": "Country"
+  },
+  {
+    "Id": "5",
+    "Name": "China",
+    "BusinessObjectType": "Country"
+  },
+  {
+    "Id": "2",
+    "Name": "France",
+    "BusinessObjectType": "Country"
+  },
+  {
+    "Id": "6",
+    "Name": "India",
+    "BusinessObjectType": "Country"
+  },
+  {
+    "Id": "3",
+    "Name": "USA",
+    "BusinessObjectType": "Country"
+  },
+  {
+    "Id": "1",
+    "Name": "Italy",
+    "BusinessObjectType": "Country"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "Id": "1",
+    "Country": "Albania",
+    "Population": "2800000",
+    "Density": "97",
+    "AreaKm2": "28748",
+    "Capital": "Tirana",
+    "Lat": "41.3275",
+    "Lon": "19.8187"
+  },
+  {
+    "Id": "2",
+    "Country": "Andorra",
+    "Population": "77000",
+    "Density": "164",
+    "AreaKm2": "468",
+    "Capital": "Andorra la Vella",
+    "Lat": "42.5063",
+    "Lon": "1.5218"
+  },
+  {
+    "Id": "3",
+    "Country": "Austria",
+    "Population": "8900000",
+    "Density": "106",
+    "AreaKm2": "83879",
+    "Capital": "Vienna",
+    "Lat": "48.2082",
+    "Lon": "16.3738"
+  },
+  {
+    "Id": "4",
+    "Country": "Belarus",
+    "Population": "9500000",
+    "Density": "46",
+    "AreaKm2": "207600",
+    "Capital": "Minsk",
+    "Lat": "53.9006",
+    "Lon": "27.559"
+  },
+  {
+    "Id": "5",
+    "Country": "Belgium",
+    "Population": "11500000",
+    "Density": "377",
+    "AreaKm2": "30528",
+    "Capital": "Brussels",
+    "Lat": "50.8503",
+    "Lon": "4.3517"
+  },
+  {
+    "Id": "6",
+    "Country": "Bosnia and Herzegovina",
+    "Population": "3500000",
+    "Density": "68",
+    "AreaKm2": "51209",
+    "Capital": "Sarajevo",
+    "Lat": "43.8563",
+    "Lon": "18.4131"
+  },
+  {
+    "Id": "7",
+    "Country": "Bulgaria",
+    "Population": "7000000",
+    "Density": "63",
+    "AreaKm2": "110994",
+    "Capital": "Sofia",
+    "Lat": "42.6977",
+    "Lon": "23.3219"
+  },
+  {
+    "Id": "8",
+    "Country": "Croatia",
+    "Population": "4100000",
+    "Density": "72",
+    "AreaKm2": "56594",
+    "Capital": "Zagreb",
+    "Lat": "45.815",
+    "Lon": "15.9819"
+  },
+  {
+    "Id": "9",
+    "Country": "Cyprus",
+    "Population": "1200000",
+    "Density": "130",
+    "AreaKm2": "9251",
+    "Capital": "Nicosia",
+    "Lat": "35.1856",
+    "Lon": "33.3823"
+  },
+  {
+    "Id": "10",
+    "Country": "Czech Republic",
+    "Population": "10700000",
+    "Density": "136",
+    "AreaKm2": "78865",
+    "Capital": "Prague",
+    "Lat": "50.0755",
+    "Lon": "14.4378"
+  },
+  {
+    "Id": "11",
+    "Country": "Denmark",
+    "Population": "5800000",
+    "Density": "135",
+    "AreaKm2": "43094",
+    "Capital": "Copenhagen",
+    "Lat": "55.6761",
+    "Lon": "12.5683"
+  },
+  {
+    "Id": "12",
+    "Country": "Estonia",
+    "Population": "1300000",
+    "Density": "29",
+    "AreaKm2": "45227",
+    "Capital": "Tallinn",
+    "Lat": "59.437",
+    "Lon": "24.7536"
+  },
+  {
+    "Id": "13",
+    "Country": "Finland",
+    "Population": "5500000",
+    "Density": "16",
+    "AreaKm2": "338424",
+    "Capital": "Helsinki",
+    "Lat": "60.1699",
+    "Lon": "24.9384"
+  },
+  {
+    "Id": "14",
+    "Country": "France",
+    "Population": "68000000",
+    "Density": "123",
+    "AreaKm2": "551695",
+    "Capital": "Paris",
+    "Lat": "48.8566",
+    "Lon": "2.3522"
+  },
+  {
+    "Id": "15",
+    "Country": "Germany",
+    "Population": "84400000",
+    "Density": "236",
+    "AreaKm2": "357022",
+    "Capital": "Berlin",
+    "Lat": "52.52",
+    "Lon": "13.405"
+  },
+  {
+    "Id": "16",
+    "Country": "Greece",
+    "Population": "10500000",
+    "Density": "79",
+    "AreaKm2": "131957",
+    "Capital": "Athens",
+    "Lat": "37.9838",
+    "Lon": "23.7275"
+  },
+  {
+    "Id": "17",
+    "Country": "Hungary",
+    "Population": "9700000",
+    "Density": "104",
+    "AreaKm2": "93028",
+    "Capital": "Budapest",
+    "Lat": "47.4979",
+    "Lon": "19.0402"
+  },
+  {
+    "Id": "18",
+    "Country": "Iceland",
+    "Population": "370000",
+    "Density": "4",
+    "AreaKm2": "103000",
+    "Capital": "Reykjavik",
+    "Lat": "64.1466",
+    "Lon": "-21.9426"
+  },
+  {
+    "Id": "19",
+    "Country": "Ireland",
+    "Population": "5000000",
+    "Density": "71",
+    "AreaKm2": "70273",
+    "Capital": "Dublin",
+    "Lat": "53.3498",
+    "Lon": "-6.2603"
+  },
+  {
+    "Id": "20",
+    "Country": "Italy",
+    "Population": "60000000",
+    "Density": "199",
+    "AreaKm2": "301340",
+    "Capital": "Rome",
+    "Lat": "41.9028",
+    "Lon": "12.4964"
+  },
+  {
+    "Id": "21",
+    "Country": "Kosovo",
+    "Population": "1800000",
+    "Density": "165",
+    "AreaKm2": "10908",
+    "Capital": "Pristina",
+    "Lat": "42.6629",
+    "Lon": "21.1655"
+  },
+  {
+    "Id": "22",
+    "Country": "Latvia",
+    "Population": "1900000",
+    "Density": "30",
+    "AreaKm2": "64559",
+    "Capital": "Riga",
+    "Lat": "56.9496",
+    "Lon": "24.1052"
+  },
+  {
+    "Id": "23",
+    "Country": "Liechtenstein",
+    "Population": "40000",
+    "Density": "250",
+    "AreaKm2": "160",
+    "Capital": "Vaduz",
+    "Lat": "47.141",
+    "Lon": "9.5209"
+  },
+  {
+    "Id": "24",
+    "Country": "Lithuania",
+    "Population": "2700000",
+    "Density": "41",
+    "AreaKm2": "65301",
+    "Capital": "Vilnius",
+    "Lat": "54.6872",
+    "Lon": "25.2797"
+  },
+  {
+    "Id": "25",
+    "Country": "Luxembourg",
+    "Population": "600000",
+    "Density": "232",
+    "AreaKm2": "2586",
+    "Capital": "Luxembourg",
+    "Lat": "49.6116",
+    "Lon": "6.1319"
+  },
+  {
+    "Id": "26",
+    "Country": "Malta",
+    "Population": "500000",
+    "Density": "1582",
+    "AreaKm2": "316",
+    "Capital": "Valletta",
+    "Lat": "35.8989",
+    "Lon": "14.5146"
+  },
+  {
+    "Id": "27",
+    "Country": "Moldova",
+    "Population": "2600000",
+    "Density": "77",
+    "AreaKm2": "33846",
+    "Capital": "Chisinau",
+    "Lat": "47.0105",
+    "Lon": "28.8638"
+  },
+  {
+    "Id": "28",
+    "Country": "Monaco",
+    "Population": "39000",
+    "Density": "19306",
+    "AreaKm2": "2.02",
+    "Capital": "Monaco",
+    "Lat": "43.7384",
+    "Lon": "7.4246"
+  },
+  {
+    "Id": "29",
+    "Country": "Montenegro",
+    "Population": "620000",
+    "Density": "45",
+    "AreaKm2": "13812",
+    "Capital": "Podgorica",
+    "Lat": "42.4304",
+    "Lon": "19.2594"
+  },
+  {
+    "Id": "30",
+    "Country": "Netherlands",
+    "Population": "17000000",
+    "Density": "409",
+    "AreaKm2": "41543",
+    "Capital": "Amsterdam",
+    "Lat": "52.3676",
+    "Lon": "4.9041"
+  },
+  {
+    "Id": "31",
+    "Country": "North Macedonia",
+    "Population": "2100000",
+    "Density": "82",
+    "AreaKm2": "25713",
+    "Capital": "Skopje",
+    "Lat": "41.9973",
+    "Lon": "21.428"
+  },
+  {
+    "Id": "32",
+    "Country": "Norway",
+    "Population": "5400000",
+    "Density": "17",
+    "AreaKm2": "323802",
+    "Capital": "Oslo",
+    "Lat": "59.9139",
+    "Lon": "10.7522"
+  },
+  {
+    "Id": "33",
+    "Country": "Poland",
+    "Population": "38000000",
+    "Density": "121",
+    "AreaKm2": "312696",
+    "Capital": "Warsaw",
+    "Lat": "52.2297",
+    "Lon": "21.0122"
+  },
+  {
+    "Id": "34",
+    "Country": "Portugal",
+    "Population": "10000000",
+    "Density": "109",
+    "AreaKm2": "92090",
+    "Capital": "Lisbon",
+    "Lat": "38.7223",
+    "Lon": "-9.1393"
+  },
+  {
+    "Id": "35",
+    "Country": "Romania",
+    "Population": "19000000",
+    "Density": "80",
+    "AreaKm2": "238397",
+    "Capital": "Bucharest",
+    "Lat": "44.4268",
+    "Lon": "26.1025"
+  },
+  {
+    "Id": "36",
+    "Country": "San Marino",
+    "Population": "34000",
+    "Density": "555",
+    "AreaKm2": "61.2",
+    "Capital": "San Marino",
+    "Lat": "43.9424",
+    "Lon": "12.4578"
+  },
+  {
+    "Id": "37",
+    "Country": "Serbia",
+    "Population": "7000000",
+    "Density": "79",
+    "AreaKm2": "88361",
+    "Capital": "Belgrade",
+    "Lat": "44.7866",
+    "Lon": "20.4489"
+  },
+  {
+    "Id": "38",
+    "Country": "Slovakia",
+    "Population": "5500000",
+    "Density": "112",
+    "AreaKm2": "49035",
+    "Capital": "Bratislava",
+    "Lat": "48.1486",
+    "Lon": "17.1077"
+  },
+  {
+    "Id": "39",
+    "Country": "Slovenia",
+    "Population": "2100000",
+    "Density": "103",
+    "AreaKm2": "20273",
+    "Capital": "Ljubljana",
+    "Lat": "46.0569",
+    "Lon": "14.5058"
+  },
+  {
+    "Id": "40",
+    "Country": "Spain",
+    "Population": "47000000",
+    "Density": "93",
+    "AreaKm2": "505990",
+    "Capital": "Madrid",
+    "Lat": "40.4168",
+    "Lon": "-3.7038"
+  },
+  {
+    "Id": "41",
+    "Country": "Sweden",
+    "Population": "10000000",
+    "Density": "22",
+    "AreaKm2": "450295",
+    "Capital": "Stockholm",
+    "Lat": "59.3293",
+    "Lon": "18.0686"
+  },
+  {
+    "Id": "42",
+    "Country": "Switzerland",
+    "Population": "8600000",
+    "Density": "208",
+    "AreaKm2": "41284",
+    "Capital": "Bern",
+    "Lat": "46.948",
+    "Lon": "7.4474"
+  },
+  {
+    "Id": "43",
+    "Country": "Ukraine",
+    "Population": "41000000",
+    "Density": "68",
+    "AreaKm2": "603500",
+    "Capital": "Kyiv",
+    "Lat": "50.4501",
+    "Lon": "30.5234"
+  },
+  {
+    "Id": "44",
+    "Country": "United Kingdom",
+    "Population": "67000000",
+    "Density": "275",
+    "AreaKm2": "243610",
+    "Capital": "London",
+    "Lat": "51.5074",
+    "Lon": "-0.1278"
+  },
+  {
+    "Id": "45",
+    "Country": "Vatican City",
+    "Population": "800",
+    "Density": "1818",
+    "AreaKm2": "0.44",
+    "Capital": "Vatican City",
+    "Lat": "41.9029",
+    "Lon": "12.4534"
+  }
+]

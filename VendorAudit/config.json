@@ -1,0 +1,21 @@
+{
+    "ys_version": "5.0.82",
+    "dBConnections": [
+        {
+            "name": "YubikDB",
+            "connectionString": ""
+        }
+    ],
+    "y5RuntimePath": "",
+    "languages": [
+        "es-ES",
+        "en-US",
+        "it-IT"
+    ],
+    "include": [],
+    "runDpa": false,
+    "Params": {
+        "OpenAIKey": "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",
+        "OpenAIModel": "gpt-4.1"
+    }
+}

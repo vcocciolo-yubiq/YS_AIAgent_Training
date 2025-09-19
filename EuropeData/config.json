@@ -1,0 +1,20 @@
+{
+    "ys_version": "5.0.82",
+    "dBConnections": [
+        {
+            "name": "YubikDB",
+            "connectionString": ""
+        }
+    ],
+    "y5RuntimePath": "",
+    "languages": [
+        "it-IT",
+        "es-ES",
+        "en-US"
+    ],
+    "include": [],
+    "runDpa": false,
+    "Params": {
+        "Param1": "ParamValue"
+    }
+}

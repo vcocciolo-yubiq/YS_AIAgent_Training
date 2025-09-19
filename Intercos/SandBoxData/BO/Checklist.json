@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "1",
+    "NomeFile": null,
+    "Documento": null,
+    "TipoRisorsa": "Mezzo",
+    "BusinessObjectType": "Checklist"
+  },
+  {
+    "Id": "2",
+    "NomeFile": null,
+    "Documento": null,
+    "TipoRisorsa": "Mezzo",
+    "BusinessObjectType": "Checklist"
+  },
+  {
+    "Id": "3",
+    "NomeFile": null,
+    "Documento": null,
+    "TipoRisorsa": "Mezzo",
+    "BusinessObjectType": "Checklist"
+  },
+  {
+    "Id": "4",
+    "NomeFile": null,
+    "Documento": null,
+    "TipoRisorsa": "Mezzo",
+    "BusinessObjectType": "Checklist"
+  },
+  {
+    "Id": "5",
+    "NomeFile": null,
+    "Documento": null,
+    "TipoRisorsa": "Persona",
+    "BusinessObjectType": "Checklist"
+  }
+]

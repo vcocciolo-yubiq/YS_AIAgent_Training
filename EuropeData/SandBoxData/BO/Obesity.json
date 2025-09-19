@@ -1,0 +1,275 @@
+[
+  {
+    "Id": "1",
+    "Country": "Germany",
+    "Children": "10",
+    "Male": "25",
+    "Female": "21"
+  },
+  {
+    "Id": "2",
+    "Country": "France",
+    "Children": "8",
+    "Male": "20",
+    "Female": "15"
+  },
+  {
+    "Id": "3",
+    "Country": "Italy",
+    "Children": "9",
+    "Male": "18",
+    "Female": "14"
+  },
+  {
+    "Id": "4",
+    "Country": "Spain",
+    "Children": "12",
+    "Male": "22",
+    "Female": "19"
+  },
+  {
+    "Id": "5",
+    "Country": "Poland",
+    "Children": "11",
+    "Male": "24",
+    "Female": "20"
+  },
+  {
+    "Id": "6",
+    "Country": "Netherlands",
+    "Children": "9",
+    "Male": "21",
+    "Female": "18"
+  },
+  {
+    "Id": "7",
+    "Country": "Belgium",
+    "Children": "10",
+    "Male": "22",
+    "Female": "19"
+  },
+  {
+    "Id": "8",
+    "Country": "Sweden",
+    "Children": "8",
+    "Male": "20",
+    "Female": "18"
+  },
+  {
+    "Id": "9",
+    "Country": "Norway",
+    "Children": "7",
+    "Male": "21",
+    "Female": "19"
+  },
+  {
+    "Id": "10",
+    "Country": "Denmark",
+    "Children": "8",
+    "Male": "21",
+    "Female": "18"
+  },
+  {
+    "Id": "11",
+    "Country": "Finland",
+    "Children": "9",
+    "Male": "22",
+    "Female": "20"
+  },
+  {
+    "Id": "12",
+    "Country": "Ireland",
+    "Children": "10",
+    "Male": "23",
+    "Female": "21"
+  },
+  {
+    "Id": "13",
+    "Country": "Portugal",
+    "Children": "11",
+    "Male": "21",
+    "Female": "18"
+  },
+  {
+    "Id": "14",
+    "Country": "Greece",
+    "Children": "13",
+    "Male": "24",
+    "Female": "21"
+  },
+  {
+    "Id": "15",
+    "Country": "Austria",
+    "Children": "9",
+    "Male": "22",
+    "Female": "19"
+  },
+  {
+    "Id": "16",
+    "Country": "Switzerland",
+    "Children": "7",
+    "Male": "20",
+    "Female": "17"
+  },
+  {
+    "Id": "17",
+    "Country": "Czechia",
+    "Children": "10",
+    "Male": "25",
+    "Female": "21"
+  },
+  {
+    "Id": "18",
+    "Country": "Slovakia",
+    "Children": "10",
+    "Male": "24",
+    "Female": "20"
+  },
+  {
+    "Id": "19",
+    "Country": "Hungary",
+    "Children": "12",
+    "Male": "26",
+    "Female": "22"
+  },
+  {
+    "Id": "20",
+    "Country": "Romania",
+    "Children": "11",
+    "Male": "23",
+    "Female": "19"
+  },
+  {
+    "Id": "21",
+    "Country": "Bulgaria",
+    "Children": "11",
+    "Male": "24",
+    "Female": "20"
+  },
+  {
+    "Id": "22",
+    "Country": "Croatia",
+    "Children": "10",
+    "Male": "23",
+    "Female": "20"
+  },
+  {
+    "Id": "23",
+    "Country": "Slovenia",
+    "Children": "9",
+    "Male": "22",
+    "Female": "19"
+  },
+  {
+    "Id": "24",
+    "Country": "Lithuania",
+    "Children": "10",
+    "Male": "23",
+    "Female": "20"
+  },
+  {
+    "Id": "25",
+    "Country": "Latvia",
+    "Children": "9",
+    "Male": "24",
+    "Female": "20"
+  },
+  {
+    "Id": "26",
+    "Country": "Estonia",
+    "Children": "8",
+    "Male": "23",
+    "Female": "19"
+  },
+  {
+    "Id": "27",
+    "Country": "Luxembourg",
+    "Children": "9",
+    "Male": "22",
+    "Female": "19"
+  },
+  {
+    "Id": "28",
+    "Country": "Malta",
+    "Children": "14",
+    "Male": "28",
+    "Female": "25"
+  },
+  {
+    "Id": "29",
+    "Country": "Iceland",
+    "Children": "8",
+    "Male": "21",
+    "Female": "19"
+  },
+  {
+    "Id": "30",
+    "Country": "Liechtenstein",
+    "Children": "9",
+    "Male": "22",
+    "Female": "20"
+  },
+  {
+    "Id": "31",
+    "Country": "United Kingdom",
+    "Children": "13",
+    "Male": "28",
+    "Female": "26"
+  },
+  {
+    "Id": "32",
+    "Country": "Ukraine",
+    "Children": "10",
+    "Male": "23",
+    "Female": "20"
+  },
+  {
+    "Id": "33",
+    "Country": "Serbia",
+    "Children": "11",
+    "Male": "24",
+    "Female": "21"
+  },
+  {
+    "Id": "34",
+    "Country": "Albania",
+    "Children": "10",
+    "Male": "22",
+    "Female": "19"
+  },
+  {
+    "Id": "35",
+    "Country": "Turkey-Europe",
+    "Children": "14",
+    "Male": "27",
+    "Female": "24"
+  },
+  {
+    "Id": "36",
+    "Country": "Bosnia & Herzegovina",
+    "Children": "10",
+    "Male": "23",
+    "Female": "20"
+  },
+  {
+    "Id": "37",
+    "Country": "North Macedonia",
+    "Children": "11",
+    "Male": "24",
+    "Female": "21"
+  },
+  {
+    "Id": "38",
+    "Country": "Moldova",
+    "Children": "9",
+    "Male": "22",
+    "Female": "19"
+  },
+  {
+    "Id": "39",
+    "Country": "Montenegro",
+    "Children": "10",
+    "Male": "23",
+    "Female": "20"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "Id": "8",
+    "Type": "Environmental Audits",
+    "Name": "ISO 14001 Environmental Management Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "10",
+    "Type": "Environmental Audits",
+    "Name": "BLUESIGN® System Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "11",
+    "Type": "Environmental Audits",
+    "Name": "LEED Certification Audit (for buildings)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "12",
+    "Type": "Quality Control Audits",
+    "Name": "Initial Production Check (IPC)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "13",
+    "Type": "Quality Control Audits",
+    "Name": "During Production Inspection (DUPRO)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "14",
+    "Type": "Quality Control Audits",
+    "Name": "Final Random Inspection (FRI)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "15",
+    "Type": "Quality Control Audits",
+    "Name": "Inline Inspection",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "16",
+    "Type": "Quality Control Audits",
+    "Name": "Pre-shipment Inspection (PSI)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "17",
+    "Type": "Quality Control Audits",
+    "Name": "AQL (Acceptable Quality Limit) Inspection",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "18",
+    "Type": "Quality Control Audits",
+    "Name": "Lab Testing for physical, chemical, and performance standards",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "19",
+    "Type": "Technical Process Audits",
+    "Name": "Process Capability Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "20",
+    "Type": "Technical Process Audits",
+    "Name": "Production Line Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "21",
+    "Type": "Technical Process Audits",
+    "Name": "Pattern and Fit Audits",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "22",
+    "Type": "Technical Process Audits",
+    "Name": "Garment Construction and Measurement Check",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "23",
+    "Type": "Technical Process Audits",
+    "Name": "Needle and Metal Detection Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "24",
+    "Type": "Security Audits",
+    "Name": "Customs-Trade Partnership Against Terrorism (C-TPAT)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "25",
+    "Type": "Security Audits",
+    "Name": "GSV (Global Security Verification)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "26",
+    "Type": "Health And Safety Audits",
+    "Name": "Fire Safety & Evacuation Plan Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "27",
+    "Type": "Health And Safety Audits",
+    "Name": "Occupational Health & Safety Assessment Series (OHSAS 18001 / ISO 45001)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "28",
+    "Type": "Health And Safety Audits",
+    "Name": "Personal Protective Equipment (PPE) Compliance Check",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "29",
+    "Type": "Chemical Management Audits",
+    "Name": "ZDHC Chemical Management Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "30",
+    "Type": "Chemical Management Audits",
+    "Name": "REACH Compliance Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "31",
+    "Type": "Chemical Management Audits",
+    "Name": "MRSL (Manufacturing Restricted Substances List) Verification",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "32",
+    "Type": "Ethical And Fair Trade Audits",
+    "Name": "Fair Trade Certification Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "33",
+    "Type": "Ethical And Fair Trade Audits",
+    "Name": "Ethical Trading Initiative (ETI) Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "34",
+    "Type": "Certification Specific Audits",
+    "Name": "GOTS (Global Organic Textile Standard)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "35",
+    "Type": "Certification Specific Audits",
+    "Name": "OEKO-TEX Standard 100",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "36",
+    "Type": "Certification Specific Audits",
+    "Name": "GRS (Global Recycled Standard)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "37",
+    "Type": "Certification Specific Audits",
+    "Name": "RCS (Recycled Claim Standard)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "1",
+    "Type": "Social Compliance Audits",
+    "Name": "SA8000 Certification Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "2",
+    "Type": "Social Compliance Audits",
+    "Name": "WRAP (Worldwide Responsible Accredited Production)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "3",
+    "Type": "Social Compliance Audits",
+    "Name": "BSCI (Business Social Compliance Initiative)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "4",
+    "Type": "Social Compliance Audits",
+    "Name": "ICTI (International Council of Toy Industries)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "6",
+    "Type": "Social Compliance Audits",
+    "Name": "SMETA (Sedex Members Ethical Trade Audit)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "5",
+    "Type": "Social Compliance Audits",
+    "Name": "ETI Base Code Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "9",
+    "Type": "Environmental Audits",
+    "Name": "ZDHC (Zero Discharge of Hazardous Chemicals) Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "7",
+    "Type": "Environmental Audits",
+    "Name": "Higg Index (Facility Environmental Module - FEM)",
+    "BusinessObjectType": "AuditType"
+  }
+]

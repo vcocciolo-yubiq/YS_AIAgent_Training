@@ -1,0 +1,263 @@
+[
+  {
+    "Id": "3",
+    "Description": "Crema Corpo Nutriente",
+    "Ingredients": "13,14,15",
+    "Version": "1.0",
+    "Code": "FML003",
+    "ProductType": "Cream",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "5",
+    "Description": "Gel Purificante Viso",
+    "Ingredients": "22,23,24,25,26,27",
+    "Version": "1.0",
+    "Code": "FML005",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "6",
+    "Description": "Crema Mani Lenitiva",
+    "Ingredients": "28,29,30,31,32,33",
+    "Version": "1.0",
+    "Code": "FML006",
+    "ProductType": "Shampoo",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "7",
+    "Description": "Tonico Illuminante",
+    "Ingredients": "34,35,36,37,38,39,40,41",
+    "Version": "1.0",
+    "Code": "FML007",
+    "ProductType": "Other",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "8",
+    "Description": "Maschera Notte Rigenerante",
+    "Ingredients": "42,43,44,45,46,47",
+    "Version": "1.0",
+    "Code": "FML008",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "9",
+    "Description": "Scrub Viso Naturale",
+    "Ingredients": "48,49,50,51,52,53,54,55",
+    "Version": "1.0",
+    "Code": "FML009",
+    "ProductType": "Lotion",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "10",
+    "Description": "Crema Doposole",
+    "Ingredients": "56,57,58,59",
+    "Version": "1.0",
+    "Code": "FML010",
+    "ProductType": "Mask",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "2",
+    "Description": "Siero Anti-Age",
+    "Ingredients": "10,11,12",
+    "Version": "1.0",
+    "Code": "FML002",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "1",
+    "Description": "Crema Giorno Idratante",
+    "Ingredients": "1,2,3,4,5,6",
+    "Version": "1.0",
+    "Code": "FML001",
+    "ProductType": "Shampoo",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "4",
+    "Description": "Latte Detergente Delicato",
+    "Ingredients": "16,17,18,19,20,21",
+    "Version": "1.0",
+    "Code": "FML004",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "84",
+    "Description": "Latte detergente corpo con SPF 50",
+    "Ingredients": "85,86,87,88",
+    "Version": "1",
+    "Code": "NEW-0084",
+    "ProductType": "0",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "103",
+    "Description": "tutti gli ingredienti della versione base + profumo di rosa",
+    "Ingredients": "110,111,112,113,114,115",
+    "Version": "1.0",
+    "Code": "NEW-0103",
+    "ProductType": "Shampoo",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "116",
+    "Description": "Rossetto viola con profumo di lavanda",
+    "Ingredients": "133,134,135",
+    "Version": "1",
+    "Code": "NEW-0116",
+    "ProductType": "0",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "152",
+    "Description": "Creama corpo idratante lavanda",
+    "Ingredients": "154,155",
+    "Version": "1",
+    "Code": "NEW-0152",
+    "ProductType": "0",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "139",
+    "Description": "Rossetto Rosso con profumo",
+    "Ingredients": "146,147,148",
+    "Version": "1",
+    "Code": "NEW-0139",
+    "ProductType": "0",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "161",
+    "Description": "Crema corpo al gusto di lampone",
+    "Ingredients": "158,159,160",
+    "Version": "1.0",
+    "Code": "NEW-0161",
+    "ProductType": "Cream",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "165",
+    "Description": "Crema corpo al gusto di lampone",
+    "Ingredients": "173,174,175,176",
+    "Version": "1.0",
+    "Code": "NEW-0165",
+    "ProductType": "Cream",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "185",
+    "Description": "Lozione corpo alla camomilla",
+    "Ingredients": "189,190",
+    "Version": "1.0",
+    "Code": "NEW-0185",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "199",
+    "Description": "Crema corpo max Tonic\r\nCrema corpo max Tonic",
+    "Ingredients": "226,227,228,229,230,231,232",
+    "Version": "1.0",
+    "Code": "NEW-0199",
+    "ProductType": "Shampoo",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "241",
+    "Description": "1. bla\r\n2. bla",
+    "Ingredients": "249,250,251,252,253,254,255",
+    "Version": "1.0",
+    "Code": "NEW-0241",
+    "ProductType": "Shampoo",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "264",
+    "Description": "Shampoo capelli grassi",
+    "Ingredients": "272,273,274,275,276,277,278",
+    "Version": "1.0",
+    "Code": "NEW-0264",
+    "ProductType": "Shampoo",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "287",
+    "Description": "Sapone mani",
+    "Ingredients": "300,301,302,303,304,305",
+    "Version": "1.0",
+    "Code": "NEW-0287",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "66",
+    "Description": "Crema solare sfp50",
+    "Ingredients": "306,307,308,309,310,311",
+    "Version": "1.0",
+    "Code": "NEW-0066",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "318",
+    "Description": "New product for hair",
+    "Ingredients": "312,313,314,315,316,317",
+    "Version": "1.0",
+    "Code": "NEW-0318",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "325",
+    "Description": "New product",
+    "Ingredients": "319,320,321,322,323,324",
+    "Version": "1.0",
+    "Code": "NEW-0325",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "334",
+    "Description": "Lozione corpo",
+    "Ingredients": "335,336,337,338,339,340,341",
+    "Version": "1.0",
+    "Code": "NEW-0334",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "352",
+    "Description": "Crema Notte Anti-Età Premium",
+    "Ingredients": "353,354,355,356",
+    "Version": "1.0",
+    "Code": "NEW-0352",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "363",
+    "Description": "Siero Viso Idratante",
+    "Ingredients": "371,372,373,374,375,376,377",
+    "Version": "1.0",
+    "Code": "NEW-0363",
+    "ProductType": "Cleanser",
+    "BusinessObjectType": "Formula"
+  },
+  {
+    "Id": "384",
+    "Description": "Lozione corpo",
+    "Ingredients": "390,391,392,393,394",
+    "Version": "1.0",
+    "Code": "NEW-0384",
+    "ProductType": "Mask",
+    "BusinessObjectType": "Formula"
+  }
+]

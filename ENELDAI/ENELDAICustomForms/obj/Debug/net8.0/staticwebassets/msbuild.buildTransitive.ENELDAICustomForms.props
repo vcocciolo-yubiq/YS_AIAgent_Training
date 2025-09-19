@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ENELDAICustomForms.props" />
+</Project>

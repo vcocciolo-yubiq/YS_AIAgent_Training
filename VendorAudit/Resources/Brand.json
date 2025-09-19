@@ -1,0 +1,57 @@
+[
+  {
+    "Id": "10",
+    "Name": "Pomellato",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "6",
+    "Name": "Boucheron",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "8",
+    "Name": "Bottega Veneta",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "4",
+    "Name": "Balenciaga",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "9",
+    "Name": "Alexander McQueen",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "1",
+    "Name": "Gucci",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "7",
+    "Name": "DoDo",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "11",
+    "Name": "Saint Laurent",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "3",
+    "Name": "Ginori 1735",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "5",
+    "Name": "Brioni",
+    "BusinessObjectType": "Brand"
+  },
+  {
+    "Id": "2",
+    "Name": "Qeelin",
+    "BusinessObjectType": "Brand"
+  }
+]

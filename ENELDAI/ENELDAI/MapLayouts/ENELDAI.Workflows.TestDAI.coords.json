@@ -1,0 +1,26 @@
+{
+  "ENELDAI.Workflows.TestDAI.CreateItem": {
+    "wfName": "ENELDAI.Workflows.TestDAI",
+    "id": "ENELDAI.Workflows.TestDAI.CreateItem",
+    "x": 80.54296684430824,
+    "y": 63.568806690546026,
+    "fx": 80.54296684430824,
+    "fy": 63.568806690546026
+  },
+  "ENELDAI.Workflows.TestDAI.Archive": {
+    "wfName": "ENELDAI.Workflows.TestDAI",
+    "id": "ENELDAI.Workflows.TestDAI.Archive",
+    "x": 731,
+    "y": 427.25,
+    "fx": 731,
+    "fy": 427.25
+  },
+  "ENELDAI.Workflows.TestDAI.TestBed": {
+    "wfName": "ENELDAI.Workflows.TestDAI",
+    "id": "ENELDAI.Workflows.TestDAI.TestBed",
+    "x": 408.08760115393505,
+    "y": 292.61428402687784,
+    "fx": 408.08760115393505,
+    "fy": 292.61428402687784
+  }
+}

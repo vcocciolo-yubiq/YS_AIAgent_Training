@@ -1,0 +1,18 @@
+{
+  "EuropeData.Workflows.ChartData.Stage1": {
+    "wfName": "EuropeData.Workflows.ChartData",
+    "id": "EuropeData.Workflows.ChartData.Stage1",
+    "x": 489.08756713465135,
+    "y": 280.61428160022876,
+    "fx": 489.08756713465135,
+    "fy": 280.61428160022876
+  },
+  "EuropeData.Workflows.ChartData.Archive": {
+    "wfName": "EuropeData.Workflows.ChartData",
+    "id": "EuropeData.Workflows.ChartData.Archive",
+    "x": 744.000000021388,
+    "y": 279.24999998796926,
+    "fx": 744.000000021388,
+    "fy": 279.24999998796926
+  }
+}

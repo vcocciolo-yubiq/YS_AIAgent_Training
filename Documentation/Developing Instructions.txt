@@ -1,0 +1,132 @@
+1. Le Form possono essere di diverso tipo:
+	1.1. Bounded: Collegate ad un Workflow specifico e quindi al suo WorkItem
+	1.2. UnBounded: Non collegate a workflow e quindi non collegate ad alcun WorkItem
+
+2. Alla creazione occorre chiedere conferma del tipo di form e se di tipo Bounded occorre chiedere conferma in quale Workflow e quindi quale WorkItem usare
+
+3. L'elenco dei Workflow è rappresentato dal nome della classe contenuta all'interno dei file \Workflows\*.cs
+
+4. I nomi dei Workitem relativi sono rappresentati dal nome della classe contenuta all'interno dei file \Workitems\*.class
+
+5. La Form utilizza tipicamente degli oggetti chiamati Business Objects che risiedono nella cartella \BusinessObjects
+
+6. Da adesso in poi, negli esempi di codice C# indicheremo 
+	6.1 con %project% il nome del progetto;
+	6.2 con %workflow% il nome del workflow;
+	6.3 con %workitem% il nome del workitem;
+	6.4 con %bo% il nome di un generico Business Object
+
+7. Le Form di un workflow di un progetto specifico sono classi c# strutturate in modo standard. 
+
+8. Vengono posizionate nel progetto relativo nella cartella Forms.
+
+9. Ogni Form contiene la definizione dei seguenti Namespace standard:
+using YubikStudioCore;
+using YubikStudioCore.Documents;
+using YubikStudioCore.Attributes;
+using YubikStudioCore.Forms;
+using YubikStudioCore.Forms.Attributes;
+
+10. Ai quali si aggiungono quelli necessari per il codice C# presente nella classe
+
+11. Segue il namespace %project%.Forms
+
+12. Segue la definizione della classe: public class %form% : Form<%workitem%>
+
+13. Seguono l'elenco dei Campi della Classe che dipendono dai campi della form da creare. I campi possibili sono i seguenti: 
+	13.1 Base: TextField, MemoField, TextAreaField, IntField, DecimalField, DateTimeField, DateField, TimeField, ToggleField, ButtonField
+	13.2 Core: UserLookupField, MultiUserLookupField
+	13.3 Business Objects: BoLookupField<%bo%>, MultiBoLookupField<%bo%>
+	13.4 WorkItem: WILookupField<%workitem%>, MultiWILookupField<%workitem%>
+	13.5 Document: DocumentField
+	13.6 Collections: TableField<%bo%, %subform%>, EnumField<%enum%>
+	13.7 Part: ChartPart, HtmlPart, TabPart, CardPart, MapPart
+ 
+14. Se un campo della form è legato ad un campo del WorkItem il nome del campo è uguale al nome del corrispondente campo del Workitem altrimenti si inserisce la decorazione "[Unbound]" per indicare che il campo della form è sganciato da qualsiasi campo del Workitem
+
+SEZIONE AVANZATA - STRUTTURA COMPLETA DELLE FORM
+
+15. TIPI DI FORM AVANZATI:
+	15.1. Form<WorkItem>: Form bounded collegate a un WorkItem specifico
+	15.2. Form: Form unbounded non collegate a nessun WorkItem  
+	15.3. SubForm<BusinessObject>: Form per gestire righe di tabelle o oggetti business
+
+16. ATTRIBUTI PER I FIELD:
+	16.1. [Unbound]: Il campo non è collegato al WorkItem ma è gestito dalla form
+	16.2. [Display(Name = "...")]: Etichetta personalizzata per il campo
+	16.3. [Required]: Campo obbligatorio (alternativa: Field.Required = true in ConfigureFields)
+
+17. METODI OVERRIDE PRINCIPALI:
+	17.1. ConfigureFields(): Configurazione delle proprietà dei campi
+	17.2. GetLayout(): Definizione del layout visuale della form
+	17.3. OnLoad(): Logica eseguita al caricamento della form
+	17.4. OnRefresh(string[] changedProperties): Logica per aggiornamenti di campi
+
+18. PROPRIETÀ CONFIGURABILI NEI FIELD (in ConfigureFields):
+	18.1. Required: bool - Campo obbligatorio
+	18.2. ReadOnly: bool - Campo di sola lettura
+	18.3. IsVisible: bool o Expression - Visibilità del campo
+	18.4. ColumnWidth: string - Larghezza colonna nelle tabelle
+	18.5. PageSize: int - Dimensione pagina per lookup
+	18.6. DependsOn: string[] - Dipendenze da altri campi
+	18.7. OnGetOptions: Func<> - Logica personalizzata per opzioni lookup
+	18.8. CssClass: string - Classi CSS personalizzate
+
+19. LAYOUT - ELEMENTI DISPONIBILI:
+	19.1. Flat(...): Layout piatto sequenziale
+	19.2. Row(...): Riga del layout
+	19.3. Col(...): Colonna del layout
+	19.4. Card(title, ...): Card con titolo
+	19.5. RawHtml(html): HTML personalizzato
+
+20. ESEMPI DI PROMPTING PER CREARE FORM:
+
+ESEMPIO 1 - Form Bounded Semplice:
+"Crea una Form bounded al workflow Quotation chiamata ProductEdit che permette di editare i campi Title, Description e Customer del WorkItem QuotationWI"
+
+ESEMPIO 2 - Form con campi Unbound:
+"Crea una Form bounded al workflow Packaging chiamata PackagingView che mostra i campi Description e QuotationId del WorkItem PackagingWI e due campi unbound: TextField Notes e DecimalField EstimatedCost"
+
+ESEMPIO 3 - Form con Layout personalizzato:
+"Crea una Form bounded al workflow Quotation chiamata ProductCreate con campi Title, Description, Customer (del WorkItem) e campo unbound Notes. Usa un layout con Card che raggruppa i campi in due colonne"
+
+ESEMPIO 4 - Form Unbounded:
+"Crea una Form unbounded chiamata ActionConfirm con due campi unbound: TextField ActionMsg e MemoField ActionNote"
+
+ESEMPIO 5 - SubForm per tabelle:
+"Crea una SubForm<Ingredient> chiamata IngredientRow con campi Description, Material (BoLookupField<Material>), Percentage (DecimalField) e Phase (EnumField<FormulaPhase>)"
+
+21. PATTERN COMUNI:
+	21.1. Form di creazione: Usano OnLoad() per inizializzare valori di default
+	21.2. Form di visualizzazione: Spesso hanno campi ReadOnly
+	21.3. Form con tabelle: Usano TableField e corrispondenti SubForm
+	21.4. Form con dipendenze: Usano DependsOn per aggiornamenti automatici
+	21.5. Form con validazioni: Usano Required e logica custom in OnRefresh
+
+22. CONFIGURAZIONI AVANZATE:
+	22.1. Visibilità condizionale: IsVisible = Exp(() => AltroCampo.Value == valore)
+	22.2. Lookup personalizzati: OnGetOptions = () => Context.BO.All<T>().Where(...)
+	22.3. Configurazioni tabelle: CanFilter, CanSort, CanEdit, CanAdd, CanRemove, IsEditInline
+	22.4. Styling: CssClass per personalizzare l'aspetto visuale
+
+TEMPLATE BASE PER PROMPTING:
+"Crea una Form [bounded al workflow X / unbounded] chiamata [NomeForm] che [gestisce/mostra/permette di editare] i campi [lista campi] [del WorkItem XWI / unbound] [con eventuali specifiche di layout/configurazione]"
+
+ESEMPI PRATICI BASATI SUL PROGETTO INTERCOS:
+
+23. ESEMPI SPECIFICI INTERCOS:
+
+ESEMPIO A - Form Bounded con WorkItem:
+"Crea una Form bounded al workflow Packaging chiamata PackagingDetails che permette di editare AssOwner, LastModifiedDate, QuotationId del WorkItem PackagingWI e un campo unbound TextField Notes"
+
+ESEMPIO B - Form con Lookup Business Objects:
+"Crea una Form bounded al workflow Quotation chiamata ProductSelection con campi Customer (BoLookupField<Customer>), Formula (BoLookupField<Formula>) del WorkItem QuotationWI e campo unbound DecimalField EstimatedPrice"
+
+ESEMPIO C - Form con TableField:
+"Crea una Form bounded al workflow Quotation chiamata IngredientManagement con campo Ingredients (TableField<Ingredient, IngredientRow>) unbound per gestire una tabella di ingredienti"
+
+ESEMPIO D - Form con Layout complesso:
+"Crea una Form bounded al workflow Quotation chiamata BriefSummary con campi Title, Description, Customer del WorkItem e campi unbound Notes, EstimatedCost. Usa un layout a Card con due colonne e separatori"
+
+ESEMPIO E - SubForm per tabelle:
+"Crea una SubForm<Plant> chiamata PlantRow con campi Name, Vendor (BoLookupField<Vendor>), Country, EmployeeNumber e MaxProdCap con configurazioni di larghezza colonna"

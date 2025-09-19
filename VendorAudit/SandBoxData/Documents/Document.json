@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "1",
+    "FileName": "Vendor_Audit_Report.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-05-22T15:37Z",
+    "ModifiedOn": "2025-05-22T13:37Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "2",
+    "FileName": "WIId_17_AuditResponses.xlsx",
+    "MimeType": "application/xlsx",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-05-21T17:52Z",
+    "ModifiedOn": "2025-05-21T15:51Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "3",
+    "FileName": "mock-up_audit_report_empty.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-05-21T13:28Z",
+    "ModifiedOn": "2025-05-21T13:28Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "4",
+    "FileName": "Plant_2_AIReputation.html",
+    "MimeType": null,
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-07-04T07:53Z",
+    "ModifiedOn": "2025-07-04T07:53Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "5",
+    "FileName": "Plant_5_AIReputation.html",
+    "MimeType": null,
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-07-04T07:53Z",
+    "ModifiedOn": "2025-07-04T07:53Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "6",
+    "FileName": "Plant_6_AIReputation.html",
+    "MimeType": null,
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-07-04T07:53Z",
+    "ModifiedOn": "2025-07-04T07:53Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "7",
+    "FileName": "Plant_12_AIReputation.html",
+    "MimeType": null,
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-07-05T01:29Z",
+    "ModifiedOn": "2025-07-05T01:29Z",
+    "DocumentClass": "Document"
+  }
+]

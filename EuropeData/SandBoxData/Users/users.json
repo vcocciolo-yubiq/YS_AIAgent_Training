@@ -1,0 +1,14 @@
+[
+  {
+    "UserName": "AdminUser",
+    "FullName": "Admin User",
+    "Roles": "Admin",
+    "CompanyName": "Avvale Italy",
+    "Language": "it-IT",
+    "UserImg": "m1.png",
+    "Email": "admin.user@avvale.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  }
+]

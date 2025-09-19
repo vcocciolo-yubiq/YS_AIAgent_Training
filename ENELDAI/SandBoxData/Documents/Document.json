@@ -1,0 +1,242 @@
+[
+  {
+    "Id": "1",
+    "FileName": "Invoice Sample.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T13:40Z",
+    "ModifiedOn": "2025-06-19T11:39Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "2",
+    "FileName": "boarding-pass.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T11:43Z",
+    "ModifiedOn": "2025-06-19T09:43Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "3",
+    "FileName": "Invoice Sample.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T09:58Z",
+    "ModifiedOn": "2025-06-19T07:56Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "4",
+    "FileName": "Giustificativo Cliente.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T10:00Z",
+    "ModifiedOn": "2025-06-19T07:56Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "5",
+    "FileName": "Invoice Sample.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T08:43Z",
+    "ModifiedOn": "2025-06-19T06:43Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "6",
+    "FileName": "Invoice Sample.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T06:47Z",
+    "ModifiedOn": "2025-06-19T04:46Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "7",
+    "FileName": "Invoice Sample.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T04:50Z",
+    "ModifiedOn": "2025-06-19T02:50Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "8",
+    "FileName": "Invoice Sample.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T03:12Z",
+    "ModifiedOn": "2025-06-19T01:11Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "9",
+    "FileName": "Invoice Sample.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T01:37Z",
+    "ModifiedOn": "2025-06-18T23:37Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "10",
+    "FileName": "Invoice Sample.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T23:50Z",
+    "ModifiedOn": "2025-06-18T21:50Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "11",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T00:43Z",
+    "ModifiedOn": "2025-06-18T22:42Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "12",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T23:05Z",
+    "ModifiedOn": "2025-06-18T21:05Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "13",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T21:07Z",
+    "ModifiedOn": "2025-06-18T19:06Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "14",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T19:12Z",
+    "ModifiedOn": "2025-06-18T17:12Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "15",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T17:18Z",
+    "ModifiedOn": "2025-06-18T15:18Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "16",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T15:22Z",
+    "ModifiedOn": "2025-06-18T13:22Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "17",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T13:29Z",
+    "ModifiedOn": "2025-06-18T11:29Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "18",
+    "FileName": "4174_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T11:47Z",
+    "ModifiedOn": "2025-06-18T09:45Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "19",
+    "FileName": "1566_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-18T07:54Z",
+    "ModifiedOn": "2025-06-18T05:51Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "20",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T17:46Z",
+    "ModifiedOn": "2025-06-19T15:30Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "21",
+    "FileName": "4201_1.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T16:01Z",
+    "ModifiedOn": "2025-06-19T13:58Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "22",
+    "FileName": "Fattura 01.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-19T20:49Z",
+    "ModifiedOn": "2025-06-19T18:48Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "23",
+    "FileName": "1414120.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "0",
+    "CreatorString": "",
+    "CreatedOn": "2025-06-20T12:16Z",
+    "ModifiedOn": "2025-06-20T10:14Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "24",
+    "FileName": "1414120.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "1070137",
+    "CreatorString": "Admin User",
+    "CreatedOn": "2025-07-01T16:51Z",
+    "ModifiedOn": "2025-07-01T14:49Z",
+    "DocumentClass": "Document"
+  }
+]

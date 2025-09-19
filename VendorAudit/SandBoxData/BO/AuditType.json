@@ -1,0 +1,192 @@
+[
+  {
+    "Id": "17",
+    "Name": "AQL (Acceptable Quality Limit) Inspection",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "18",
+    "Name": "Lab Testing for physical, chemical, and performance standards",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "20",
+    "Name": "Production Line Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "21",
+    "Name": "Pattern and Fit Audits",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "22",
+    "Name": "Garment Construction and Measurement Check",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "23",
+    "Name": "Needle and Metal Detection Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "24",
+    "Name": "Customs-Trade Partnership Against Terrorism (C-TPAT)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "25",
+    "Name": "GSV (Global Security Verification)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "26",
+    "Name": "Fire Safety & Evacuation Plan Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "27",
+    "Name": "Occupational Health & Safety Assessment Series (OHSAS 18001 / ISO 45001)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "28",
+    "Name": "Personal Protective Equipment (PPE) Compliance Check",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "29",
+    "Name": "ZDHC Chemical Management Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "30",
+    "Name": "REACH Compliance Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "31",
+    "Name": "MRSL (Manufacturing Restricted Substances List) Verification",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "32",
+    "Name": "Fair Trade Certification Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "33",
+    "Name": "Ethical Trading Initiative (ETI) Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "34",
+    "Name": "GOTS (Global Organic Textile Standard)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "35",
+    "Name": "OEKO-TEX Standard 100",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "36",
+    "Name": "GRS (Global Recycled Standard)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "37",
+    "Name": "RCS (Recycled Claim Standard)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "1",
+    "Name": "SA8000 Certification Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "6",
+    "Name": "SMETA (Sedex Members Ethical Trade Audit)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "2",
+    "Name": "WRAP (Worldwide Responsible Accredited Production)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "8",
+    "Name": "ISO 14001 Environmental Management Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "9",
+    "Name": "ZDHC (Zero Discharge of Hazardous Chemicals) Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "3",
+    "Name": "BSCI (Business Social Compliance Initiative)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "4",
+    "Name": "ICTI (International Council of Toy Industries)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "5",
+    "Name": "ETI Base Code Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "7",
+    "Name": "Higg Index (Facility Environmental Module - FEM)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "11",
+    "Name": "LEED Certification Audit (for buildings)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "10",
+    "Name": "BLUESIGN® System Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "12",
+    "Name": "Initial Production Check (IPC)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "14",
+    "Name": "Final Random Inspection (FRI)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "13",
+    "Name": "During Production Inspection (DUPRO)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "16",
+    "Name": "Pre-shipment Inspection (PSI)",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "19",
+    "Name": "Process Capability Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "38",
+    "Name": "JAGGAER Sustainability Audit",
+    "BusinessObjectType": "AuditType"
+  },
+  {
+    "Id": "15",
+    "Name": "Inline Inspection",
+    "BusinessObjectType": "AuditType"
+  }
+]

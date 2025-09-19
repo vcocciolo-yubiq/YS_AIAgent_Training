@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "2",
+    "SubTotal": null,
+    "TotalTax": null,
+    "InvoiceTotal": "818601.82",
+    "BusinessObjectType": "Footer"
+  },
+  {
+    "Id": "5",
+    "SubTotal": null,
+    "TotalTax": null,
+    "InvoiceTotal": "818601.82",
+    "BusinessObjectType": "Footer"
+  },
+  {
+    "Id": "8",
+    "SubTotal": null,
+    "TotalTax": null,
+    "InvoiceTotal": "54.35",
+    "BusinessObjectType": "Footer"
+  },
+  {
+    "Id": "11",
+    "SubTotal": null,
+    "TotalTax": null,
+    "InvoiceTotal": "818601.82",
+    "BusinessObjectType": "Footer"
+  },
+  {
+    "Id": "14",
+    "SubTotal": null,
+    "TotalTax": null,
+    "InvoiceTotal": "2008.83",
+    "BusinessObjectType": "Footer"
+  }
+]

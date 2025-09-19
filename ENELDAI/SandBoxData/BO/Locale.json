@@ -1,0 +1,290 @@
+[
+  {
+    "Id": "1",
+    "Code": "sq-AL",
+    "Name": "Albanian (Albania)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "2",
+    "Code": "ar-AR",
+    "Name": "Arabic (Arabic)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "3",
+    "Code": "bg-BG",
+    "Name": "Bulgarian (Bulgaria)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "4",
+    "Code": "zh-hans-CN",
+    "Name": "Chinese simplified (China)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "5",
+    "Code": "zh-hant-HK",
+    "Name": "Chinese traditional (Hong Kong SAR)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "6",
+    "Code": "zh-hant-TW",
+    "Name": "Chinese traditional (Taiwan)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "7",
+    "Code": "hr-BA",
+    "Name": "Croatian (Bosnia and Herzegovina)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "8",
+    "Code": "hr-HR",
+    "Name": "Croatian (Croatia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "9",
+    "Code": "hr-RS",
+    "Name": "Croatian (Serbia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "10",
+    "Code": "cs-CZ",
+    "Name": "Czech (Czech Republic)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "11",
+    "Code": "da-DK",
+    "Name": "Dasish (Denmark)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "12",
+    "Code": "nl-NL",
+    "Name": "Dutch (Netherlands)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "13",
+    "Code": "en-US",
+    "Name": "English (United States)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "14",
+    "Code": "en-AU",
+    "Name": "English (Australia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "15",
+    "Code": "en-CA",
+    "Name": "English (Canada)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "17",
+    "Code": "en-IN",
+    "Name": "English (India)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "18",
+    "Code": "et-EE",
+    "Name": "Estonian (Estonia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "19",
+    "Code": "fi-FL",
+    "Name": "Finnish (Finland)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "20",
+    "Code": "fr-FR",
+    "Name": "French (France)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "21",
+    "Code": "de-DE",
+    "Name": "German (Germany)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "22",
+    "Code": "el-EL",
+    "Name": "Greek (Greece)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "23",
+    "Code": "he-he",
+    "Name": "Hebrew (Hebrew)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "24",
+    "Code": "hu-HU",
+    "Name": "Hungarian (Hungary)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "25",
+    "Code": "en-IN",
+    "Name": "Icelandic (Iceland)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "27",
+    "Code": "ja-JA",
+    "Name": "Japanese (Japan)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "28",
+    "Code": "ko-KR",
+    "Name": "Korean (South Korea)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "29",
+    "Code": "lv-LV",
+    "Name": "Latvian (Latvia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "30",
+    "Code": "lt-LT",
+    "Name": "Lithuanian (Lithuania)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "31",
+    "Code": "mk-MK",
+    "Name": "Macedonian (Noth Macedonia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "32",
+    "Code": "ms-MS",
+    "Name": "Malay (Malaysia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "33",
+    "Code": "nb-no",
+    "Name": "Norvegian (Norvay)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "34",
+    "Code": "pl-PL",
+    "Name": "Polish (Poland)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "35",
+    "Code": "pt-PT",
+    "Name": "Portuguese (Portugal)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "36",
+    "Code": "pt-BR",
+    "Name": "Portuguese (Brazil)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "37",
+    "Code": "ro-RO",
+    "Name": "Romanian (Romania)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "38",
+    "Code": "ru-RU",
+    "Name": "Russian (Russia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "39",
+    "Code": "sr-cyrl-SR",
+    "Name": "Serbian Cyrillic (Serbia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "40",
+    "Code": "sr-latn-RS",
+    "Name": "Serbian Latin (Serbia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "41",
+    "Code": "sk-SV",
+    "Name": "Slovak (Slovakia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "42",
+    "Code": "sl-SL",
+    "Name": "Slovenian (Slovenia)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "43",
+    "Code": "es-ES",
+    "Name": "Spanish (Spain)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "44",
+    "Code": "sv-SE",
+    "Name": "Swedish (Sweden)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "45",
+    "Code": "th-TH",
+    "Name": "Thai (Thailand)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "46",
+    "Code": "tr-TR",
+    "Name": "Turkish (Turkey)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "47",
+    "Code": "sr-cyrl-SR",
+    "Name": "Ukrainian (Ukraine)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "48",
+    "Code": "vi-VN",
+    "Name": "Vietnamese (Vietnam)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "26",
+    "Code": "it-IT",
+    "Name": "Italian (Italy)",
+    "BusinessObjectType": "Locale"
+  },
+  {
+    "Id": "16",
+    "Code": "en-UK",
+    "Name": "English (United Kingdom)",
+    "BusinessObjectType": "Locale"
+  }
+]

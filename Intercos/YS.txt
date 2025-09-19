@@ -1,0 +1,45 @@
+1. Le Form possono essere di diverso tipo:
+	1.1. Bounded: Collegate ad un Workflow specifico e quindi al suo WorkItem
+	1.2. UnBounded: Non collegate a workflow e quindi non collegate ad alcun WorkItem
+
+2. Alla creazione occorre chiedere conferma del tipo di form e se di tipo Bounded occorre chiedere conferma in quale Workflow e quindi quale WorkItem usare
+
+3. L'elenco dei Workflow � rappresentato dal nome della classe contenuta all'interno dei file \Workflows\*.cs
+
+4. I nomi dei Workitem relativi sono rappresentati dal nome della classe contenuta all'interno dei file \Workitems\*.class
+
+5. La Form utilizza tipicamente degli oggetti chiamati Business Objects che risiedono nella cartella \BusinessObjects
+
+6. Da adesso in poi, negli esempi di codice C# indicheremo 
+	6.1 con %project% il nome del progetto;
+	6.2 con %workflow% il nome del workflow;
+	6.3 con %workitem% il nome del workitem;
+	6.4 con %bo% il nome di un generico BusinessO Object
+
+7. Le Form di un workflow di un progetto specifico sono classi c# strutturate in modo standard. 
+
+8. Vengono posizionate nel progetto relativo nella cartella Forms.
+
+9. Ogni Form contiene la definizione dei seguenti Namespace standard:
+using YubikStudioCore;
+using YubikStudioCore.Documents;
+using YubikStudioCore.Attributes;
+using YubikStudioCore.Forms;
+using YubikStudioCore.Forms.Attributes;
+
+10. Ai quali si aggiungono quelli necessari per il codice C# presente nella classe
+
+11. Segue il namespace %project%.Forms
+
+12. Segue la definizione della classe: public class %form% : Form<%workitem%>
+
+13. Seguono l'elenco dei Campi della Classe che dipendono dai campi della form da creare. I campi possibili sono i seguenti: 
+	12.1 Base: TextField, MemoField , IntField, DecimalField, DateTimeField, DateField, TimeField, ToogleField, ButtonField
+	12.2 Core: UserLookupField, MultiUserLookupField
+	12.3 Business Objects: BOLookupField<%bo%>, MultiBOLookupField<%bo%>
+	12.4 WorkItem: WILookupField<%workitem%>, MultiWILookupField<%workitem%>
+	12.5 Document: DocumentField
+	12.6 Part: ChartPart, HTMLPart, TabPart, CardPart, MapPart
+ 
+ 14. Se un campo della form è legato ad un campo del WorkItem il nome del campo è uguale al nome del corrispondente campo del Workitem altrimenti si inserisce la decorazione "[Unbouded] per indicare che il campo della form è sganciato dal qualsiasi campo del Workitem
+ 

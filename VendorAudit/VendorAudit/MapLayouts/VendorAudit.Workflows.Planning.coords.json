@@ -1,0 +1,34 @@
+{
+  "VendorAudit.Workflows.Planning.Stage1": {
+    "wfName": "VendorAudit.Workflows.Planning",
+    "id": "VendorAudit.Workflows.Planning.Stage1",
+    "x": 669.8259095480107,
+    "y": 489.5230057100687,
+    "fx": 669.8259095480107,
+    "fy": 489.5230057100687
+  },
+  "VendorAudit.Workflows.Planning.Archive": {
+    "wfName": "VendorAudit.Workflows.Planning",
+    "id": "VendorAudit.Workflows.Planning.Archive",
+    "x": 597.8905066803964,
+    "y": 245.90963033460793,
+    "fx": 597.8905066803964,
+    "fy": 245.90963033460793
+  },
+  "VendorAudit.Workflows.Planning.CreateItem": {
+    "wfName": "VendorAudit.Workflows.Planning",
+    "id": "VendorAudit.Workflows.Planning.CreateItem",
+    "x": 135.99583045966384,
+    "y": 84.36629917785048,
+    "fx": 135.99583045966384,
+    "fy": 84.36629917785048
+  },
+  "VendorAudit.Workflows.Planning.Monitor": {
+    "wfName": "VendorAudit.Workflows.Planning",
+    "id": "VendorAudit.Workflows.Planning.Monitor",
+    "x": 331,
+    "y": 237,
+    "fx": 331,
+    "fy": 237
+  }
+}

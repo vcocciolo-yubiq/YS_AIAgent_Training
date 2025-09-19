@@ -1,0 +1,198 @@
+[
+  {
+    "Id": "28",
+    "Phase": "Post-Production",
+    "Name": "Performance feedback",
+    "Description": "Evaluating product performance and customer feedback for future improvements.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "30",
+    "Phase": "Design & Development",
+    "Name": "Prototyping / sampling",
+    "Description": "Producing first samples for review and adjustments.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "31",
+    "Phase": "Design & Development",
+    "Name": "Pattern making",
+    "Description": "Creating patterns for each part of the garment.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "32",
+    "Phase": "Design & Development",
+    "Name": "Technical design",
+    "Description": "Creating technical drawings/spec sheets (tech packs).",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "22",
+    "Phase": "Packaging & Logistics",
+    "Name": "Folding and tagging",
+    "Description": "Adding hang tags, care labels, barcodes.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "25",
+    "Phase": "Packaging & Logistics",
+    "Name": "Shipping & distribution",
+    "Description": "Delivering to retailers or customers.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "23",
+    "Phase": "Packaging & Logistics",
+    "Name": "Packaging",
+    "Description": "Polybagging, boxing, labeling by SKU and size.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "29",
+    "Phase": "Sourcing",
+    "Name": "Material sourcing",
+    "Description": "Selecting and acquiring fabrics, trims, and accessories.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "18",
+    "Phase": "Production",
+    "Name": "Finishing",
+    "Description": "Ironing, trimming threads, adding labels, buttons, etc.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "12",
+    "Phase": "Pre-Production",
+    "Name": "Marker making",
+    "Description": "Arranging patterns on fabric to minimize waste.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "19",
+    "Phase": "Quality Control",
+    "Name": "Final inspections",
+    "Description": "Measuring garments, checking stitching, consistency, etc.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "16",
+    "Phase": "Production",
+    "Name": "Sewing / assembly",
+    "Description": "Garment construction by machine or hand.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "14",
+    "Phase": "Pre-Production",
+    "Name": "Production planning",
+    "Description": "Finalizing quantities, delivery dates, and workflow.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "17",
+    "Phase": "Production",
+    "Name": "In-line quality checks",
+    "Description": "Checking garments during production.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "27",
+    "Phase": "Post-Production",
+    "Name": "Sustainability and waste management",
+    "Description": "Recycling fabric scraps, minimizing overstock, etc.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "24",
+    "Phase": "Packaging & Logistics",
+    "Name": "Warehousing",
+    "Description": "Storage before shipping.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "1",
+    "Phase": "Design & Development",
+    "Name": "Trend research",
+    "Description": "Analyzing fashion trends, colors, and consumer preferences.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "26",
+    "Phase": "Post-Production",
+    "Name": "Returns and repairs",
+    "Description": "Managing faulty items or customer returns.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "7",
+    "Phase": "Sourcing",
+    "Name": "Supplier selection",
+    "Description": "Choosing factories or partners for production.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "2",
+    "Phase": "Design & Development",
+    "Name": "Concept development",
+    "Description": "Sketching ideas, mood boards, and storyboards.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "8",
+    "Phase": "Sourcing",
+    "Name": "Costing",
+    "Description": "Estimating total cost per unit (materials, labor, logistics).",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "9",
+    "Phase": "Sourcing",
+    "Name": "Timeline planning",
+    "Description": "Establishing production and delivery schedules.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "13",
+    "Phase": "Pre-Production",
+    "Name": "Fabric testing",
+    "Description": "Quality, shrinkage, colorfastness, durability, etc.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "10",
+    "Phase": "Pre-Production",
+    "Name": "Sample approvals",
+    "Description": "Fit samples, color approvals, lab dips (for dye accuracy).",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "21",
+    "Phase": "Quality Control",
+    "Name": "Defect handling",
+    "Description": "Repair or rejection of faulty items.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "15",
+    "Phase": "Production",
+    "Name": "Fabric spreading and cutting",
+    "Description": "Laying out and cutting fabric using manual or automated methods.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "20",
+    "Phase": "Quality Control",
+    "Name": "AQL (Acceptable Quality Limit) testing",
+    "Description": "Sampling method to assess product quality.",
+    "BusinessObjectType": "Process"
+  },
+  {
+    "Id": "11",
+    "Phase": "Pre-Production",
+    "Name": "Grading",
+    "Description": "Adjusting the base pattern to create different sizes.",
+    "BusinessObjectType": "Process"
+  }
+]

@@ -1,0 +1,3125 @@
+[
+  {
+    "Id": "13",
+    "Description": "Cera d'Api in Crema Corpo Nutriente",
+    "Material": "7",
+    "Percentage": "6.5",
+    "Phase": "Aqueous",
+    "Quantity": "6.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "14",
+    "Description": "Glicerina Vegetale in Crema Corpo Nutriente",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "15",
+    "Description": "Silicone Dimethicone in Crema Corpo Nutriente",
+    "Material": "20",
+    "Percentage": "14.9",
+    "Phase": "Active",
+    "Quantity": "14.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "22",
+    "Description": "Glicerina Vegetale in Gel Purificante Viso",
+    "Material": "3",
+    "Percentage": "19.2",
+    "Phase": "Aqueous",
+    "Quantity": "19.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "23",
+    "Description": "Silicone Dimethicone in Gel Purificante Viso",
+    "Material": "20",
+    "Percentage": "9.6",
+    "Phase": "Aqueous",
+    "Quantity": "9.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "24",
+    "Description": "Burro di Karité in Gel Purificante Viso",
+    "Material": "6",
+    "Percentage": "3.8",
+    "Phase": "Aqueous",
+    "Quantity": "3.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "25",
+    "Description": "Phenoxyethanol in Gel Purificante Viso",
+    "Material": "5",
+    "Percentage": "2.7",
+    "Phase": "Oil",
+    "Quantity": "2.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "26",
+    "Description": "Olio di Argan in Gel Purificante Viso",
+    "Material": "16",
+    "Percentage": "5.5",
+    "Phase": "Oil",
+    "Quantity": "5.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "27",
+    "Description": "Olio di Mandorle Dolci in Gel Purificante Viso",
+    "Material": "8",
+    "Percentage": "5.6",
+    "Phase": "Oil",
+    "Quantity": "5.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "28",
+    "Description": "Estratto di Calendula in Crema Mani Lenitiva",
+    "Material": "22",
+    "Percentage": "12.0",
+    "Phase": "Aqueous",
+    "Quantity": "12.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "29",
+    "Description": "Allantoina in Crema Mani Lenitiva",
+    "Material": "13",
+    "Percentage": "22.4",
+    "Phase": "Aqueous",
+    "Quantity": "22.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "30",
+    "Description": "Glicerina Vegetale in Crema Mani Lenitiva",
+    "Material": "3",
+    "Percentage": "12.2",
+    "Phase": "Aqueous",
+    "Quantity": "12.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "31",
+    "Description": "Acqua Distillata in Crema Mani Lenitiva",
+    "Material": "4",
+    "Percentage": "8.8",
+    "Phase": "Oil",
+    "Quantity": "8.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "32",
+    "Description": "Acido Salicilico in Crema Mani Lenitiva",
+    "Material": "19",
+    "Percentage": "3.4",
+    "Phase": "Oil",
+    "Quantity": "3.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "33",
+    "Description": "Olio di Mandorle Dolci in Crema Mani Lenitiva",
+    "Material": "8",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "34",
+    "Description": "Pantenolo in Tonico Illuminante",
+    "Material": "29",
+    "Percentage": "14.4",
+    "Phase": "Aqueous",
+    "Quantity": "14.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "35",
+    "Description": "Olio di Argan in Tonico Illuminante",
+    "Material": "16",
+    "Percentage": "22.0",
+    "Phase": "Aqueous",
+    "Quantity": "22.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "36",
+    "Description": "Acido Salicilico in Tonico Illuminante",
+    "Material": "19",
+    "Percentage": "17.9",
+    "Phase": "Aqueous",
+    "Quantity": "17.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "37",
+    "Description": "Acqua Distillata in Tonico Illuminante",
+    "Material": "4",
+    "Percentage": "22.6",
+    "Phase": "Aqueous",
+    "Quantity": "22.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "38",
+    "Description": "Profumo Lavanda in Tonico Illuminante",
+    "Material": "10",
+    "Percentage": "1.6",
+    "Phase": "Oil",
+    "Quantity": "1.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "39",
+    "Description": "Burro di Karité in Tonico Illuminante",
+    "Material": "6",
+    "Percentage": "2.9",
+    "Phase": "Oil",
+    "Quantity": "2.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "40",
+    "Description": "Olio Essenziale di Tea Tree in Tonico Illuminante",
+    "Material": "14",
+    "Percentage": "9.9",
+    "Phase": "Oil",
+    "Quantity": "9.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "41",
+    "Description": "Acido Ialuronico in Tonico Illuminante",
+    "Material": "1",
+    "Percentage": "3.5",
+    "Phase": "Oil",
+    "Quantity": "3.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "42",
+    "Description": "Acido Lattico in Maschera Notte Rigenerante",
+    "Material": "21",
+    "Percentage": "12.2",
+    "Phase": "Aqueous",
+    "Quantity": "12.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "43",
+    "Description": "Burro di Karité in Maschera Notte Rigenerante",
+    "Material": "6",
+    "Percentage": "3.6",
+    "Phase": "Aqueous",
+    "Quantity": "3.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "44",
+    "Description": "Acqua Distillata in Maschera Notte Rigenerante",
+    "Material": "4",
+    "Percentage": "6.8",
+    "Phase": "Oil",
+    "Quantity": "6.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "45",
+    "Description": "Glicerina Vegetale in Maschera Notte Rigenerante",
+    "Material": "3",
+    "Percentage": "1.7",
+    "Phase": "Oil",
+    "Quantity": "1.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "46",
+    "Description": "Niacinamide in Maschera Notte Rigenerante",
+    "Material": "25",
+    "Percentage": "18.2",
+    "Phase": "Active",
+    "Quantity": "18.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "47",
+    "Description": "Olio di Argan in Maschera Notte Rigenerante",
+    "Material": "16",
+    "Percentage": "19.4",
+    "Phase": "Active",
+    "Quantity": "19.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "48",
+    "Description": "Estratto di Calendula in Scrub Viso Naturale",
+    "Material": "22",
+    "Percentage": "20.1",
+    "Phase": "Aqueous",
+    "Quantity": "20.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "49",
+    "Description": "Profumo Lavanda in Scrub Viso Naturale",
+    "Material": "10",
+    "Percentage": "24.9",
+    "Phase": "Aqueous",
+    "Quantity": "24.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "50",
+    "Description": "Acido Ialuronico in Scrub Viso Naturale",
+    "Material": "1",
+    "Percentage": "7.9",
+    "Phase": "Aqueous",
+    "Quantity": "7.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "51",
+    "Description": "Silicone Dimethicone in Scrub Viso Naturale",
+    "Material": "20",
+    "Percentage": "1.6",
+    "Phase": "Aqueous",
+    "Quantity": "1.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "52",
+    "Description": "Allantoina in Scrub Viso Naturale",
+    "Material": "13",
+    "Percentage": "23.3",
+    "Phase": "Oil",
+    "Quantity": "23.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "53",
+    "Description": "Cera d'Api in Scrub Viso Naturale",
+    "Material": "7",
+    "Percentage": "11.7",
+    "Phase": "Oil",
+    "Quantity": "11.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "54",
+    "Description": "Acido Lattico in Scrub Viso Naturale",
+    "Material": "21",
+    "Percentage": "8.7",
+    "Phase": "Oil",
+    "Quantity": "8.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "55",
+    "Description": "Olio Essenziale di Tea Tree in Scrub Viso Naturale",
+    "Material": "14",
+    "Percentage": "1.5",
+    "Phase": "Oil",
+    "Quantity": "1.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "56",
+    "Description": "Acqua Distillata in Crema Doposole",
+    "Material": "4",
+    "Percentage": "3.0",
+    "Phase": "Aqueous",
+    "Quantity": "3.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "57",
+    "Description": "Glicerina Vegetale in Crema Doposole",
+    "Material": "3",
+    "Percentage": "17.2",
+    "Phase": "Aqueous",
+    "Quantity": "17.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "58",
+    "Description": "Silicone Dimethicone in Crema Doposole",
+    "Material": "20",
+    "Percentage": "12.0",
+    "Phase": "Oil",
+    "Quantity": "12.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "59",
+    "Description": "Pantenolo in Crema Doposole",
+    "Material": "29",
+    "Percentage": "6.1",
+    "Phase": "Oil",
+    "Quantity": "6.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "10",
+    "Description": "Estratto di Calendula in Siero Anti-Age",
+    "Material": "22",
+    "Percentage": "16.9",
+    "Phase": "Oil",
+    "Quantity": "16.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "11",
+    "Description": "Silicone Dimethicone in Siero Anti-Age",
+    "Material": "20",
+    "Percentage": "24.5",
+    "Phase": "Active",
+    "Quantity": "24.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "12",
+    "Description": "Pantenolo in Siero Anti-Age",
+    "Material": "29",
+    "Percentage": "19.4",
+    "Phase": "Active",
+    "Quantity": "19.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "1",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "2",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "3",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "4",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "5",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "6",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14.0",
+    "Phase": "Active",
+    "Quantity": "14.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "16",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "20.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "17",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "18",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "19",
+    "Description": "Acqua Distillata in Latte Detergente Delicato",
+    "Material": "4",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "20",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "21",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "15.1",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "67",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "20.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "68",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "69",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "70",
+    "Description": "Lavanda in latte",
+    "Material": "10",
+    "Percentage": "15",
+    "Phase": "Active",
+    "Quantity": "15",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "71",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "72",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "15.1",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "60",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "20.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "61",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "62",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "63",
+    "Description": "Acqua Distillata in Latte Detergente Delicato",
+    "Material": "4",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "64",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "65",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "15.1",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "73",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "20.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "74",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "75",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "76",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "12",
+    "Phase": "Preservative",
+    "Quantity": "12",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "77",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "78",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "15.1",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "80",
+    "Description": "Acido Ialuronica",
+    "Material": "1",
+    "Percentage": "25",
+    "Phase": "Aqueous",
+    "Quantity": "140",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "81",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "10",
+    "Phase": "Other",
+    "Quantity": "23",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "82",
+    "Description": "Burro K.",
+    "Material": "6",
+    "Percentage": "35",
+    "Phase": "Oil",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "83",
+    "Description": "Titanius",
+    "Material": "17",
+    "Percentage": "40",
+    "Phase": "Preservative",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "85",
+    "Description": "Acido Ialuronica",
+    "Material": "1",
+    "Percentage": "25",
+    "Phase": "Aqueous",
+    "Quantity": "140",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "86",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "10",
+    "Phase": "Other",
+    "Quantity": "23",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "87",
+    "Description": "Burro K.",
+    "Material": "6",
+    "Percentage": "25",
+    "Phase": "Oil",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "88",
+    "Description": "Titanius",
+    "Material": "17",
+    "Percentage": "40",
+    "Phase": "Preservative",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "89",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "20.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "90",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "14.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "91",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "92",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "12.5",
+    "Phase": "Preservative",
+    "Quantity": "12",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "93",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "17.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "94",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "15.1",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "97",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "98",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "99",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "100",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "101",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "102",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14.0",
+    "Phase": "Active",
+    "Quantity": "14.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "104",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "21.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "105",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "14.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "106",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "107",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "108",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "109",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "110",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "21.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "111",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "14.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "112",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "113",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "114",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "115",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14.9",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "117",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "30",
+    "Phase": "Preservative",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "118",
+    "Description": "Ethanol",
+    "Material": "5",
+    "Percentage": "50",
+    "Phase": "Active",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "119",
+    "Description": "Allantoina",
+    "Material": "13",
+    "Percentage": "30",
+    "Phase": "Aqueous",
+    "Quantity": "110",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "120",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "121",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "122",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "123",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "124",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "125",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "126",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "127",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "30",
+    "Phase": "Preservative",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "128",
+    "Description": "Ethanol",
+    "Material": "5",
+    "Percentage": "40",
+    "Phase": "Active",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "129",
+    "Description": "Allantoina",
+    "Material": "13",
+    "Percentage": "30",
+    "Phase": "Aqueous",
+    "Quantity": "110",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "130",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "30",
+    "Phase": "Preservative",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "131",
+    "Description": "Ethanol",
+    "Material": "5",
+    "Percentage": "40",
+    "Phase": "Active",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "132",
+    "Description": "Allantoina",
+    "Material": "13",
+    "Percentage": "30",
+    "Phase": "Aqueous",
+    "Quantity": "110",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "133",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "30",
+    "Phase": "Preservative",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "134",
+    "Description": "Ethanol",
+    "Material": "5",
+    "Percentage": "40",
+    "Phase": "Active",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "135",
+    "Description": "Allantoina",
+    "Material": "13",
+    "Percentage": "30",
+    "Phase": "Aqueous",
+    "Quantity": "110",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "136",
+    "Description": null,
+    "Material": "10",
+    "Percentage": "10",
+    "Phase": "Active",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "137",
+    "Description": null,
+    "Material": "2",
+    "Percentage": "80",
+    "Phase": "Aqueous",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "138",
+    "Description": null,
+    "Material": "5",
+    "Percentage": "10",
+    "Phase": "Preservative",
+    "Quantity": "20",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "140",
+    "Description": null,
+    "Material": "10",
+    "Percentage": "10",
+    "Phase": "Active",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "141",
+    "Description": null,
+    "Material": "2",
+    "Percentage": "80",
+    "Phase": "Aqueous",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "142",
+    "Description": null,
+    "Material": "5",
+    "Percentage": "10",
+    "Phase": "Preservative",
+    "Quantity": "20",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "143",
+    "Description": null,
+    "Material": "10",
+    "Percentage": "20",
+    "Phase": "Active",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "144",
+    "Description": null,
+    "Material": "2",
+    "Percentage": "80",
+    "Phase": "Aqueous",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "145",
+    "Description": null,
+    "Material": "5",
+    "Percentage": "10",
+    "Phase": "Preservative",
+    "Quantity": "20",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "151",
+    "Description": null,
+    "Material": "2",
+    "Percentage": "20",
+    "Phase": "Oil",
+    "Quantity": "40",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "153",
+    "Description": "Descriptio",
+    "Material": "2",
+    "Percentage": "20",
+    "Phase": "Oil",
+    "Quantity": "40",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "154",
+    "Description": "Descriptio",
+    "Material": "2",
+    "Percentage": "20",
+    "Phase": "Oil",
+    "Quantity": "40",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "155",
+    "Description": "Desc",
+    "Material": "2",
+    "Percentage": "10",
+    "Phase": "Other",
+    "Quantity": "10",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "146",
+    "Description": null,
+    "Material": "10",
+    "Percentage": "10",
+    "Phase": "Active",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "147",
+    "Description": null,
+    "Material": "2",
+    "Percentage": "80",
+    "Phase": "Aqueous",
+    "Quantity": "50",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "148",
+    "Description": null,
+    "Material": "5",
+    "Percentage": "10",
+    "Phase": "Preservative",
+    "Quantity": "20",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "158",
+    "Description": "Cera d'Api in Crema Corpo Nutriente",
+    "Material": "7",
+    "Percentage": "6.5",
+    "Phase": "Aqueous",
+    "Quantity": "6.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "159",
+    "Description": "Glicerina Vegetale in Crema Corpo Nutriente",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "160",
+    "Description": "Silicone Dimethicone in Crema Corpo Nutriente",
+    "Material": "20",
+    "Percentage": "14.9",
+    "Phase": "Active",
+    "Quantity": "14.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "162",
+    "Description": "Cera d'Api in Crema Corpo Nutriente",
+    "Material": "7",
+    "Percentage": "6.5",
+    "Phase": "Aqueous",
+    "Quantity": "6.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "163",
+    "Description": "Glicerina Vegetale in Crema Corpo Nutriente",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "164",
+    "Description": "Silicone Dimethicone in Crema Corpo Nutriente",
+    "Material": "20",
+    "Percentage": "14.9",
+    "Phase": "Active",
+    "Quantity": "14.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "166",
+    "Description": "Cera d'Api in Crema Corpo Nutriente",
+    "Material": "7",
+    "Percentage": "6.5",
+    "Phase": "Aqueous",
+    "Quantity": "6.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "167",
+    "Description": "Glicerina Vegetale in Crema Corpo Nutriente",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "168",
+    "Description": "Silicone Dimethicone in Crema Corpo Nutriente",
+    "Material": "20",
+    "Percentage": "14.9",
+    "Phase": "Active",
+    "Quantity": "14.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "169",
+    "Description": "Cera d'Api in Crema Corpo Nutriente",
+    "Material": "7",
+    "Percentage": "6.5",
+    "Phase": "Aqueous",
+    "Quantity": "6.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "170",
+    "Description": "Glicerina Vegetale in Crema Corpo Nutriente",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "171",
+    "Description": "Silicone Dimethicone in Crema Corpo Nutriente",
+    "Material": "20",
+    "Percentage": "14.9",
+    "Phase": "Active",
+    "Quantity": "14.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "172",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "60",
+    "Phase": "Preservative",
+    "Quantity": "60",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "173",
+    "Description": "Cera d'Api in Crema Corpo Nutriente",
+    "Material": "7",
+    "Percentage": "6.5",
+    "Phase": "Aqueous",
+    "Quantity": "6.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "174",
+    "Description": "Glicerina Vegetale in Crema Corpo Nutriente",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "175",
+    "Description": "Silicone Dimethicone in Crema Corpo Nutriente",
+    "Material": "20",
+    "Percentage": "14.9",
+    "Phase": "Active",
+    "Quantity": "14.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "176",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "61",
+    "Phase": "Preservative",
+    "Quantity": "60",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "179",
+    "Description": "Phenoxyethanol in Siero Anti-Age",
+    "Material": "5",
+    "Percentage": "24.9",
+    "Phase": "Aqueous",
+    "Quantity": "24.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "180",
+    "Description": "Acido Lattico in Siero Anti-Age",
+    "Material": "21",
+    "Percentage": "11.6",
+    "Phase": "Aqueous",
+    "Quantity": "11.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "181",
+    "Description": "Olio di Argan in Siero Anti-Age",
+    "Material": "16",
+    "Percentage": "2.0",
+    "Phase": "Oil",
+    "Quantity": "2.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "182",
+    "Description": "Estratto di Calendula in Siero Anti-Age",
+    "Material": "22",
+    "Percentage": "16.9",
+    "Phase": "Oil",
+    "Quantity": "16.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "183",
+    "Description": "Silicone Dimethicone in Siero Anti-Age",
+    "Material": "20",
+    "Percentage": "24.5",
+    "Phase": "Active",
+    "Quantity": "24.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "184",
+    "Description": "Pantenolo in Siero Anti-Age",
+    "Material": "29",
+    "Percentage": "19.4",
+    "Phase": "Active",
+    "Quantity": "19.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "186",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "11",
+    "Percentage": "100",
+    "Phase": "Oil",
+    "Quantity": "100",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "187",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "11",
+    "Percentage": "60",
+    "Phase": "Oil",
+    "Quantity": "100",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "188",
+    "Description": "Phenoxyethanol in Siero Anti-Age",
+    "Material": "15",
+    "Percentage": "40",
+    "Phase": "Active",
+    "Quantity": "40",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "189",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "11",
+    "Percentage": "60",
+    "Phase": "Oil",
+    "Quantity": "100",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "190",
+    "Description": "Phenoxyethanol in Siero Anti-Age",
+    "Material": "15",
+    "Percentage": "40",
+    "Phase": "Active",
+    "Quantity": "40",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "193",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "194",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "195",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "196",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "197",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "198",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14.0",
+    "Phase": "Active",
+    "Quantity": "14.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "200",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "201",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "13.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "202",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "203",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "204",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "205",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "206",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "13.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "207",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "13.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "208",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "209",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "210",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "211",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "212",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "13.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "213",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "13.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "214",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "215",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "216",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "217",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "218",
+    "Description": "Q10",
+    "Material": "18",
+    "Percentage": "0.9",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "219",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "13.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "220",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "13.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "221",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "222",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "223",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "224",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "225",
+    "Description": "Q10",
+    "Material": "18",
+    "Percentage": "1.9",
+    "Phase": "Other",
+    "Quantity": "2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "226",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "13.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "227",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "13.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "228",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "229",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "230",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "231",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "232",
+    "Description": "Q10",
+    "Material": "18",
+    "Percentage": "9.9",
+    "Phase": "Other",
+    "Quantity": "2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "235",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "236",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "237",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "238",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "239",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "240",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14.0",
+    "Phase": "Active",
+    "Quantity": "14.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "242",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "243",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "244",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "245",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "246",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "247",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "248",
+    "Description": "Camo",
+    "Material": "9",
+    "Percentage": "13.9",
+    "Phase": "Other",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "249",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "250",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "251",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "252",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "253",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "254",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "255",
+    "Description": "Camo",
+    "Material": "9",
+    "Percentage": "13.9",
+    "Phase": "Other",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "258",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "259",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "260",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "261",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "262",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "263",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14.0",
+    "Phase": "Active",
+    "Quantity": "14.0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "265",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "266",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "267",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "268",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "269",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "270",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "271",
+    "Description": "Burro",
+    "Material": "6",
+    "Percentage": "13.9",
+    "Phase": "Oil",
+    "Quantity": "20",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "272",
+    "Description": "Allantoina in Crema Giorno Idratante",
+    "Material": "13",
+    "Percentage": "11.8",
+    "Phase": "Aqueous",
+    "Quantity": "11.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "273",
+    "Description": "Acido Ialuronico in Crema Giorno Idratante",
+    "Material": "1",
+    "Percentage": "11.9",
+    "Phase": "Aqueous",
+    "Quantity": "11.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "274",
+    "Description": "Glicerina Vegetale in Crema Giorno Idratante",
+    "Material": "3",
+    "Percentage": "17.6",
+    "Phase": "Oil",
+    "Quantity": "17.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "275",
+    "Description": "Estratto di Calendula in Crema Giorno Idratante",
+    "Material": "22",
+    "Percentage": "10.3",
+    "Phase": "Oil",
+    "Quantity": "10.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "276",
+    "Description": "Niacinamide in Crema Giorno Idratante",
+    "Material": "25",
+    "Percentage": "20.5",
+    "Phase": "Active",
+    "Quantity": "20.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "277",
+    "Description": "Acqua Distillata in Crema Giorno Idratante",
+    "Material": "4",
+    "Percentage": "14",
+    "Phase": "Active",
+    "Quantity": "14",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "278",
+    "Description": "Burro",
+    "Material": "6",
+    "Percentage": "13.9",
+    "Phase": "Oil",
+    "Quantity": "20",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "281",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "20.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "282",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "283",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "284",
+    "Description": "Acqua Distillata in Latte Detergente Delicato",
+    "Material": "4",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "285",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "286",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "15.1",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "288",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "31.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "289",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "290",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "291",
+    "Description": "Acqua Distillata in Latte Detergente Delicato",
+    "Material": "4",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "292",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "293",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "15.1",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "294",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "31.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "295",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "296",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "297",
+    "Description": "Acqua Distillata in Latte Detergente Delicato",
+    "Material": "4",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "298",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "299",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "25.3",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "300",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "30.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "301",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "302",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "303",
+    "Description": "Acqua Distillata in Latte Detergente Delicato",
+    "Material": "4",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "304",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "305",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "25.3",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "306",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "20.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "307",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "14.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "308",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "309",
+    "Description": "Vit E",
+    "Material": "2",
+    "Percentage": "12.5",
+    "Phase": "Preservative",
+    "Quantity": "12",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "310",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "17.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "311",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "15.1",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "312",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "30.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "313",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "314",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "315",
+    "Description": "Acqua Distillata in Latte Detergente Delicato",
+    "Material": "4",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "316",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "317",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "25.3",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "319",
+    "Description": "Burro di Karité in Latte Detergente Delicato",
+    "Material": "6",
+    "Percentage": "30.6",
+    "Phase": "Aqueous",
+    "Quantity": "20.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "320",
+    "Description": "Olio di Mandorle Dolci in Latte Detergente Delicato",
+    "Material": "8",
+    "Percentage": "4.7",
+    "Phase": "Aqueous",
+    "Quantity": "4.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "321",
+    "Description": "Olio Essenziale di Tea Tree in Latte Detergente Delicato",
+    "Material": "14",
+    "Percentage": "19.6",
+    "Phase": "Aqueous",
+    "Quantity": "19.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "322",
+    "Description": "Acqua Distillata in Latte Detergente Delicato",
+    "Material": "4",
+    "Percentage": "12.3",
+    "Phase": "Oil",
+    "Quantity": "12.3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "323",
+    "Description": "Cera d'Api in Latte Detergente Delicato",
+    "Material": "7",
+    "Percentage": "7.5",
+    "Phase": "Oil",
+    "Quantity": "7.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "324",
+    "Description": "Niacinamide in Latte Detergente Delicato",
+    "Material": "25",
+    "Percentage": "25.3",
+    "Phase": "Oil",
+    "Quantity": "15.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "328",
+    "Description": "Glicerina Vegetale in Gel Purificante Viso",
+    "Material": "3",
+    "Percentage": "19.2",
+    "Phase": "Aqueous",
+    "Quantity": "19.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "329",
+    "Description": "Silicone Dimethicone in Gel Purificante Viso",
+    "Material": "20",
+    "Percentage": "9.6",
+    "Phase": "Aqueous",
+    "Quantity": "9.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "330",
+    "Description": "Burro di Karité in Gel Purificante Viso",
+    "Material": "6",
+    "Percentage": "3.8",
+    "Phase": "Aqueous",
+    "Quantity": "3.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "331",
+    "Description": "Phenoxyethanol in Gel Purificante Viso",
+    "Material": "5",
+    "Percentage": "2.7",
+    "Phase": "Oil",
+    "Quantity": "2.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "332",
+    "Description": "Olio di Argan in Gel Purificante Viso",
+    "Material": "16",
+    "Percentage": "5.5",
+    "Phase": "Oil",
+    "Quantity": "5.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "333",
+    "Description": "Olio di Mandorle Dolci in Gel Purificante Viso",
+    "Material": "8",
+    "Percentage": "5.6",
+    "Phase": "Oil",
+    "Quantity": "5.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "335",
+    "Description": "Glicerina Vegetale in Gel Purificante Viso",
+    "Material": "3",
+    "Percentage": "19.2",
+    "Phase": "Aqueous",
+    "Quantity": "19.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "336",
+    "Description": "Silicone Dimethicone in Gel Purificante Viso",
+    "Material": "20",
+    "Percentage": "9.6",
+    "Phase": "Aqueous",
+    "Quantity": "9.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "337",
+    "Description": "Burro di Karité in Gel Purificante Viso",
+    "Material": "6",
+    "Percentage": "3.8",
+    "Phase": "Aqueous",
+    "Quantity": "3.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "338",
+    "Description": "Phenoxyethanol in Gel Purificante Viso",
+    "Material": "5",
+    "Percentage": "2.7",
+    "Phase": "Oil",
+    "Quantity": "2.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "339",
+    "Description": "Olio di Argan in Gel Purificante Viso",
+    "Material": "16",
+    "Percentage": "5.5",
+    "Phase": "Oil",
+    "Quantity": "5.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "340",
+    "Description": "Olio di Mandorle Dolci in Gel Purificante Viso",
+    "Material": "8",
+    "Percentage": "5.6",
+    "Phase": "Oil",
+    "Quantity": "5.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "341",
+    "Description": "Acqua",
+    "Material": "4",
+    "Percentage": "53.6",
+    "Phase": "Aqueous",
+    "Quantity": "53.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "346",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "347",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "348",
+    "Description": null,
+    "Material": null,
+    "Percentage": "0",
+    "Phase": "Other",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "349",
+    "Description": "Estratto di Calendula in Siero Anti-Age",
+    "Material": "22",
+    "Percentage": "16.9",
+    "Phase": "Oil",
+    "Quantity": "16.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "350",
+    "Description": "Silicone Dimethicone in Siero Anti-Age",
+    "Material": "20",
+    "Percentage": "24.5",
+    "Phase": "Active",
+    "Quantity": "24.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "351",
+    "Description": "Pantenolo in Siero Anti-Age",
+    "Material": "29",
+    "Percentage": "19.4",
+    "Phase": "Active",
+    "Quantity": "19.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "353",
+    "Description": "Estratto di Calendula in Siero Anti-Age",
+    "Material": "22",
+    "Percentage": "16.9",
+    "Phase": "Oil",
+    "Quantity": "16.9",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "354",
+    "Description": "Silicone Dimethicone in Siero Anti-Age",
+    "Material": "20",
+    "Percentage": "24.5",
+    "Phase": "Active",
+    "Quantity": "24.5",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "355",
+    "Description": "Pantenolo in Siero Anti-Age",
+    "Material": "29",
+    "Percentage": "19.4",
+    "Phase": "Active",
+    "Quantity": "19.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "356",
+    "Description": "Acqua",
+    "Material": "4",
+    "Percentage": "39.2",
+    "Phase": "Aqueous",
+    "Quantity": "39.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "357",
+    "Description": "Acido Lattico in Maschera Notte Rigenerante",
+    "Material": "21",
+    "Percentage": "12.2",
+    "Phase": "Aqueous",
+    "Quantity": "12.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "358",
+    "Description": "Burro di Karité in Maschera Notte Rigenerante",
+    "Material": "6",
+    "Percentage": "3.6",
+    "Phase": "Aqueous",
+    "Quantity": "3.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "359",
+    "Description": "Acqua Distillata in Maschera Notte Rigenerante",
+    "Material": "4",
+    "Percentage": "6.8",
+    "Phase": "Oil",
+    "Quantity": "6.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "360",
+    "Description": "Glicerina Vegetale in Maschera Notte Rigenerante",
+    "Material": "3",
+    "Percentage": "1.7",
+    "Phase": "Oil",
+    "Quantity": "1.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "361",
+    "Description": "Niacinamide in Maschera Notte Rigenerante",
+    "Material": "25",
+    "Percentage": "18.2",
+    "Phase": "Active",
+    "Quantity": "18.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "362",
+    "Description": "Olio di Argan in Maschera Notte Rigenerante",
+    "Material": "16",
+    "Percentage": "19.4",
+    "Phase": "Active",
+    "Quantity": "19.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "364",
+    "Description": "Acido Lattico in Maschera Notte Rigenerante",
+    "Material": "21",
+    "Percentage": "12.2",
+    "Phase": "Aqueous",
+    "Quantity": "12.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "365",
+    "Description": "Burro di Karité in Maschera Notte Rigenerante",
+    "Material": "6",
+    "Percentage": "3.6",
+    "Phase": "Aqueous",
+    "Quantity": "3.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "366",
+    "Description": "Acqua Distillata in Maschera Notte Rigenerante",
+    "Material": "4",
+    "Percentage": "6.8",
+    "Phase": "Oil",
+    "Quantity": "6.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "367",
+    "Description": "Glicerina Vegetale in Maschera Notte Rigenerante",
+    "Material": "3",
+    "Percentage": "1.7",
+    "Phase": "Oil",
+    "Quantity": "1.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "368",
+    "Description": "Niacinamide in Maschera Notte Rigenerante",
+    "Material": "25",
+    "Percentage": "18.2",
+    "Phase": "Active",
+    "Quantity": "18.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "369",
+    "Description": "Olio di Argan in Maschera Notte Rigenerante",
+    "Material": "16",
+    "Percentage": "19.4",
+    "Phase": "Active",
+    "Quantity": "19.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "370",
+    "Description": "Acqua",
+    "Material": "4",
+    "Percentage": "38.2",
+    "Phase": "Aqueous",
+    "Quantity": "38.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "371",
+    "Description": "Acido Lattico in Maschera Notte Rigenerante",
+    "Material": "21",
+    "Percentage": "12.2",
+    "Phase": "Aqueous",
+    "Quantity": "12.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "372",
+    "Description": "Burro di Karité in Maschera Notte Rigenerante",
+    "Material": "6",
+    "Percentage": "3.6",
+    "Phase": "Aqueous",
+    "Quantity": "3.6",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "373",
+    "Description": "Acqua Distillata in Maschera Notte Rigenerante",
+    "Material": "4",
+    "Percentage": "6.8",
+    "Phase": "Oil",
+    "Quantity": "6.8",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "374",
+    "Description": "Glicerina Vegetale in Maschera Notte Rigenerante",
+    "Material": "3",
+    "Percentage": "1.7",
+    "Phase": "Oil",
+    "Quantity": "1.7",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "375",
+    "Description": "Niacinamide in Maschera Notte Rigenerante",
+    "Material": "25",
+    "Percentage": "18.2",
+    "Phase": "Active",
+    "Quantity": "18.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "376",
+    "Description": "Olio di Argan in Maschera Notte Rigenerante",
+    "Material": "16",
+    "Percentage": "19.4",
+    "Phase": "Active",
+    "Quantity": "19.4",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "377",
+    "Description": "Acqua",
+    "Material": "4",
+    "Percentage": "38.1",
+    "Phase": "Aqueous",
+    "Quantity": "38.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "380",
+    "Description": "Acqua Distillata in Crema Doposole",
+    "Material": "4",
+    "Percentage": "3",
+    "Phase": "Aqueous",
+    "Quantity": "3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "381",
+    "Description": "Glicerina Vegetale in Crema Doposole",
+    "Material": "3",
+    "Percentage": "17.2",
+    "Phase": "Aqueous",
+    "Quantity": "17.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "382",
+    "Description": "Silicone Dimethicone in Crema Doposole",
+    "Material": "20",
+    "Percentage": "12",
+    "Phase": "Oil",
+    "Quantity": "12",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "383",
+    "Description": "Pantenolo in Crema Doposole",
+    "Material": "29",
+    "Percentage": "6.1",
+    "Phase": "Oil",
+    "Quantity": "6.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "385",
+    "Description": "Acqua Distillata in Crema Doposole",
+    "Material": "4",
+    "Percentage": "3",
+    "Phase": "Aqueous",
+    "Quantity": "3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "386",
+    "Description": "Glicerina Vegetale in Crema Doposole",
+    "Material": "3",
+    "Percentage": "17.2",
+    "Phase": "Aqueous",
+    "Quantity": "17.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "387",
+    "Description": "Silicone Dimethicone in Crema Doposole",
+    "Material": "20",
+    "Percentage": "12",
+    "Phase": "Oil",
+    "Quantity": "12",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "388",
+    "Description": "Pantenolo in Crema Doposole",
+    "Material": "29",
+    "Percentage": "6.1",
+    "Phase": "Oil",
+    "Quantity": "6.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "389",
+    "Description": "Acqua",
+    "Material": "4",
+    "Percentage": "61",
+    "Phase": "Aqueous",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "390",
+    "Description": "Acqua Distillata in Crema Doposole",
+    "Material": "4",
+    "Percentage": "3",
+    "Phase": "Aqueous",
+    "Quantity": "3",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "391",
+    "Description": "Glicerina Vegetale in Crema Doposole",
+    "Material": "3",
+    "Percentage": "17.2",
+    "Phase": "Aqueous",
+    "Quantity": "17.2",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "392",
+    "Description": "Silicone Dimethicone in Crema Doposole",
+    "Material": "20",
+    "Percentage": "12",
+    "Phase": "Oil",
+    "Quantity": "12",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "393",
+    "Description": "Pantenolo in Crema Doposole",
+    "Material": "29",
+    "Percentage": "6.1",
+    "Phase": "Oil",
+    "Quantity": "6.1",
+    "BusinessObjectType": "Ingredient"
+  },
+  {
+    "Id": "394",
+    "Description": "Acqua",
+    "Material": "4",
+    "Percentage": "61.7",
+    "Phase": "Aqueous",
+    "Quantity": "0",
+    "BusinessObjectType": "Ingredient"
+  }
+]

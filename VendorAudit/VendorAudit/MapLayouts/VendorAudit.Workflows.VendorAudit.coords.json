@@ -1,0 +1,122 @@
+{
+  "VendorAudit.Workflows.VendorAudit.Planning": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.Planning",
+    "x": 412.701205442547,
+    "y": 213.7992429977241,
+    "fx": 412.701205442547,
+    "fy": 213.7992429977241
+  },
+  "VendorAudit.Workflows.VendorAudit.Archive": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.Archive",
+    "x": 1515.4712699559586,
+    "y": 1648.6949721563763,
+    "fx": 1515.4712699559586,
+    "fy": 1648.6949721563763
+  },
+  "VendorAudit.Workflows.VendorAudit.Executing": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.Executing",
+    "x": 724.1599198393355,
+    "y": 802.3265368137122,
+    "fx": 724.1599198393355,
+    "fy": 802.3265368137122
+  },
+  "VendorAudit.Workflows.VendorAudit.Approuving": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.Approuving",
+    "x": 1565.9937038730097,
+    "y": 659.099088749949,
+    "fx": 1565.9937038730097,
+    "fy": 659.099088749949
+  },
+  "VendorAudit.Workflows.VendorAudit.VendorAccept": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.VendorAccept",
+    "x": 640.4315185546875,
+    "y": 478.7462463378906,
+    "fx": 640.4315185546875,
+    "fy": 478.7462463378906
+  },
+  "VendorAudit.Workflows.VendorAudit.VendorInvite": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.VendorInvite",
+    "x": 1218.5800888253966,
+    "y": 572.3827457277257,
+    "fx": 1218.5800888253966,
+    "fy": 572.3827457277257
+  },
+  "VendorAudit.Workflows.VendorAudit.Completed": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.Completed",
+    "x": 352.1175834845071,
+    "y": 1137.8122634887695,
+    "fx": 352.1175834845071,
+    "fy": 1137.8122634887695
+  },
+  "VendorAudit.Workflows.VendorAudit.PrepCommittee": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.PrepCommittee",
+    "x": 1124.444400430913,
+    "y": 1474.5593643188477,
+    "fx": 1124.444400430913,
+    "fy": 1474.5593643188477
+  },
+  "VendorAudit.Workflows.VendorAudit.CreateItem": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.CreateItem",
+    "x": 75,
+    "y": 55,
+    "fx": 71.6541576385498,
+    "fy": 4.327968321444459
+  },
+  "VendorAudit.Workflows.VendorAudit.Finalizing": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.Finalizing",
+    "x": 1942.2153656445917,
+    "y": 1494.2444123918845,
+    "fx": 1942.2153656445917,
+    "fy": 1494.2444123918845
+  },
+  "VendorAudit.Workflows.VendorAudit.CheckNC": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.CheckNC",
+    "x": 1431.8443390889543,
+    "y": 1209.2147413203108,
+    "fx": 1431.8443390889543,
+    "fy": 1209.2147413203108
+  },
+  "VendorAudit.Workflows.VendorAudit.OnHold": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.OnHold",
+    "x": 95.86591339111328,
+    "y": 446.79057139641475,
+    "fx": 95.86591339111328,
+    "fy": 446.79057139641475
+  },
+  "VendorAudit.Workflows.VendorAudit.AuditorInvite": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.AuditorInvite",
+    "x": 776.5042500572079,
+    "y": 393.0613301537524,
+    "fx": 776.5042500572079,
+    "fy": 393.0613301537524
+  },
+  "VendorAudit.Workflows.VendorAudit.Approving": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.Approving",
+    "x": 1050.9755598203772,
+    "y": 1070.7106808687836,
+    "fx": 1050.9755598203772,
+    "fy": 1070.7106808687836
+  },
+  "VendorAudit.Workflows.VendorAudit.PlanAudit": {
+    "wfName": "VendorAudit.Workflows.VendorAudit",
+    "id": "VendorAudit.Workflows.VendorAudit.PlanAudit",
+    "x": 75,
+    "y": 79.37120281764822,
+    "fx": 18.900341033935547,
+    "fy": 79.37120281764822
+  }
+}

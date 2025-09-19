@@ -1,0 +1,52 @@
+[
+  {
+    "Id": "6",
+    "Name": "Gioielli",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "8",
+    "Name": "Pelletteria",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "5",
+    "Name": "Accessori Metallici Calzature",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "3",
+    "Name": "Silk & Soft Accessories",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "10",
+    "Name": "Materia Prima Orologoi",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "4",
+    "Name": "Packaging",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "1",
+    "Name": "Abbigliamento",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "7",
+    "Name": "Calzature",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "9",
+    "Name": "Servizi IT",
+    "BusinessObjectType": "Category"
+  },
+  {
+    "Id": "2",
+    "Name": "Materia Prima Abbigliamento",
+    "BusinessObjectType": "Category"
+  }
+]

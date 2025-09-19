@@ -1,0 +1,98 @@
+[
+  {
+    "UserName": "AdminUser",
+    "FullName": "Admin User",
+    "Roles": "Admin",
+    "CompanyName": "Intercos SpA",
+    "Language": "it-IT",
+    "UserImg": "m1.png",
+    "Email": "admin.user@intercos.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "Sales1",
+    "FullName": "Sergio Necchi",
+    "Roles": "Sales",
+    "CompanyName": "Intercos SpA",
+    "Language": "it-IT",
+    "UserImg": "m2.png",
+    "Email": "sergio.necchi@intercos.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "Bu1",
+    "FullName": "Marco Rossi",
+    "Roles": "BU",
+    "CompanyName": "Intercos SpA",
+    "Language": "it-IT",
+    "UserImg": "m3.png",
+    "Email": "marco.rossi@intercos.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "Controlling1",
+    "FullName": "Antonio Scotti",
+    "Roles": "Controlling",
+    "CompanyName": "Intercos SpA",
+    "Language": "it-IT",
+    "UserImg": "m4.png",
+    "Email": "antonio.scotti@intercos.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  },
+  {
+    "UserName": "Operation1",
+    "FullName": "Luigi Bianchi",
+    "Roles": "Operation",
+    "CompanyName": "Intercos SpA",
+    "Language": "it-IT",
+    "UserImg": "m5.png",
+    "Email": "luigi.bianchi@intercos.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  },
+  {
+    "UserName": "PackDev1",
+    "FullName": "Marina Rossi",
+    "Roles": "PackDevelopment",
+    "CompanyName": "Intercos SpA",
+    "Language": "it-IT",
+    "UserImg": "f1.png",
+    "Email": "marina.rossi@intercos.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  },
+  {
+    "UserName": "Sourcing1",
+    "FullName": "Enrico Nardelli",
+    "Roles": "Sourcing",
+    "CompanyName": "Intercos SpA",
+    "Language": "it-IT",
+    "UserImg": "m6.png",
+    "Email": "enrico.nardelli@intercos.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  },
+  {
+    "UserName": "Industrial1",
+    "FullName": "Giulia Verdi",
+    "Roles": "Industrial",
+    "CompanyName": "Intercos SpA",
+    "Language": "it-IT",
+    "UserImg": "f2.png",
+    "Email": "giulia.verdi@intercos.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  }
+]

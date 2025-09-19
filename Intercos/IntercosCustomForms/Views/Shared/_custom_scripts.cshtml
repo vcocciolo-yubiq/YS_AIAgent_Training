@@ -1,0 +1,22 @@
+<script>
+    window.customMethods = {
+        myCustomFunction() {
+            console.log(this);
+            console.log("myCustomFunction");
+        }
+    }
+    // find the id of the items with the accordion launch the data-bs-toggle="collapse" on the id
+
+    window.onload = function () {
+        @* const elements = document.querySelectorAll('.accordion-collapse.collapse.show');
+        elements.forEach(element => {
+            element.className = 'accordion-collapse collapse';
+        }); *@
+        //select all elements with id item_8 and item_19
+        let elements = document.querySelectorAll('#item_8, #item_19,a #item_28');
+        //debugger;
+        elements.forEach(element => {
+            bootstrap.Collapse.getOrCreateInstance(element).toggle();
+        });
+    };
+</script>

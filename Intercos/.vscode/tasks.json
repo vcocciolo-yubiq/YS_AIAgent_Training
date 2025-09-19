@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build"
+		},
+		{
+			"label": "yubiqstudio: regenerateInjector",
+			"command": "${command:yubiq.regenerateInjector}",
+			"dependsOn": "dotnet: build"
+		},
+		{
+			"type": "shell",
+			"command": "${command:yubiq.getMsBuild}",
+			"args": [
+				"${workspaceFolder}\\YubikStudio.QR.Injector\\YubikStudio.QR.Injector.csproj"
+			],
+			"group": "build",
+			"problemMatcher": "$msCompile",
+			"label": "yubiqstudio: buildinjector",
+			"dependsOn": "yubiqstudio: regenerateInjector"
+
+		}
+	]
+}

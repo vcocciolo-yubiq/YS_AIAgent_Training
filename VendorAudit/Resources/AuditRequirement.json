@@ -1,0 +1,2333 @@
+[
+  {
+    "Id": "136",
+    "AuditType": "10",
+    "Section": "Input Stream Management",
+    "Name": "Only approved chemical inputs are used",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "137",
+    "AuditType": "10",
+    "Section": "Input Stream Management",
+    "Name": "Suppliers provide safety data sheets",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "138",
+    "AuditType": "10",
+    "Section": "Occupational Health and Safety",
+    "Name": "Personal protective equipment is provided and used",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "139",
+    "AuditType": "10",
+    "Section": "Occupational Health and Safety",
+    "Name": "Regular health and safety training is conducted",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "140",
+    "AuditType": "10",
+    "Section": "Consumer Safety",
+    "Name": "All products meet chemical safety requirements",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "141",
+    "AuditType": "10",
+    "Section": "Consumer Safety",
+    "Name": "Testing protocols are in place to validate compliance",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "142",
+    "AuditType": "10",
+    "Section": "Resource Productivity",
+    "Name": "Track and optimize water and energy use",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "143",
+    "AuditType": "10",
+    "Section": "Resource Productivity",
+    "Name": "Implement efficiency improvement plans",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "144",
+    "AuditType": "10",
+    "Section": "Wastewater and Air Emissions",
+    "Name": "Monitor wastewater and air emissions regularly",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "145",
+    "AuditType": "10",
+    "Section": "Wastewater and Air Emissions",
+    "Name": "Treatment systems are in place and maintained",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "146",
+    "AuditType": "11",
+    "Section": "Sustainable Sites",
+    "Name": "Site development minimizes environmental impact",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "147",
+    "AuditType": "11",
+    "Section": "Sustainable Sites",
+    "Name": "Encourage alternative transportation access",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "148",
+    "AuditType": "11",
+    "Section": "Water Efficiency",
+    "Name": "Implement water-efficient landscaping",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "149",
+    "AuditType": "11",
+    "Section": "Water Efficiency",
+    "Name": "Use low-flow plumbing fixtures",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "150",
+    "AuditType": "11",
+    "Section": "Energy and Atmosphere",
+    "Name": "Optimize energy performance",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "151",
+    "AuditType": "11",
+    "Section": "Energy and Atmosphere",
+    "Name": "Use renewable energy sources",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "152",
+    "AuditType": "11",
+    "Section": "Materials and Resources",
+    "Name": "Use recycled and regional materials",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "153",
+    "AuditType": "11",
+    "Section": "Materials and Resources",
+    "Name": "Implement construction waste management",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "154",
+    "AuditType": "11",
+    "Section": "Indoor Environmental Quality",
+    "Name": "Provide adequate ventilation and daylighting",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "155",
+    "AuditType": "11",
+    "Section": "Indoor Environmental Quality",
+    "Name": "Use low-emitting materials",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "156",
+    "AuditType": "12",
+    "Section": "Material Verification",
+    "Name": "Verify material matches approved samples",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "157",
+    "AuditType": "12",
+    "Section": "Material Verification",
+    "Name": "Check material certification and quality",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "158",
+    "AuditType": "12",
+    "Section": "Component and Trim Inspection",
+    "Name": "Check all trims and accessories against specifications",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "159",
+    "AuditType": "12",
+    "Section": "Component and Trim Inspection",
+    "Name": "Inspect labels for accuracy and placement",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "160",
+    "AuditType": "13",
+    "Section": "In-Process Quality",
+    "Name": "Evaluate semi-finished products for defects",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "161",
+    "AuditType": "13",
+    "Section": "In-Process Quality",
+    "Name": "Check consistency in stitching, seams and measurements",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "162",
+    "AuditType": "13",
+    "Section": "Production Line Monitoring",
+    "Name": "Confirm production schedule compliance",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "163",
+    "AuditType": "13",
+    "Section": "Production Line Monitoring",
+    "Name": "Assess quality control practices in the line",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "164",
+    "AuditType": "14",
+    "Section": "Packing and Labeling",
+    "Name": "Check packaging for damage and compliance",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "165",
+    "AuditType": "14",
+    "Section": "Packing and Labeling",
+    "Name": "Verify barcodes, tags, and labels",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "166",
+    "AuditType": "14",
+    "Section": "Final Product Checks",
+    "Name": "Inspect finished goods for visual defects",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "167",
+    "AuditType": "14",
+    "Section": "Final Product Checks",
+    "Name": "Verify measurements against spec sheet",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "168",
+    "AuditType": "15",
+    "Section": "Stitching and Assembly",
+    "Name": "Inspect stitching consistency and seam strength",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "169",
+    "AuditType": "15",
+    "Section": "Stitching and Assembly",
+    "Name": "Check for needle damage or skipped stitches",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "170",
+    "AuditType": "15",
+    "Section": "Operator Practices",
+    "Name": "Verify operator adherence to SOPs",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "171",
+    "AuditType": "15",
+    "Section": "Operator Practices",
+    "Name": "Ensure proper use of tools and equipment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "172",
+    "AuditType": "16",
+    "Section": "Shipment Readiness",
+    "Name": "Confirm all items are packed and labeled for shipment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "173",
+    "AuditType": "16",
+    "Section": "Shipment Readiness",
+    "Name": "Verify quantity matches the purchase order",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "174",
+    "AuditType": "16",
+    "Section": "Carton and Label Checks",
+    "Name": "Inspect carton quality and barcoding",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "175",
+    "AuditType": "16",
+    "Section": "Carton and Label Checks",
+    "Name": "Check carton labeling for accuracy",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "176",
+    "AuditType": "17",
+    "Section": "Sampling and Defect Evaluation",
+    "Name": "Apply correct AQL level for the inspection",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "177",
+    "AuditType": "17",
+    "Section": "Sampling and Defect Evaluation",
+    "Name": "Identify and classify defects correctly",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "178",
+    "AuditType": "17",
+    "Section": "Compliance with Acceptance Criteria",
+    "Name": "Confirm inspection results meet AQL acceptance level",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "179",
+    "AuditType": "17",
+    "Section": "Compliance with Acceptance Criteria",
+    "Name": "Escalate and report major/critical defects",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "180",
+    "AuditType": "18",
+    "Section": "Material and Chemical Testing",
+    "Name": "Conduct chemical tests per standard requirements",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "181",
+    "AuditType": "18",
+    "Section": "Material and Chemical Testing",
+    "Name": "Ensure material complies with restricted substances list",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "182",
+    "AuditType": "18",
+    "Section": "Performance Testing",
+    "Name": "Test for colorfastness, abrasion, tensile strength etc.",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "183",
+    "AuditType": "18",
+    "Section": "Performance Testing",
+    "Name": "Validate results meet buyer specifications",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "184",
+    "AuditType": "19",
+    "Section": "Process Metrics and Analysis",
+    "Name": "Measure process capability indices (Cp, Cpk)",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "185",
+    "AuditType": "19",
+    "Section": "Process Metrics and Analysis",
+    "Name": "Assess variability in critical operations",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "186",
+    "AuditType": "19",
+    "Section": "Process Controls",
+    "Name": "Evaluate control plans and SPC usage",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "187",
+    "AuditType": "19",
+    "Section": "Process Controls",
+    "Name": "Check for process improvement documentation",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "188",
+    "AuditType": "20",
+    "Section": "Line Efficiency and Bottlenecks",
+    "Name": "Assess line layout and material flow",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "189",
+    "AuditType": "20",
+    "Section": "Line Efficiency and Bottlenecks",
+    "Name": "Identify bottlenecks and idle time",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "190",
+    "AuditType": "20",
+    "Section": "Line Compliance and Workmanship",
+    "Name": "Audit line for SOP adherence",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "191",
+    "AuditType": "20",
+    "Section": "Line Compliance and Workmanship",
+    "Name": "Inspect workmanship at key stations",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "192",
+    "AuditType": "21",
+    "Section": "Pattern Accuracy",
+    "Name": "Check patterns against approved sample",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "193",
+    "AuditType": "21",
+    "Section": "Pattern Accuracy",
+    "Name": "Verify grading and sizing consistency",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "194",
+    "AuditType": "21",
+    "Section": "Fit Evaluation",
+    "Name": "Conduct fit test on mannequin or model",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "195",
+    "AuditType": "21",
+    "Section": "Fit Evaluation",
+    "Name": "Compare fit to size specifications",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "196",
+    "AuditType": "22",
+    "Section": "Stitching and Construction",
+    "Name": "Inspect for seam strength and finish",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "197",
+    "AuditType": "22",
+    "Section": "Stitching and Construction",
+    "Name": "Review alignment and sewing defects",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "198",
+    "AuditType": "22",
+    "Section": "Measurement and Tolerance",
+    "Name": "Verify product measurements match tech pack",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "199",
+    "AuditType": "22",
+    "Section": "Measurement and Tolerance",
+    "Name": "Check measurement tolerances",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "200",
+    "AuditType": "23",
+    "Section": "Detection Process",
+    "Name": "Verify working condition of metal detectors",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "201",
+    "AuditType": "23",
+    "Section": "Detection Process",
+    "Name": "Check detector calibration and maintenance logs",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "202",
+    "AuditType": "23",
+    "Section": "Traceability and Isolation",
+    "Name": "Review procedures for isolating contaminated items",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "203",
+    "AuditType": "23",
+    "Section": "Traceability and Isolation",
+    "Name": "Check traceability of detection records",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "204",
+    "AuditType": "24",
+    "Section": "Access Controls and Perimeter Security",
+    "Name": "Evaluate fencing, lighting, and guard patrols",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "205",
+    "AuditType": "24",
+    "Section": "Access Controls and Perimeter Security",
+    "Name": "Verify ID and visitor check procedures",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "206",
+    "AuditType": "24",
+    "Section": "Container and Cargo Security",
+    "Name": "Inspect procedures for container inspection and seals",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "207",
+    "AuditType": "24",
+    "Section": "Container and Cargo Security",
+    "Name": "Confirm shipping records and manifest accuracy",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "208",
+    "AuditType": "25",
+    "Section": "Risk Assessment and Management",
+    "Name": "Conduct facility-level risk assessment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "209",
+    "AuditType": "25",
+    "Section": "Risk Assessment and Management",
+    "Name": "Assess effectiveness of security protocols",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "210",
+    "AuditType": "25",
+    "Section": "Personnel Security",
+    "Name": "Verify employee background check practices",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "211",
+    "AuditType": "25",
+    "Section": "Personnel Security",
+    "Name": "Confirm security awareness training",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "212",
+    "AuditType": "26",
+    "Section": "Fire Prevention Measures",
+    "Name": "Check availability and servicing of fire extinguishers",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "213",
+    "AuditType": "26",
+    "Section": "Fire Prevention Measures",
+    "Name": "Verify fire detection systems and alarm functionality",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "214",
+    "AuditType": "26",
+    "Section": "Evacuation and Emergency Response",
+    "Name": "Review posted evacuation plans and routes",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "215",
+    "AuditType": "26",
+    "Section": "Evacuation and Emergency Response",
+    "Name": "Check fire drill frequency and documentation",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "216",
+    "AuditType": "27",
+    "Section": "Health & Safety Policies",
+    "Name": "Evaluate written safety policy and procedures",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "217",
+    "AuditType": "27",
+    "Section": "Health & Safety Policies",
+    "Name": "Verify appointment of safety representatives",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "218",
+    "AuditType": "27",
+    "Section": "Hazard Identification and Response",
+    "Name": "Inspect risk assessment and incident reports",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "219",
+    "AuditType": "27",
+    "Section": "Hazard Identification and Response",
+    "Name": "Check training on safe work practices",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "220",
+    "AuditType": "28",
+    "Section": "PPE Availability and Usage",
+    "Name": "Check PPE provided to workers matches risk level",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "221",
+    "AuditType": "28",
+    "Section": "PPE Availability and Usage",
+    "Name": "Verify correct use of PPE during operations",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "222",
+    "AuditType": "28",
+    "Section": "PPE Training and Maintenance",
+    "Name": "Confirm training provided for PPE use and care",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "223",
+    "AuditType": "28",
+    "Section": "PPE Training and Maintenance",
+    "Name": "Check schedule for maintenance/replacement of PPE",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "224",
+    "AuditType": "29",
+    "Section": "Chemical Inventory and Storage",
+    "Name": "Maintain up-to-date chemical inventory records",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "225",
+    "AuditType": "29",
+    "Section": "Chemical Inventory and Storage",
+    "Name": "Ensure compliant chemical storage procedures",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "226",
+    "AuditType": "29",
+    "Section": "Chemical Use and Waste Management",
+    "Name": "Review safe chemical use and handling practices",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "227",
+    "AuditType": "29",
+    "Section": "Chemical Use and Waste Management",
+    "Name": "Verify disposal methods for hazardous waste",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "228",
+    "AuditType": "30",
+    "Section": "Regulatory Compliance",
+    "Name": "Verify compliance with REACH SVHC list",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "229",
+    "AuditType": "30",
+    "Section": "Regulatory Compliance",
+    "Name": "Ensure supplier declarations of REACH conformity",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "230",
+    "AuditType": "30",
+    "Section": "Material Testing and Documentation",
+    "Name": "Confirm testing for restricted substances",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "231",
+    "AuditType": "30",
+    "Section": "Material Testing and Documentation",
+    "Name": "Evaluate recordkeeping for REACH documentation",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "232",
+    "AuditType": "31",
+    "Section": "Chemical Verification",
+    "Name": "Review compliance with MRSL chemical restrictions",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "233",
+    "AuditType": "31",
+    "Section": "Chemical Verification",
+    "Name": "Check supplier MRSL declarations",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "234",
+    "AuditType": "31",
+    "Section": "Testing and Supplier Management",
+    "Name": "Conduct periodic MRSL compliance testing",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "235",
+    "AuditType": "31",
+    "Section": "Testing and Supplier Management",
+    "Name": "Verify third-party test reports",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "236",
+    "AuditType": "32",
+    "Section": "Producer Empowerment",
+    "Name": "Verify democratic organization of producer groups",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "237",
+    "AuditType": "32",
+    "Section": "Producer Empowerment",
+    "Name": "Ensure equitable participation in decision-making",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "238",
+    "AuditType": "32",
+    "Section": "Fair Payment and Pricing",
+    "Name": "Confirm compliance with fair trade minimum price",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "239",
+    "AuditType": "32",
+    "Section": "Fair Payment and Pricing",
+    "Name": "Review premium fund usage documentation",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "240",
+    "AuditType": "33",
+    "Section": "Labor Practices",
+    "Name": "Assess protection against forced and child labor",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "241",
+    "AuditType": "33",
+    "Section": "Labor Practices",
+    "Name": "Ensure compliance with working hour laws",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "242",
+    "AuditType": "33",
+    "Section": "Wages and Discrimination",
+    "Name": "Check payment above living wage where possible",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "243",
+    "AuditType": "33",
+    "Section": "Wages and Discrimination",
+    "Name": "Review anti-discrimination policies",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "244",
+    "AuditType": "34",
+    "Section": "Organic Fiber and Processing",
+    "Name": "Ensure only certified organic fibers are used",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "245",
+    "AuditType": "34",
+    "Section": "Organic Fiber and Processing",
+    "Name": "No prohibited chemicals in processing",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "246",
+    "AuditType": "34",
+    "Section": "Social and Environmental Criteria",
+    "Name": "Meet labor standards aligned with ILO conventions",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "247",
+    "AuditType": "34",
+    "Section": "Social and Environmental Criteria",
+    "Name": "Implement wastewater treatment practices",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "248",
+    "AuditType": "35",
+    "Section": "Chemical Testing and Compliance",
+    "Name": "Conduct lab tests for harmful substances",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "249",
+    "AuditType": "35",
+    "Section": "Chemical Testing and Compliance",
+    "Name": "Confirm compliance with OEKO-TEX limits",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "250",
+    "AuditType": "35",
+    "Section": "Documentation and Labeling",
+    "Name": "Ensure proper labeling on finished products",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "251",
+    "AuditType": "35",
+    "Section": "Documentation and Labeling",
+    "Name": "Keep detailed test and compliance records",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "252",
+    "AuditType": "36",
+    "Section": "Recycled Input Verification",
+    "Name": "Traceability of recycled content in products",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "253",
+    "AuditType": "36",
+    "Section": "Recycled Input Verification",
+    "Name": "Supplier provides transaction certificates",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "254",
+    "AuditType": "36",
+    "Section": "Environmental and Chemical Criteria",
+    "Name": "Meet restricted substances and effluent treatment requirements",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "255",
+    "AuditType": "36",
+    "Section": "Environmental and Chemical Criteria",
+    "Name": "Implement proper chemical management systems",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "256",
+    "AuditType": "37",
+    "Section": "Chain of Custody",
+    "Name": "Maintain documentation proving material origin",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "257",
+    "AuditType": "37",
+    "Section": "Chain of Custody",
+    "Name": "Ensure certified flow through all production stages",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "258",
+    "AuditType": "37",
+    "Section": "Labeling and Certification",
+    "Name": "Product labeling complies with RCS guidelines",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "259",
+    "AuditType": "37",
+    "Section": "Labeling and Certification",
+    "Name": "Submit correct documentation for final certification",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "1",
+    "AuditType": "1",
+    "Section": "Child Labor",
+    "Name": "Ensure no employment of workers under 15 (or legal minimum age)",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "2",
+    "AuditType": "1",
+    "Section": "Child Labor",
+    "Name": "Maintain official documents to verify worker ages",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "3",
+    "AuditType": "1",
+    "Section": "Forced or Compulsory Labor",
+    "Name": "No withholding of identity papers or wages",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "4",
+    "AuditType": "1",
+    "Section": "Forced or Compulsory Labor",
+    "Name": "Employment is freely chosen",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "5",
+    "AuditType": "1",
+    "Section": "Health and Safety",
+    "Name": "Emergency procedures and safety equipment available",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "6",
+    "AuditType": "1",
+    "Section": "Health and Safety",
+    "Name": "Regular health and safety training provided",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "7",
+    "AuditType": "1",
+    "Section": "Freedom of Association",
+    "Name": "Workers can join or form trade unions",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "8",
+    "AuditType": "1",
+    "Section": "Freedom of Association",
+    "Name": "Right to collective bargaining is respected",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "9",
+    "AuditType": "1",
+    "Section": "Discrimination",
+    "Name": "No discrimination in employment practices",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "10",
+    "AuditType": "1",
+    "Section": "Discrimination",
+    "Name": "Employment decisions are based on merit",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "11",
+    "AuditType": "1",
+    "Section": "Disciplinary Practices",
+    "Name": "No harsh or inhumane treatment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "12",
+    "AuditType": "1",
+    "Section": "Disciplinary Practices",
+    "Name": "Documented disciplinary procedures",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "13",
+    "AuditType": "1",
+    "Section": "Working Hours",
+    "Name": "Working hours do not exceed legal limits",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "14",
+    "AuditType": "1",
+    "Section": "Working Hours",
+    "Name": "Overtime is voluntary and paid accordingly",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "15",
+    "AuditType": "1",
+    "Section": "Remuneration",
+    "Name": "Wages meet legal minimums and are paid timely",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "16",
+    "AuditType": "1",
+    "Section": "Remuneration",
+    "Name": "All legally mandated benefits provided",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "17",
+    "AuditType": "1",
+    "Section": "Management Systems",
+    "Name": "Internal audits and reviews are conducted regularly",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "18",
+    "AuditType": "1",
+    "Section": "Management Systems",
+    "Name": "Designated representative for SA8000 compliance",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "19",
+    "AuditType": "2",
+    "Section": "Legal Compliance",
+    "Name": "Factory holds all required legal permits and licenses",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "20",
+    "AuditType": "2",
+    "Section": "Legal Compliance",
+    "Name": "Compliance with labor and employment laws",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "21",
+    "AuditType": "2",
+    "Section": "Prohibition of Forced Labor",
+    "Name": "No use of forced, bonded or indentured labor",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "22",
+    "AuditType": "2",
+    "Section": "Prohibition of Forced Labor",
+    "Name": "Workers have the freedom to terminate employment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "23",
+    "AuditType": "2",
+    "Section": "Child Labor Elimination",
+    "Name": "No employment of workers under legal minimum age",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "24",
+    "AuditType": "2",
+    "Section": "Child Labor Elimination",
+    "Name": "Age verification practices in place",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "25",
+    "AuditType": "2",
+    "Section": "Health and Safety",
+    "Name": "Safe working environment maintained",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "26",
+    "AuditType": "2",
+    "Section": "Health and Safety",
+    "Name": "Emergency exits and equipment maintained",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "27",
+    "AuditType": "2",
+    "Section": "Freedom of Association",
+    "Name": "Respect rights of workers to associate freely",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "28",
+    "AuditType": "2",
+    "Section": "Freedom of Association",
+    "Name": "No interference in collective bargaining",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "29",
+    "AuditType": "2",
+    "Section": "Compensation and Benefits",
+    "Name": "Wages meet legal standards",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "30",
+    "AuditType": "2",
+    "Section": "Compensation and Benefits",
+    "Name": "All required benefits are provided",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "31",
+    "AuditType": "2",
+    "Section": "Working Hours",
+    "Name": "Working hours comply with legal limits",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "32",
+    "AuditType": "2",
+    "Section": "Working Hours",
+    "Name": "Overtime is voluntary and compensated",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "33",
+    "AuditType": "2",
+    "Section": "Environmental Compliance",
+    "Name": "Waste and emissions comply with regulations",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "34",
+    "AuditType": "2",
+    "Section": "Environmental Compliance",
+    "Name": "Environmental policies are documented",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "35",
+    "AuditType": "3",
+    "Section": "Social Management System and Cascade Effect",
+    "Name": "Documented social compliance policy",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "36",
+    "AuditType": "3",
+    "Section": "Social Management System and Cascade Effect",
+    "Name": "Management commitment to BSCI Code of Conduct",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "37",
+    "AuditType": "3",
+    "Section": "Workers Involvement and Protection",
+    "Name": "Workers informed of rights and responsibilities",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "38",
+    "AuditType": "3",
+    "Section": "Workers Involvement and Protection",
+    "Name": "Effective grievance mechanism in place",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "39",
+    "AuditType": "3",
+    "Section": "Fair Remuneration",
+    "Name": "Wages meet or exceed legal minimums",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "40",
+    "AuditType": "3",
+    "Section": "Fair Remuneration",
+    "Name": "Timely wage payments with no unlawful deductions",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "41",
+    "AuditType": "3",
+    "Section": "Occupational Health and Safety",
+    "Name": "Workplace is safe and hygienic",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "42",
+    "AuditType": "3",
+    "Section": "Occupational Health and Safety",
+    "Name": "Emergency procedures and exits clearly posted",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "43",
+    "AuditType": "3",
+    "Section": "No Child Labor",
+    "Name": "No workers below legal working age",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "44",
+    "AuditType": "3",
+    "Section": "No Child Labor",
+    "Name": "Verification systems for worker age",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "45",
+    "AuditType": "3",
+    "Section": "No Bonded Labor",
+    "Name": "No forced or bonded labor",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "46",
+    "AuditType": "3",
+    "Section": "No Bonded Labor",
+    "Name": "No retention of identity documents",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "47",
+    "AuditType": "3",
+    "Section": "Ethical Business Behavior",
+    "Name": "Zero tolerance for bribery and corruption",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "48",
+    "AuditType": "3",
+    "Section": "Ethical Business Behavior",
+    "Name": "Transparent procurement and reporting",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "49",
+    "AuditType": "4",
+    "Section": "Child Labor and Young Workers",
+    "Name": "No child labor used in production",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "50",
+    "AuditType": "4",
+    "Section": "Child Labor and Young Workers",
+    "Name": "Valid age documentation for all workers",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "51",
+    "AuditType": "4",
+    "Section": "Working Hours",
+    "Name": "Compliance with legal working hour limits",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "52",
+    "AuditType": "4",
+    "Section": "Working Hours",
+    "Name": "Voluntary and paid overtime",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "53",
+    "AuditType": "4",
+    "Section": "Wages and Benefits",
+    "Name": "Wages meet or exceed minimum wage laws",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "54",
+    "AuditType": "4",
+    "Section": "Wages and Benefits",
+    "Name": "All payments documented and on time",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "55",
+    "AuditType": "4",
+    "Section": "Health and Safety",
+    "Name": "Safe and clean working conditions",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "56",
+    "AuditType": "4",
+    "Section": "Health and Safety",
+    "Name": "Proper signage for emergencies",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "57",
+    "AuditType": "4",
+    "Section": "Disciplinary Practices",
+    "Name": "No corporal punishment or mental abuse",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "58",
+    "AuditType": "4",
+    "Section": "Disciplinary Practices",
+    "Name": "Fair and documented disciplinary procedures",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "59",
+    "AuditType": "4",
+    "Section": "Freedom of Association",
+    "Name": "Right to organize and bargain collectively",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "60",
+    "AuditType": "4",
+    "Section": "Freedom of Association",
+    "Name": "No interference with union activities",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "88",
+    "AuditType": "6",
+    "Section": "Labor Standards",
+    "Name": "Employment is freely chosen",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "89",
+    "AuditType": "6",
+    "Section": "Labor Standards",
+    "Name": "No use of child or forced labor",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "90",
+    "AuditType": "6",
+    "Section": "Health and Safety",
+    "Name": "Safe and hygienic working conditions",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "91",
+    "AuditType": "6",
+    "Section": "Health and Safety",
+    "Name": "Emergency preparedness and fire safety compliance",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "92",
+    "AuditType": "6",
+    "Section": "Environment",
+    "Name": "Environmental permits and documentation are available",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "93",
+    "AuditType": "6",
+    "Section": "Environment",
+    "Name": "Hazardous waste managed as per regulations",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "94",
+    "AuditType": "6",
+    "Section": "Business Ethics",
+    "Name": "Anti-bribery and corruption policy is in place",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "95",
+    "AuditType": "6",
+    "Section": "Business Ethics",
+    "Name": "Whistleblower protection and grievance mechanisms exist",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "96",
+    "AuditType": "6",
+    "Section": "Wages and Working Hours",
+    "Name": "Wages paid meet legal or industry standards",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "97",
+    "AuditType": "6",
+    "Section": "Wages and Working Hours",
+    "Name": "Working hours comply with local laws",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "61",
+    "AuditType": "5",
+    "Section": "Employment is Freely Chosen",
+    "Name": "No forced, bonded or involuntary prison labor",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "62",
+    "AuditType": "5",
+    "Section": "Employment is Freely Chosen",
+    "Name": "Workers are not required to lodge deposits or identity papers",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "63",
+    "AuditType": "5",
+    "Section": "Employment is Freely Chosen",
+    "Name": "Freedom to leave employment with reasonable notice",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "64",
+    "AuditType": "5",
+    "Section": "Freedom of Association",
+    "Name": "Workers are free to join or form trade unions",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "65",
+    "AuditType": "5",
+    "Section": "Freedom of Association",
+    "Name": "Workers have the right to collective bargaining",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "66",
+    "AuditType": "5",
+    "Section": "Freedom of Association",
+    "Name": "Employers adopt open attitude to unions",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "67",
+    "AuditType": "5",
+    "Section": "Working Conditions Are Safe and Hygienic",
+    "Name": "Clean and safe working environment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "68",
+    "AuditType": "5",
+    "Section": "Working Conditions Are Safe and Hygienic",
+    "Name": "Adequate steps taken to prevent accidents and injury",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "69",
+    "AuditType": "5",
+    "Section": "Working Conditions Are Safe and Hygienic",
+    "Name": "Access to clean toilet facilities and potable water",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "70",
+    "AuditType": "5",
+    "Section": "Child Labor Shall Not Be Used",
+    "Name": "No recruitment of child labor",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "71",
+    "AuditType": "5",
+    "Section": "Child Labor Shall Not Be Used",
+    "Name": "Remediation provided for any child found working",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "72",
+    "AuditType": "5",
+    "Section": "Child Labor Shall Not Be Used",
+    "Name": "Maintain proper age verification systems",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "73",
+    "AuditType": "5",
+    "Section": "Living Wages Are Paid",
+    "Name": "Wages meet at least legal or industry minimum standards",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "74",
+    "AuditType": "5",
+    "Section": "Living Wages Are Paid",
+    "Name": "No deductions made for disciplinary reasons",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "75",
+    "AuditType": "5",
+    "Section": "Living Wages Are Paid",
+    "Name": "Wages paid in a timely manner",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "76",
+    "AuditType": "5",
+    "Section": "Working Hours Are Not Excessive",
+    "Name": "Comply with national laws on working hours",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "77",
+    "AuditType": "5",
+    "Section": "Working Hours Are Not Excessive",
+    "Name": "Overtime voluntary and not excessive",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "78",
+    "AuditType": "5",
+    "Section": "Working Hours Are Not Excessive",
+    "Name": "One day off in every 7-day period",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "79",
+    "AuditType": "5",
+    "Section": "No Discrimination Is Practiced",
+    "Name": "No discrimination in hiring or employment practices",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "80",
+    "AuditType": "5",
+    "Section": "No Discrimination Is Practiced",
+    "Name": "All employment decisions based on merit",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "81",
+    "AuditType": "5",
+    "Section": "No Discrimination Is Practiced",
+    "Name": "No harassment or abuse tolerated",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "82",
+    "AuditType": "5",
+    "Section": "Regular Employment Is Provided",
+    "Name": "Work performed on basis of recognized employment relationship",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "83",
+    "AuditType": "5",
+    "Section": "Regular Employment Is Provided",
+    "Name": "No labor-only contracting or sub-contracting",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "84",
+    "AuditType": "5",
+    "Section": "Regular Employment Is Provided",
+    "Name": "Avoid excessive use of fixed-term contracts",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "85",
+    "AuditType": "5",
+    "Section": "No Harsh or Inhumane Treatment Is Allowed",
+    "Name": "No physical abuse or threat",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "86",
+    "AuditType": "5",
+    "Section": "No Harsh or Inhumane Treatment Is Allowed",
+    "Name": "No sexual or other harassment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "87",
+    "AuditType": "5",
+    "Section": "No Harsh or Inhumane Treatment Is Allowed",
+    "Name": "Disciplinary policies are fair and transparent",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "126",
+    "AuditType": "9",
+    "Section": "Chemical Inventory",
+    "Name": "Maintain up-to-date chemical inventory",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "127",
+    "AuditType": "9",
+    "Section": "Chemical Inventory",
+    "Name": "Ensure all chemicals are approved and registered",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "128",
+    "AuditType": "9",
+    "Section": "Storage and Handling",
+    "Name": "Store chemicals in designated, labeled areas",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "129",
+    "AuditType": "9",
+    "Section": "Storage and Handling",
+    "Name": "Provide training for safe handling",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "130",
+    "AuditType": "9",
+    "Section": "Disposal and Waste Management",
+    "Name": "Proper disposal of hazardous waste",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "131",
+    "AuditType": "9",
+    "Section": "Disposal and Waste Management",
+    "Name": "Third-party hazardous waste contractors are certified",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "132",
+    "AuditType": "9",
+    "Section": "Wastewater Testing",
+    "Name": "Regular testing of wastewater for ZDHC parameters",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "133",
+    "AuditType": "9",
+    "Section": "Wastewater Testing",
+    "Name": "Test results comply with ZDHC Wastewater Guidelines",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "134",
+    "AuditType": "9",
+    "Section": "Training and Awareness",
+    "Name": "Training programs on chemical safety and ZDHC guidelines",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "135",
+    "AuditType": "9",
+    "Section": "Training and Awareness",
+    "Name": "Employee understanding of ZDHC MRSL requirements",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "98",
+    "AuditType": "7",
+    "Section": "Environmental Management Systems",
+    "Name": "Facility has a written environmental policy",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "99",
+    "AuditType": "7",
+    "Section": "Environmental Management Systems",
+    "Name": "Environmental roles and responsibilities are defined",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "100",
+    "AuditType": "7",
+    "Section": "Energy Use and Greenhouse Gas Emissions",
+    "Name": "Track total energy consumption by source",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "101",
+    "AuditType": "7",
+    "Section": "Energy Use and Greenhouse Gas Emissions",
+    "Name": "Implement energy efficiency improvement projects",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "102",
+    "AuditType": "7",
+    "Section": "Water Use",
+    "Name": "Measure and monitor water consumption",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "103",
+    "AuditType": "7",
+    "Section": "Water Use",
+    "Name": "Set water use reduction targets",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "104",
+    "AuditType": "7",
+    "Section": "Wastewater",
+    "Name": "Wastewater is treated before discharge",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "105",
+    "AuditType": "7",
+    "Section": "Wastewater",
+    "Name": "Comply with local wastewater discharge regulations",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "106",
+    "AuditType": "7",
+    "Section": "Emissions to Air",
+    "Name": "Track air emissions sources and pollutants",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "107",
+    "AuditType": "7",
+    "Section": "Emissions to Air",
+    "Name": "Air emissions meet regulatory requirements",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "108",
+    "AuditType": "7",
+    "Section": "Waste Management",
+    "Name": "Identify and track all waste streams",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "109",
+    "AuditType": "7",
+    "Section": "Waste Management",
+    "Name": "Waste is properly stored and disposed of",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "110",
+    "AuditType": "7",
+    "Section": "Chemical Management",
+    "Name": "Maintain an up-to-date chemical inventory",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "111",
+    "AuditType": "7",
+    "Section": "Chemical Management",
+    "Name": "Proper chemical labeling and storage",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "112",
+    "AuditType": "8",
+    "Section": "Context of the Organization",
+    "Name": "Identify internal and external issues relevant to EMS",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "113",
+    "AuditType": "8",
+    "Section": "Context of the Organization",
+    "Name": "Determine needs and expectations of interested parties",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "114",
+    "AuditType": "8",
+    "Section": "Leadership",
+    "Name": "Top management demonstrates leadership and commitment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "115",
+    "AuditType": "8",
+    "Section": "Leadership",
+    "Name": "Environmental policy established and communicated",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "116",
+    "AuditType": "8",
+    "Section": "Planning",
+    "Name": "Identify risks and opportunities for EMS",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "117",
+    "AuditType": "8",
+    "Section": "Planning",
+    "Name": "Environmental objectives set and maintained",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "118",
+    "AuditType": "8",
+    "Section": "Support",
+    "Name": "Determine and provide necessary resources",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "119",
+    "AuditType": "8",
+    "Section": "Support",
+    "Name": "Awareness and training on EMS requirements",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "120",
+    "AuditType": "8",
+    "Section": "Operation",
+    "Name": "Plan and control operations affecting environment",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "121",
+    "AuditType": "8",
+    "Section": "Operation",
+    "Name": "Emergency preparedness and response measures in place",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "122",
+    "AuditType": "8",
+    "Section": "Performance Evaluation",
+    "Name": "Monitor and measure EMS performance",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "123",
+    "AuditType": "8",
+    "Section": "Performance Evaluation",
+    "Name": "Internal audits conducted regularly",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "124",
+    "AuditType": "8",
+    "Section": "Improvement",
+    "Name": "Take corrective actions for nonconformities",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  },
+  {
+    "Id": "125",
+    "AuditType": "8",
+    "Section": "Improvement",
+    "Name": "Continual improvement of EMS",
+    "HNC": "False",
+    "ZT": "False",
+    "BusinessObjectType": "AuditRequirement"
+  }
+]

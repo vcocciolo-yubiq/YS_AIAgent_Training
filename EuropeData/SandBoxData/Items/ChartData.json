@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "1",
+    "Title": null,
+    "Workflow": "ChartData",
+    "Stage": "Stage1",
+    "Attachments": "",
+    "Children": "",
+    "History": "[{\"Username\":\"AdminUser\",\"Message\":\"Admin User created a workitem of type ChartData\",\"Timestamp\":\"2025-07-16T18:40:25.674926+02:00\",\"UserImage\":\"m1.png\"},{\"Username\":\"AdminUser\",\"Message\":\"Admin User performed the Obesity action\",\"Timestamp\":\"2025-09-19T10:25:13.950191+02:00\",\"UserImage\":\"m1.png\"}]"
+  }
+]

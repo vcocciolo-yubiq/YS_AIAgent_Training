@@ -1,0 +1,50 @@
+[
+  {
+    "Description": null,
+    "QuotationId": "1",
+    "PackagingComplete": "True",
+    "SecondaryPackageObj": "343",
+    "LastModifiedDate": "2025-07-28T09:24Z",
+    "AssOwner": "PackDev1",
+    "PrimaryPackageObj": "342",
+    "Id": "2",
+    "Title": "Packaging: Siero Viso Idratante",
+    "Workflow": "Packaging",
+    "Stage": "Archive",
+    "Attachments": "",
+    "Children": "",
+    "History": "[{\"Username\":\"AdminUser\",\"Message\":\"Admin User created a workitem of type Packaging\",\"Timestamp\":\"2025-07-28T06:11:50.89432+02:00\",\"UserImage\":\"m1.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the Prendi in carico action bringing the case to the Packaging+PackageDefinition status\",\"Timestamp\":\"2025-07-28T09:22:34.6468068+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the Edit action\",\"Timestamp\":\"2025-07-28T09:23:03.6701239+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the Invia a sourcing action bringing the case to the Packaging+PackageSourcing status\",\"Timestamp\":\"2025-07-28T09:23:08.13122+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"Sourcing1\",\"Message\":\"Enrico Nardelli performed the AddSourcingInfo action\",\"Timestamp\":\"2025-07-28T09:23:42.5433282+02:00\",\"UserImage\":\"m6.png\"},{\"Username\":\"Sourcing1\",\"Message\":\"Enrico Nardelli performed the Invia in validazione action bringing the case to the Packaging+PackageValidation status\",\"Timestamp\":\"2025-07-28T09:23:49.3654682+02:00\",\"UserImage\":\"m6.png\"},{\"Username\":\"Sales1\",\"Message\":\"Sergio Necchi performed the Validate packaging action bringing the case to the Packaging+Archive status\",\"Timestamp\":\"2025-07-28T09:24:18.5023769+02:00\",\"UserImage\":\"m2.png\"}]"
+  },
+  {
+    "Description": null,
+    "QuotationId": "4",
+    "PackagingComplete": "True",
+    "SecondaryPackageObj": "345",
+    "LastModifiedDate": "2025-07-28T06:43Z",
+    "AssOwner": "PackDev1",
+    "PrimaryPackageObj": "344",
+    "Id": "5",
+    "Title": "Packaging: Crema Notte Anti-Età Premium",
+    "Workflow": "Packaging",
+    "Stage": "Archive",
+    "Attachments": "",
+    "Children": "",
+    "History": "[{\"Username\":\"Sales1\",\"Message\":\"Sergio Necchi created a workitem of type Packaging\",\"Timestamp\":\"2025-07-28T06:17:11.4438437+02:00\",\"UserImage\":\"m2.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the TakeInCharge action bringing the case to the Packaging+PackageDefinition status\",\"Timestamp\":\"2025-07-28T06:35:14.1420365+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the Edit action\",\"Timestamp\":\"2025-07-28T06:40:16.8605762+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the Invia a sourcing action bringing the case to the Packaging+PackageSourcing status\",\"Timestamp\":\"2025-07-28T06:40:21.6452927+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"Sourcing1\",\"Message\":\"Enrico Nardelli performed the AddSourcingInfo action\",\"Timestamp\":\"2025-07-28T06:41:54.0041786+02:00\",\"UserImage\":\"m6.png\"},{\"Username\":\"Sourcing1\",\"Message\":\"Enrico Nardelli performed the AddSourcingInfo action\",\"Timestamp\":\"2025-07-28T06:42:15.6561812+02:00\",\"UserImage\":\"m6.png\"},{\"Username\":\"Sourcing1\",\"Message\":\"Enrico Nardelli performed the Invia in validazione action bringing the case to the Packaging+PackageValidation status\",\"Timestamp\":\"2025-07-28T06:42:21.2508713+02:00\",\"UserImage\":\"m6.png\"},{\"Username\":\"Sales1\",\"Message\":\"Sergio Necchi performed the Valida packaging action bringing the case to the Packaging+Archive status\",\"Timestamp\":\"2025-07-28T06:43:04.7937601+02:00\",\"UserImage\":\"m2.png\"}]"
+  },
+  {
+    "Description": null,
+    "QuotationId": "6",
+    "PackagingComplete": "True",
+    "SecondaryPackageObj": "379",
+    "LastModifiedDate": "2025-07-28T10:03Z",
+    "AssOwner": "PackDev1",
+    "PrimaryPackageObj": "378",
+    "Id": "7",
+    "Title": "Packaging: Lozione corpo",
+    "Workflow": "Packaging",
+    "Stage": "Archive",
+    "Attachments": "",
+    "Children": "",
+    "History": "[{\"Username\":\"Sales1\",\"Message\":\"Sergio Necchi created a workitem of type Packaging\",\"Timestamp\":\"2025-07-28T09:44:28.9824798+02:00\",\"UserImage\":\"m2.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the Prendi in carico action bringing the case to the Packaging+PackageDefinition status\",\"Timestamp\":\"2025-07-28T09:53:27.6706326+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the Edit action\",\"Timestamp\":\"2025-07-28T09:53:45.8064703+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"PackDev1\",\"Message\":\"Marina Rossi performed the Invia a sourcing action bringing the case to the Packaging+PackageSourcing status\",\"Timestamp\":\"2025-07-28T09:53:50.9015691+02:00\",\"UserImage\":\"f1.png\"},{\"Username\":\"Sourcing1\",\"Message\":\"Enrico Nardelli performed the AddSourcingInfo action\",\"Timestamp\":\"2025-07-28T09:55:47.3451866+02:00\",\"UserImage\":\"m6.png\"},{\"Username\":\"Sourcing1\",\"Message\":\"Enrico Nardelli performed the Invia in validazione action bringing the case to the Packaging+PackageValidation status\",\"Timestamp\":\"2025-07-28T10:02:40.1195816+02:00\",\"UserImage\":\"m6.png\"},{\"Username\":\"Sales1\",\"Message\":\"Sergio Necchi performed the Valida packaging action bringing the case to the Packaging+Archive status\",\"Timestamp\":\"2025-07-28T10:03:43.8103276+02:00\",\"UserImage\":\"m2.png\"}]"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "UserName": "AdminUser",
+    "FullName": "Admin User",
+    "Roles": "Admin",
+    "CompanyName": "Avvale Italy",
+    "Language": "en-US",
+    "UserImg": "m1.png",
+    "Email": "admin.user@avvale.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "SergioNecchi",
+    "FullName": "Sergio Necchi",
+    "Roles": "Director",
+    "CompanyName": "Avvale Italy",
+    "Language": "it-IT",
+    "UserImg": "m2.png",
+    "Email": "sergio.necchi@avvale.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "MarcoRossi",
+    "FullName": "Marco Rossi",
+    "Roles": "Employee",
+    "CompanyName": "Avvale Italy",
+    "Language": "it-IT",
+    "UserImg": "m3.png",
+    "Email": "marco.rossi@avvale.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "AntonioScotti",
+    "FullName": "Antonio Scotti",
+    "Roles": "Employee",
+    "CompanyName": "Avvale Italy",
+    "Language": "it-IT",
+    "UserImg": "m4.png",
+    "Email": "antonio.scotti@avvale.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  },
+  {
+    "UserName": "LuigiBianchi",
+    "FullName": "Luigi Bianchi",
+    "Roles": "Employee",
+    "CompanyName": "Avvale Italy",
+    "Language": "it-IT",
+    "UserImg": "m5.png",
+    "Email": "luigi.bianchi@avvale.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  },
+  {
+    "UserName": "MarinaRossi",
+    "FullName": "Marina Rossi",
+    "Roles": "Employee, TravelDept",
+    "CompanyName": "Avvale Italy",
+    "Language": "it-IT",
+    "UserImg": "f1.png",
+    "Email": "marina.rossi@avvale.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  },
+  {
+    "UserName": "EnricoNardelli",
+    "FullName": "Enrico Nardelli",
+    "Roles": "Employee, TravelDept",
+    "CompanyName": "Avvale Italy",
+    "Language": "it-IT",
+    "UserImg": "m6.png",
+    "Email": "enrico.nardelli@avvale.com",
+    "Profile": {
+      "ManagedBy": "MarcoRossi"
+    }
+  },
+  {
+    "UserName": "FelipeJimenez",
+    "FullName": "Felipe Jimenez",
+    "Roles": "Director",
+    "CompanyName": "Avvale Spain",
+    "Language": "es-ES",
+    "UserImg": "m7.png",
+    "Email": "felipe.jimenez@avvale.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "AlejandoBalde",
+    "FullName": "Alejando Balde",
+    "Roles": "Employee",
+    "CompanyName": "Avvale Spain",
+    "Language": "es-ES",
+    "UserImg": "m8.png",
+    "Email": "alejando.balde@avvale.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "IsabellaNavarro",
+    "FullName": "Isabella Navarro",
+    "Roles": "Employee",
+    "CompanyName": "Avvale Spain",
+    "Language": "es-ES",
+    "UserImg": "f2.png",
+    "Email": "isabella.navarro@avvale.com",
+    "Profile": {
+      "ManagedBy": "AlejandoBalde"
+    }
+  },
+  {
+    "UserName": "SofiaGonzalez",
+    "FullName": "Sofia Gonzalez",
+    "Roles": "Employee",
+    "CompanyName": "Avvale Spain",
+    "Language": "es-ES",
+    "UserImg": "f3.png",
+    "Email": "sofia.gonzales@avvale.com",
+    "Profile": {
+      "ManagedBy": "AlejandoBalde"
+    }
+  },
+  {
+    "UserName": "DonaldVance",
+    "FullName": "Donald Vance",
+    "Roles": "Director",
+    "CompanyName": "Avvale USA",
+    "Language": "us-EN",
+    "UserImg": "m9.png",
+    "Email": "marina.rossi@avvale.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "MattTurner",
+    "FullName": "Matt Turner",
+    "Roles": "Employee",
+    "CompanyName": "Avvale USA",
+    "Language": "us-EN",
+    "UserImg": "m10.png",
+    "Email": "matt.turner@avvale.com",
+    "Profile": {
+      "ManagedBy": ""
+    }
+  },
+  {
+    "UserName": "BarbaraTaylor",
+    "FullName": "Barbara Taylor",
+    "Roles": "Employee",
+    "CompanyName": "Avvale USA",
+    "Language": "us-EN",
+    "UserImg": "f4.png",
+    "Email": "barbara.taylor@avvale.com",
+    "Profile": {
+      "ManagedBy": "MattTurner"
+    }
+  },
+  {
+    "UserName": "WillSmith",
+    "FullName": "Will Smith",
+    "Roles": "Employee",
+    "CompanyName": "Avvale USA",
+    "Language": "us-EN",
+    "UserImg": "m11.png",
+    "Email": "will.smith@avvale.com",
+    "Profile": {
+      "ManagedBy": "MattTurner"
+    }
+  }
+]

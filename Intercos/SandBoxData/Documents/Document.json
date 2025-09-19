@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "1",
+    "FileName": "Manual Simplified.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": "2285353",
+    "CreatorString": "",
+    "CreatedOn": "2025-07-27T23:00Z",
+    "ModifiedOn": "2025-07-27T23:00Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "2",
+    "FileName": "FIPSAS - Migliori prestazioni 16-02-2025.xlsx",
+    "MimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "FileSize": "65826",
+    "CreatorString": "",
+    "CreatedOn": "2025-07-27T23:00Z",
+    "ModifiedOn": "2025-07-27T23:00Z",
+    "DocumentClass": "Document"
+  },
+  {
+    "Id": "3",
+    "FileName": "SIA21224_VESS.PDF",
+    "MimeType": "application/pdf",
+    "FileSize": "31356",
+    "CreatorString": "",
+    "CreatedOn": "2025-07-28T09:18Z",
+    "ModifiedOn": "2025-07-28T09:18Z",
+    "DocumentClass": "Document"
+  }
+]

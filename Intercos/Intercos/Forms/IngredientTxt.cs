@@ -1,0 +1,61 @@
+using YubikStudioCore;
+using YubikStudioCore.Documents;
+using YubikStudioCore.Attributes;
+using YubikStudioCore.Forms;
+using YubikStudioCore.Forms.Attributes;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using Intercos.WorkItems;
+using Intercos.BusinessObjects;
+
+namespace Intercos.Forms
+{
+  public class IngredientTxt : SubForm<Ingredient>
+  {
+public virtual TextField Description { get; set; }
+    public virtual BoLookupField<Material> Material { get; set; }
+    public virtual DecimalField Percentage { get; set; }
+    [Unbound]
+    public virtual TextField PercentageTxt { get; set; }
+    public virtual EnumField<FormulaPhase> Phase { get; set; }
+    public virtual DecimalField Quantity { get; set; }
+    [Unbound]
+    public virtual TextField QuantityTxt { get; set; }
+    [Unbound]
+    public virtual TextField UoM { get; set; }
+
+    public override void OnLoad()
+    {
+      base.OnLoad();
+      UoM.Value = Material.Value?.UoM ?? string.Empty;
+      PercentageTxt.Value = Percentage.Value.ToString();
+      QuantityTxt.Value = Quantity.Value.ToString();
+    }
+
+    public override void ConfigureFields()
+    {
+      base.ConfigureFields();
+      //Description.DependsOn = [nameof(Material)];
+      //Material.Required = true;
+      UoM.ColumnWidth = "10%";
+      Percentage.ColumnWidth = "10%";
+      Quantity.ColumnWidth = "10%";
+      Phase.ColumnWidth = "10%";
+      Material.ColumnWidth = "25%";
+
+      Material.PageSize = 100;
+      Material.OnGetOptions = () =>
+      {
+        return Context.BO.All<Material>(0, 100)
+        .OrderBy(m => m.Description)
+        .ToList();
+      };
+
+    }
+    public override FormPart GetLayout()
+    {
+      return Flat(Material, Description, PercentageTxt, Phase, QuantityTxt, UoM);
+    }
+  }
+
+}

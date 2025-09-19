@@ -1,0 +1,58 @@
+{
+  "Intercos.Workflows.Packaging.PackageDefinition": {
+    "wfName": "Intercos.Workflows.Packaging",
+    "id": "Intercos.Workflows.Packaging.PackageDefinition",
+    "x": 620.0876041663986,
+    "y": 131.61428424176162,
+    "fx": 620.0876041663986,
+    "fy": 131.61428424176162
+  },
+  "Intercos.Workflows.Packaging.PackageSourcing": {
+    "wfName": "Intercos.Workflows.Packaging",
+    "id": "Intercos.Workflows.Packaging.PackageSourcing",
+    "x": 633,
+    "y": 356,
+    "fx": 633,
+    "fy": 356
+  },
+  "Intercos.Workflows.Packaging.PackageSalesValidation": {
+    "wfName": "Intercos.Workflows.Packaging",
+    "id": "Intercos.Workflows.Packaging.PackageSalesValidation",
+    "x": 974.027320004629,
+    "y": 407.2301287031717,
+    "fx": 974.027320004629,
+    "fy": 407.2301287031717
+  },
+  "Intercos.Workflows.Packaging.Archive": {
+    "wfName": "Intercos.Workflows.Packaging",
+    "id": "Intercos.Workflows.Packaging.Archive",
+    "x": 1171.2493322497703,
+    "y": 337.6289029077759,
+    "fx": 1171.2493322497703,
+    "fy": 337.6289029077759
+  },
+  "Intercos.Workflows.Packaging.CreateItem": {
+    "wfName": "Intercos.Workflows.Packaging",
+    "id": "Intercos.Workflows.Packaging.CreateItem",
+    "x": 118.62199920018898,
+    "y": 96.04315827595859,
+    "fx": 118.62199920018898,
+    "fy": 96.04315827595859
+  },
+  "Intercos.Workflows.Packaging.PackageValidation": {
+    "wfName": "Intercos.Workflows.Packaging",
+    "id": "Intercos.Workflows.Packaging.PackageValidation",
+    "x": 902.833473619432,
+    "y": 489,
+    "fx": 902.833473619432,
+    "fy": 489
+  },
+  "Intercos.Workflows.Packaging.NewPackaging": {
+    "wfName": "Intercos.Workflows.Packaging",
+    "id": "Intercos.Workflows.Packaging.NewPackaging",
+    "x": 322,
+    "y": 265,
+    "fx": 322,
+    "fy": 265
+  }
+}

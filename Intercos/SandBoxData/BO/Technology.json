@@ -1,0 +1,130 @@
+[
+  {
+    "Id": "8",
+    "Code": null,
+    "Name": "Viscosimetro digitale",
+    "Category": "Controllo Qualità",
+    "Description": "Misura la viscosità di gel, creme e lozioni.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "9",
+    "Code": null,
+    "Name": "pH-metro automatico",
+    "Category": "Controllo Qualità",
+    "Description": "Verifica il pH del prodotto finito per garantire compatibilità cutanea.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "10",
+    "Code": null,
+    "Name": "Centrifuga da laboratorio",
+    "Category": "Controllo Qualità",
+    "Description": "Testa la stabilità delle emulsioni simulando l’invecchiamento accelerato.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "11",
+    "Code": null,
+    "Name": "Camera climatica",
+    "Category": "Controllo Qualità",
+    "Description": "Simula condizioni estreme per test di stabilità e shelf life.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "12",
+    "Code": null,
+    "Name": "Cabina a flusso laminare",
+    "Category": "Microbiologia",
+    "Description": "Crea un ambiente sterile per operazioni sensibili e pesate microbiologiche.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "13",
+    "Code": null,
+    "Name": "Autoclave da laboratorio",
+    "Category": "Microbiologia",
+    "Description": "Sterilizza attrezzature e materiali termoresistenti.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "14",
+    "Code": null,
+    "Name": "Incubatore microbiologico",
+    "Category": "Microbiologia",
+    "Description": "Coltiva batteri e muffe per test microbiologici su formule e bulk.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "15",
+    "Code": null,
+    "Name": "Bilancia analitica di precisione",
+    "Category": "Laboratorio",
+    "Description": "Permette pesate accurate anche per ingredienti in basse percentuali.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "16",
+    "Code": null,
+    "Name": "Pompa peristaltica",
+    "Category": "Trasferimento",
+    "Description": "Trasporta liquidi viscosi in modo preciso e senza contaminazioni.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "7",
+    "Code": null,
+    "Name": "Scambiatore di calore",
+    "Category": "Termica",
+    "Description": "Raffredda rapidamente il prodotto per evitarne la degradazione.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "5",
+    "Code": null,
+    "Name": "Mixer planetario",
+    "Category": "Miscelazione",
+    "Description": "Adatto per prodotti densi come fanghi o maschere.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "3",
+    "Code": null,
+    "Name": "Omogeneizzatore ad alta pressione",
+    "Category": "Miscelazione",
+    "Description": "Riduce le dimensioni delle particelle per creare emulsioni fini e stabili.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "4",
+    "Code": null,
+    "Name": "Agitatore ad ancora",
+    "Category": "Miscelazione",
+    "Description": "Mescola delicatamente prodotti viscosi come creme e lozioni.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "6",
+    "Code": null,
+    "Name": "Bagnomaria industriale",
+    "Category": "Termica",
+    "Description": "Riscalda uniformemente le fasi oleose o acquose durante la produzione.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "1",
+    "Code": null,
+    "Name": "New Technology",
+    "Category": "New",
+    "Description": "Nuova tecnologia. Richiede Selezione.",
+    "BusinessObjectType": "Technology"
+  },
+  {
+    "Id": "2",
+    "Code": null,
+    "Name": "Turboemulsore sottovuoto",
+    "Category": "Miscelazione",
+    "Description": "Emulsiona fasi acqua/olio sotto vuoto per ottenere creme stabili.",
+    "BusinessObjectType": "Technology"
+  }
+]

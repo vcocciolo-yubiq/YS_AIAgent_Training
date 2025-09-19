@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>YubikStudioCore</name>
+    </assembly>
+    <members>
+        <member name="P:YubikStudioCore.Action.Name">
+            <summary>
+            The Name of this Action.
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.Action.FullName">
+            <summary>
+            The FullName of the Action.
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.Action.ActionType">
+            <summary>
+            The Type of this Action
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.Action.Method">
+            <summary>
+            Provides information about the Method of this Action 
+            #Piero revision required
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.Action.ExplicitActionType">
+            <summary>
+            Provides information about the Method of this Action 
+            #Piero revision required
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.Action.#ctor(System.Reflection.MethodInfo)">
+            <summary>
+            Creates a new Action with the specified Method property.
+            </summary>
+            <param name="method"></param>
+        </member>
+        <member name="M:YubikStudioCore.Action.Clone">
+            <summary>
+            Creates a new Action with the same Method property.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:YubikStudioCore.Attributes.ActionAttribute">
+            <summary>
+            This attribute specifies this action's parameters.
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.Attributes.ActionAttribute.Confirm">
+            <summary>
+            Specify if this Action requires the User Confirmation (defalt is true)
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.Attributes.ActionAttribute.Order">
+            <summary>
+            Specifies the execution order of this Action
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:YubikStudioCore.WorkItem" -->
+        <member name="M:YubikStudioCore.WorkItem.#ctor">
+            <summary>
+            Creates a new Workitem object from his attachments and workflow history 
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.WorkItem.Id">
+            <summary>
+            The Id of the Item. 
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.WorkItem.Workflow">
+            <summary>
+            The WorkFlow this Item is used on.
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.WorkItem.Stage">
+            <summary>
+            The current stage of this Item
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.WorkItem.Attachments">
+            <summary>
+            This property repesents the accessor that provides all the attached Documents
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.WorkItem.Children">
+            <summary>
+            SubItems of this Item
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.WorkItem.History">
+            <summary>
+            The History of this Item
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.WorkItem.GetDynamicRoles">
+            <summary>
+            Gets the Dynamic Roles of this Item 
+            </summary>
+            <returns>An array of Users or DynamicRoles properties</returns>
+        </member>
+        <member name="M:YubikStudioCore.WorkItem.GetDynamicRole(System.String)">
+            <summary>
+            Gets the role object with the specified dynamic role name
+            </summary>
+            <param name="dynamicRole">The name of the DynamicRole you want to get</param>
+            <returns>A DynamicRole object</returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:YubikStudioCore.WorkItem.Deserialize(YubikStudioCore.ActionContext,System.Collections.Generic.Dictionary{System.String,System.String})" -->
+        <member name="M:YubikStudioCore.WorkItem.FromDictionary(YubikStudioCore.ActionContext,System.Collections.Generic.Dictionary{System.String,System.String})">
+            <summary>
+            Sets the Property of this WorkItem from a Dictionary&lt;string, string&gt;
+            </summary>
+            <param name="properties">A Dictionary&lt;string, string&gt; of the values to set</param>
+        </member>
+        <member name="M:YubikStudioCore.WorkItem.ToDictionary">
+            <summary>
+            Gets a Dictionary with the Properties of this WorkItem
+            </summary>
+            <returns>A Dictionary with the Properties of the Workitem</returns>
+        </member>
+        <member name="M:YubikStudioCore.WorkItem.op_Equality(YubikStudioCore.WorkItem,YubikStudioCore.WorkItem)">
+            <summary>
+            Compare two WorkItems
+            </summary>
+            <param name="a">The first WorkItem to be compared</param>
+            <param name="b">The second WorkItem to be compared</param>
+            <returns>True if the Ids of the WorkItems match</returns>
+        </member>
+        <member name="M:YubikStudioCore.WorkItem.op_Inequality(YubikStudioCore.WorkItem,YubikStudioCore.WorkItem)">
+            <summary>
+            Compare two WorkItems
+            </summary>
+            <param name="a">The first WorkItem to be compared</param>
+            <param name="b">The second WorkItem to be compared</param>
+            <returns>True if the Ids of the WorkItems don't match</returns>
+        </member>
+        <member name="M:YubikStudioCore.WorkItem.Equals(System.Object)">
+            <summary>
+            Compare two WorkItems
+            </summary>
+            <param name="a">The first WorkItem to be compared</param>
+            <param name="b">The second WorkItem to be compared</param>
+            <returns>True if the Ids of the WorkItems match</returns>
+        </member>
+        <member name="M:YubikStudioCore.WorkItem.GetHashCode">
+            <summary>
+            Returns the HashCode of the Id of this WorkItem in this istance
+            </summary>
+            <returns>The HashCode integer</returns>
+        </member>
+        <member name="M:YubikStudioCore.WorkItem.ToString">
+            <summary>
+            Strings every Property of this WorkItem
+            </summary>
+            <returns>A string.</returns>
+        </member>
+        <member name="T:YubikStudioCore.BusinessObjects.BusinessObject">
+            <summary>
+            The main class to be extended to create a new Business Object.
+            </summary>
+            <example>
+            This is how extend BusinessObject class to create a Business Object
+            <code>
+            public class MyBO : BusinessObject
+            {
+                public string Id { get; set; }
+                
+                // All the other properties 
+                
+                public override string GetId()
+                {
+                    return Id;
+                }
+            
+                public override void SetId(string id)
+                {
+                    Id = id;
+                }
+            }
+            </code>
+            </example>
+        </member>
+        <member name="P:YubikStudioCore.BusinessObjects.BusinessObject.AsLookupValue">
+            <summary>
+            Gets the Lookup string of this object as it will look in a dropdown curtain.
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.BusinessObjects.BusinessObject.GetId">
+            <summary>
+            Gets the Id of the Object.
+            </summary>
+            <returns>The Id String</returns>
+        </member>
+        <member name="M:YubikStudioCore.BusinessObjects.BusinessObject.SetId(System.String)">
+            <summary>
+            Sets the Id of the Object
+            </summary>
+            <param name="id">The new Id String value</param>
+        </member>
+        <member name="M:YubikStudioCore.BusinessObjects.BusinessObject.Deserialize(YubikStudioCore.ActionContext,System.Collections.Generic.Dictionary{System.String,System.String})">
+            <summary>
+            Creates a Business Object from a Dictionary of serialized values.
+            </summary>
+            <param name="serialized">The Dictionary&lt;string, string&gt;</param>
+            <returns>A BusinessObject object.</returns>
+        </member>
+        <member name="M:YubikStudioCore.BusinessObjects.BusinessObject.Resolve(YubikStudioCore.ActionContext)">
+            <summary>
+            This method is not intended to be used by user code
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.BusinessObjects.BusinessObject.ToDictionary">
+            <summary>
+            Returns a Dictionary in wich every key is the property name and every value is the stringed property value of the object.
+            </summary>
+            <returns>A dictionary resume of the object.</returns>
+        </member>
+        <member name="M:YubikStudioCore.BusinessObjects.BusinessObject.ToString">
+            <summary>
+            Strings the value of the Business Object. If it has properties, returns a list of them joined in a string. Otherwise will return the item Id.
+            </summary>
+            <returns>A string</returns>
+        </member>
+        <member name="T:YubikStudioCore.BusinessObjects.IBusinessObject">
+            <summary>
+            The Business Object Interface 
+            </summary>
+        </member>
+        <member name="T:YubikStudioCore.Documents.DocumentsProvider">
+            <summary>
+            The accessor class that manages all kind of attachments
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:YubikStudioCore.Documents.DocumentsProvider.All``1(System.Int32,System.Int32)" -->
+        <member name="M:YubikStudioCore.Documents.DocumentsProvider.Delete(System.String)">
+            <summary>
+            Deletes the attachment with the provided id string.
+            </summary>
+            <param name="id"></param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:YubikStudioCore.Documents.DocumentsProvider.GetById``1(System.String)" -->
+        <member name="T:YubikStudioCore.Documents.FilteredDocumentsProvider">
+            <summary>
+            The FilteredDocumentsProvider is a wrapper class that stores all the Attachments Ids, checking out whether a new attachments file exists already to avoid duplicating. 
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:YubikStudioCore.Documents.FilteredDocumentsProvider.#ctor(System.String[],YubikStudioCore.Documents.DocumentsProvider)" -->
+        <member name="M:YubikStudioCore.Documents.FilteredDocumentsProvider.All``1(System.Int32,System.Int32)">
+            <summary>
+            Returns all the Attachments from the DocumentsProvider of the provided Type
+            </summary>
+            <typeparam name="T">The required type of the attached Document</typeparam>
+            <param name="page"></param>
+            <param name="pageCount"></param>
+            <returns></returns>
+        </member>
+        <member name="T:YubikStudioCore.DynamicRole">
+            <summary>
+            The Dynamic Role Object, wich contains an array of Users or Roles wich have the named Role.
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.DynamicRole.FromUsers(System.String[])">
+            <summary>
+            Creates a Dynamic Role from a list of User to include into.
+            </summary>
+            <param name="users">The Users to put into the role.</param>
+            <returns>A DynamicRole Object</returns>
+        </member>
+        <member name="M:YubikStudioCore.DynamicRole.FromRoles(System.String[])">
+            <summary>
+            Creates a Dynamic Role from a list of Roles to include into.
+            </summary>
+            <param name="roles">The Roles to include into.</param>
+            <returns>A DynamicRole Object</returns>
+        </member>
+        <member name="T:YubikStudioCore.HistoryLine">
+            <summary>
+            A single Line of the History of the WorkItem.
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.HistoryLine.Username">
+            <summary>
+            The User who made the Action in the recorded History Line
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.HistoryLine.Message">
+            <summary>
+            The Text Value of this History Line
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.HistoryLine.Timestamp">
+            <summary>
+            The recorded time of the action
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.ActionContext.User">
+            <summary>
+            The User Currently Executing the Action
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.ActionContext.Item">
+            <summary>
+            The Workitem for which the action is beeing executed.
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.ActionContext.BO">
+            <summary>
+            The property of the context that provides all Business Objects
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.ActionContext.DOCS">
+            <summary>
+            The entry point to access all Documents. If you need workitem related Documents use <see cref="P:YubikStudioCore.ActionContext.Item"/>.Attachments instead
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.PropertiesProvider.ToDictionary">
+            <summary>
+            Returns a Dictionary in wich every key is the property name and every value is the stringed property value of the object.
+            </summary>
+            <returns>A dictionary resume of the object.</returns>
+        </member>
+        <member name="M:YubikStudioCore.PropertiesProvider.SaveReferences(YubikStudioCore.ActionContext)">
+            <summary>
+            Saves and actualizes all the references of this WorkItem in the ActionContext. Not intended to be used by project code
+            </summary>
+            <param name="ctx">The ActionContext in wich the references are.</param>
+        </member>
+        <member name="T:YubikStudioCore.RoleBase">
+            <summary>
+            The base class used by StaticRole and DynamicRole. Not meant to be used in the usual code
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.RoleBase.Name">
+            <summary>
+            Name of the role
+            </summary>
+        </member>
+        <member name="T:YubikStudioCore.StaticRole">
+            <summary>
+            Extend this class to create a new static role.
+            </summary>
+        </member>
+        <member name="T:YubikStudioCore.Admin">
+            <summary>
+            Premade static role for general purpose
+            </summary>
+        </member>
+        <member name="T:YubikStudioCore.Everybody">
+            <summary>
+            Premade static role for general purpose
+            </summary>
+        </member>
+        <member name="T:YubikStudioCore.SandboxConfig">
+            <summary>
+            This configuration files contains all the default mockup data to be shown in a newly started SandBox environtment. 
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.SandboxConfig.DefaultUsers">
+            <summary>
+            Define the default Users and Roles for the Sandbox environment.
+            </summary>
+            <returns></returns>
+            <example>
+            This shows how to override this method in a derived class.
+            <code>
+            public override IEnumerable&lt;User&gt; DefaultUsers()
+            {
+                yield return new User() { UserName = "System Engine", Roles = new[] { "Engine" }, CompanyName = "Enel Energia SPA", Language = "it-IT", UserImg = "se.png" };
+            }
+            </code>
+            </example>
+        </member>
+        <member name="M:YubikStudioCore.SandboxConfig.DefaultBusinessObjects">
+            <summary>
+            Define the default Business Objects to be used in Sandbox
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:YubikStudioCore.SandboxConfig.DefaultItems">
+            <summary>
+            Define the Items to be shown in the SandBox environment as previous existing WorkItems. Deleting Sandbox Data won't delete those Items.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:YubikStudioCore.SandboxConfig.AllowWsBusinessObjectProvider">
+            <summary>
+            Specify if you want to connect to the actual database or use the mockup data from the SandBoxConfig.
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.SandboxConfig.AllowCustomBusinessObjectProvider">
+            <summary>
+            Specify if you want to connect to the actual database or use the mockup data from the SandBoxConfig.
+            </summary>
+        </member>
+        <member name="P:YubikStudioCore.SandboxConfig.AutoSave">
+            <summary>
+            Specify if you want to automatically save your changes into the SandBoxData.
+            </summary>
+        </member>
+        <member name="T:YubikStudioCore.StageBase">
+            <summary>
+            Utility class extended from RuntimeEntity. This class is not intended to be explicitly used into a project. Use "Stage" instead.
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.StageBase.OnEnter">
+            <summary>
+            Called when the Stage is entered first
+            </summary>
+        </member>
+        <member name="M:YubikStudioCore.StageBase.OnExit">
+            <summary>
+            Called when the Stage is exited
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:YubikStudioCore.Workflow`1" -->
+        <!-- Badly formed XML comment ignored for member "T:YubikStudioCore.Workflow`1.Stage" -->
+        <member name="M:YubikStudioCore.Workflow`1.Stage.ToString">
+            <summary>
+            Strings the Name of this stage.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:YubikStudioCore.Workflow`1.#ctor">
+            <summary>
+            The WorkFlow method constructor is not intended to be used in a common project.
+            </summary>
+        </member>
+        <member name="T:YubikStudioCore.WorkflowBase">
+            <summary>
+            Provides the base class for a Workflow type. This class is not intended to be explicitly used into a project. Use Workflow&lt;T&gt; instead
+            </summary>
+        </member>
+    </members>
+</doc>
